@@ -27,7 +27,13 @@ SESSION.headers.update(
     }
 )
 MAX_WORKERS = 8
-IDENTIFYING_QUESTION = "What NASA Space Place topic is shown in this image?"
+MIN_CONTEXT_LENGTH = 60
+QUESTION_TEMPLATES = (
+    "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: {clue}",
+    "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: {clue}",
+    "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? {clue}",
+    "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: {clue}",
+)
 
 
 def clean_text(text: str) -> str:
@@ -107,6 +113,86 @@ def should_skip_title(title: str) -> bool:
 
 def strip_leading_article(text: str) -> str:
     return re.sub(r"^(a|an|the)\s+", "", text, flags=re.IGNORECASE).strip()
+
+
+def split_sentences(text: str) -> list[str]:
+    return [segment.strip() for segment in re.split(r"(?<=[.!?])\s+", clean_text(text)) if segment.strip()]
+
+
+def normalize_tokens(text: str) -> set[str]:
+    return {
+        token
+        for token in re.findall(r"[a-z0-9]+", text.lower())
+        if len(token) > 2
+    }
+
+
+def topic_from_url(url: str) -> str | None:
+    path = urlparse(url).path.strip("/")
+    parts = [part for part in path.split("/") if part and part != "en"]
+    if not parts:
+        return None
+
+    slug = parts[-1]
+    words = [word.upper() if word in {"nasa", "iss"} else word.capitalize() for word in slug.split("-") if word]
+    return " ".join(words) if words else None
+
+
+def choose_answer(title: str, article_url: str) -> str | None:
+    title_answer = derive_answer_from_title(title)
+    url_answer = topic_from_url(article_url)
+
+    if not title_answer:
+        return url_answer
+    if not url_answer:
+        return title_answer
+
+    if normalize_tokens(title_answer) & normalize_tokens(url_answer):
+        return title_answer
+
+    # Fall back to the URL slug when the title looks like a teaser instead of a topic label.
+    return url_answer
+
+
+def stable_index(*parts: str, count: int) -> int:
+    return sum(ord(char) for part in parts for char in part) % count
+
+
+def answer_aliases(answer: str) -> list[str]:
+    aliases = {clean_text(answer)}
+    aliases = {alias for alias in aliases if alias}
+    return sorted(aliases, key=len, reverse=True)
+
+
+def redact_answer_from_text(text: str, answer: str) -> str:
+    redacted = clean_text(text)
+
+    for alias in answer_aliases(answer):
+        pattern = re.compile(rf"(?<![A-Za-z0-9]){re.escape(alias)}(?![A-Za-z0-9])", flags=re.IGNORECASE)
+        redacted = pattern.sub("this topic", redacted)
+
+    return clean_text(redacted)
+
+
+def build_question(answer: str, context: str | None) -> str:
+    fallback_clues = []
+
+    for sentence in split_sentences(context or ""):
+        clue = redact_answer_from_text(sentence, answer)
+        if len(clue) >= 45:
+            fallback_clues.append(clue)
+            if clue != clean_text(sentence):
+                template = QUESTION_TEMPLATES[stable_index(answer, clue, count=len(QUESTION_TEMPLATES))]
+                return template.format(clue=clue)
+
+    if fallback_clues:
+        clue = max(fallback_clues, key=len)
+        template = QUESTION_TEMPLATES[stable_index(answer, clue, count=len(QUESTION_TEMPLATES))]
+        return template.format(clue=clue)
+
+    return (
+        "Which NASA Space Place topic can you infer only after combining the image with the article text?"
+    )
 
 
 def derive_answer_from_title(title: str) -> str | None:
@@ -251,7 +337,7 @@ def parse_article(article_url: str, item_id: str) -> dict | None:
     if not title:
         return None
 
-    answer = derive_answer_from_title(title)
+    answer = choose_answer(title, article_url)
     if not answer:
         return None
 
@@ -267,9 +353,12 @@ def parse_article(article_url: str, item_id: str) -> dict | None:
             first_p = txt
             break
 
+    if not first_p or len(first_p) < MIN_CONTEXT_LENGTH:
+        return None
+
     return {
         "id": item_id,
-        "question": IDENTIFYING_QUESTION,
+        "question": build_question(answer, first_p),
         "answer": answer,
         "source": "nasa_space_place",
         "source_url": article_url,

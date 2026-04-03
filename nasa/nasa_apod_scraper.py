@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import time
 from datetime import date, datetime, timedelta
 
@@ -18,10 +19,16 @@ END_DATE = date.today().isoformat()
 MAX_RETRIES = 4
 REQUEST_DELAY_SECONDS = 0.5
 RETRY_STATUS_CODES = {429, 500, 502, 503, 504}
-IDENTIFYING_QUESTION = "What astronomical object or phenomenon is shown in this NASA image?"
 DATE_CHUNK_DAYS = 120
 MAX_RETRY_WAIT_SECONDS = 8
 DEMO_KEY_CHUNK_DAYS = 7
+MIN_CONTEXT_LENGTH = 80
+QUESTION_TEMPLATES = (
+    "Which named astronomical object, event, or phenomenon is the strongest inference when you combine the image with this APOD clue: {clue}",
+    "The image and the APOD explanation refer to the same astronomical target. Which object, event, or phenomenon best explains both? Clue: {clue}",
+    "If you reconcile the visual details with this APOD clue, which astronomical name is the best fit? {clue}",
+    "Which APOD answer can you defend only after using both the image and this redacted clue: {clue}",
+)
 
 # Reuse one session so headers and connection pooling stay consistent.
 SESSION = requests.Session()
@@ -75,6 +82,61 @@ def clean_text(text: str | None) -> str:
     return " ".join((text or "").split()).strip()
 
 
+def split_sentences(text: str) -> list[str]:
+    return [segment.strip() for segment in re.split(r"(?<=[.!?])\s+", clean_text(text)) if segment.strip()]
+
+
+def normalize_for_match(text: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
+
+
+def stable_index(*parts: str, count: int) -> int:
+    return sum(ord(char) for part in parts for char in part) % count
+
+
+def answer_aliases(answer: str) -> list[str]:
+    aliases = {clean_text(answer)}
+
+    if ":" in answer:
+        left, right = answer.split(":", 1)
+        aliases.add(clean_text(left))
+        aliases.add(clean_text(right))
+
+    aliases = {alias for alias in aliases if alias}
+    return sorted(aliases, key=len, reverse=True)
+
+
+def redact_answer_from_text(text: str, answer: str) -> str:
+    redacted = clean_text(text)
+
+    for alias in answer_aliases(answer):
+        pattern = re.compile(rf"(?<![A-Za-z0-9]){re.escape(alias)}(?![A-Za-z0-9])", flags=re.IGNORECASE)
+        redacted = pattern.sub("this target", redacted)
+
+    return clean_text(redacted)
+
+
+def build_question(answer: str, context: str | None) -> str:
+    fallback_clues = []
+
+    for sentence in split_sentences(context or ""):
+        clue = redact_answer_from_text(sentence, answer)
+        if len(clue) >= 45:
+            fallback_clues.append(clue)
+            if normalize_for_match(clue) != normalize_for_match(sentence):
+                template = QUESTION_TEMPLATES[stable_index(answer, clue, count=len(QUESTION_TEMPLATES))]
+                return template.format(clue=clue)
+
+    if fallback_clues:
+        clue = max(fallback_clues, key=len)
+        template = QUESTION_TEMPLATES[stable_index(answer, clue, count=len(QUESTION_TEMPLATES))]
+        return template.format(clue=clue)
+
+    return (
+        "Which named astronomical object, event, or phenomenon can you infer only after combining the image with the APOD explanation?"
+    )
+
+
 def parse_iso_date(value: str, label: str) -> date:
     try:
         return datetime.strptime(value, "%Y-%m-%d").date()
@@ -107,22 +169,26 @@ def is_valid_item(item: dict) -> bool:
     if not lower.endswith((".jpg", ".jpeg", ".png", ".webp")):
         return False
 
-    return bool(clean_text(item.get("title")))
+    title = clean_text(item.get("title"))
+    context = clean_text(item.get("explanation"))
+    return bool(title) and len(context) >= MIN_CONTEXT_LENGTH
 
 
 def build_record(item: dict, index: int) -> dict:
     image_url = item.get("hdurl") or item.get("url")
+    answer = clean_text(item.get("title"))
+    context = clean_text(item.get("explanation"))
 
     return {
         "id": f"nasa_apod_{index:03d}",
-        "question": IDENTIFYING_QUESTION,
-        "answer": clean_text(item.get("title")),
+        "question": build_question(answer, context),
+        "answer": answer,
         "source": "nasa_apod",
         "source_url": item.get("url"),
         "image_url": image_url,
         "date": item.get("date"),
         "copyright": clean_text(item.get("copyright")) or None,
-        "context": clean_text(item.get("explanation")),
+        "context": context,
     }
 
 

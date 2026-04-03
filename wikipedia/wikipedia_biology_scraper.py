@@ -1,6 +1,8 @@
 import json
+import re
 import os
 import time
+from html import unescape
 from urllib.parse import urlparse
 
 import requests
@@ -38,22 +40,40 @@ PAGES = [
 OUTPUT_JSON = "dataset/wikipedia_biology.json"
 
 
-QUESTION_TEMPLATES = {
-    "Cell_(biology)": "Identify the biological structure shown in the image.",
-    "Mitochondrion": "Which organelle is shown in the image?",
-    "DNA": "What biological molecule is shown in the image?",
-    "Neuron": "What type of cell is shown in the image?",
-    "Photosynthesis": "What biological process is illustrated in the image?"
+PAGE_CONFIG = {
+    "Cell_(biology)": {
+        "answer": "Cell",
+        "aliases": ("cell", "cells"),
+        "keywords": ("cell", "cells", "cell membrane", "prokaryote", "eukaryote", "plasma membrane"),
+    },
+    "Mitochondrion": {
+        "answer": "Mitochondrion",
+        "aliases": ("mitochondrion", "mitochondria"),
+        "keywords": ("mitochond", "cristae", "organelle"),
+    },
+    "DNA": {
+        "answer": "DNA",
+        "aliases": ("dna", "deoxyribonucleic acid"),
+        "keywords": ("dna", "double helix", "nucleotide", "replication"),
+    },
+    "Neuron": {
+        "answer": "Neuron",
+        "aliases": ("neuron", "neurons"),
+        "keywords": ("neuron", "neuron ", "neuronal", "axon", "dendrite", "synapse"),
+    },
+    "Photosynthesis": {
+        "answer": "Photosynthesis",
+        "aliases": ("photosynthesis", "photosynthetic"),
+        "keywords": ("photosynthesis", "chloroplast", "light-dependent", "calvin cycle", "carbon fixation"),
+    },
 }
 
-
-ANSWER_MAP = {
-    "Cell_(biology)": "Cell",
-    "Mitochondrion": "Mitochondrion",
-    "DNA": "DNA",
-    "Neuron": "Neuron",
-    "Photosynthesis": "Photosynthesis"
-}
+QUESTION_TEMPLATES = (
+    "Which biology topic becomes the strongest inference when you combine the image with this Wikipedia caption clue: {clue}",
+    "The image and the caption point to the same biology concept. Which topic best explains both pieces of evidence? Clue: {clue}",
+    "If you had to sort this image onto one biology page using the caption as evidence, which topic would you choose? Clue: {clue}",
+    "Which Wikipedia biology answer can you justify only after reconciling the image with this redacted caption clue: {clue}",
+)
 
 
 def make_request(url: str, *, params=None, timeout: int = 20, stream: bool = False, headers=None) -> Response:
@@ -150,7 +170,8 @@ def get_image_infos(image_titles: list[str]) -> dict[str, dict]:
                 "url": info.get("thumburl") or info.get("url"),
                 "original_url": info.get("url"),
                 "caption": metadata.get("ImageDescription", {}).get("value", ""),
-                "license": metadata.get("LicenseShortName", {}).get("value", "")
+                "license": metadata.get("LicenseShortName", {}).get("value", ""),
+                "title": image_title,
             }
 
     return image_info_by_title
@@ -173,6 +194,46 @@ def is_valid_image(url: str) -> bool:
         return False
 
     return True
+
+
+def clean_caption(text: str) -> str:
+    text = re.sub(r"<[^>]+>", " ", text or "")
+    return " ".join(unescape(text).split()).strip()
+
+
+def stable_index(*parts: str, count: int) -> int:
+    return sum(ord(char) for part in parts for char in part) % count
+
+
+def answer_aliases(page: str) -> list[str]:
+    aliases = {clean_caption(alias) for alias in PAGE_CONFIG[page].get("aliases", ())}
+    aliases.add(clean_caption(PAGE_CONFIG[page]["answer"]))
+    aliases = {alias for alias in aliases if alias}
+    return sorted(aliases, key=len, reverse=True)
+
+
+def redact_answer_from_text(text: str, page: str) -> str:
+    redacted = clean_caption(text)
+
+    for alias in answer_aliases(page):
+        pattern = re.compile(rf"(?<![A-Za-z0-9]){re.escape(alias)}(?![A-Za-z0-9])", flags=re.IGNORECASE)
+        redacted = pattern.sub("this topic", redacted)
+
+    return clean_caption(redacted)
+
+
+def is_relevant_to_page(page: str, caption: str, image_title: str) -> bool:
+    config = PAGE_CONFIG[page]
+    combined = f"{clean_caption(caption)} {clean_caption(image_title)}".lower()
+    return any(keyword in combined for keyword in config["keywords"])
+
+
+def build_question(page: str, caption: str) -> str:
+    clue = redact_answer_from_text(caption, page)
+    if len(clue) >= 30:
+        template = QUESTION_TEMPLATES[stable_index(page, clue, count=len(QUESTION_TEMPLATES))]
+        return template.format(clue=clue)
+    return "Which biology topic can you infer only after combining the image with the Wikipedia caption?"
 
 
 def main():
@@ -201,18 +262,21 @@ def main():
 
             if not info or not is_valid_image(info["url"]):
                 continue
+            if not is_relevant_to_page(page, info["caption"], image_title):
+                continue
 
             item_id = f"wiki_bio_{counter:03d}"
+            caption = clean_caption(info["caption"])
 
             dataset.append({
                 "id": item_id,
-                "question": QUESTION_TEMPLATES[page],
-                "answer": ANSWER_MAP[page],
+                "question": build_question(page, caption),
+                "answer": PAGE_CONFIG[page]["answer"],
                 "source": "wikipedia",
                 "source_page": page,
                 "image_url": info["url"],
                 "original_image_url": info["original_url"],
-                "caption": info["caption"],
+                "caption": caption,
                 "license": info["license"]
             })
 

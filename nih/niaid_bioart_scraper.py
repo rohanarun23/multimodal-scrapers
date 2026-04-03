@@ -23,8 +23,43 @@ REQUEST_DELAY_SECONDS = 0.05
 RETRY_STATUS_CODES = {429, 500, 502, 503, 504}
 MAX_RETRY_WAIT_SECONDS = 1.0
 
-IDENTIFYING_QUESTION = "What biomedical subject is shown in this NIH BioArt image?"
 CONTACT_EMAIL = os.getenv("SCRAPER_CONTACT_EMAIL", "your-email@example.com").strip() or "your-email@example.com"
+MIN_CONTEXT_LENGTH = 40
+BIOMEDICAL_SIGNAL_TERMS = (
+    "cell",
+    "protein",
+    "virus",
+    "viral",
+    "bacteria",
+    "bacterial",
+    "immune",
+    "antibody",
+    "dna",
+    "rna",
+    "gene",
+    "genetic",
+    "pathogen",
+    "disease",
+    "molecule",
+    "molecular",
+    "organ",
+    "tissue",
+    "lab",
+    "microscope",
+    "therapeutic",
+    "therapeutics",
+    "parasite",
+    "fung",
+    "vaccine",
+    "plasma",
+    "lymph",
+)
+QUESTION_TEMPLATES = (
+    "Which NIAID BioArt concept is the strongest inference when you combine the image with this catalog clue: {clue}",
+    "The visual structure and the catalog text point to the same biomedical concept. Which title best explains both? Clue: {clue}",
+    "If you reconcile the image with this redacted BioArt clue, which named biomedical structure or concept is the best fit? {clue}",
+    "Which BioArt answer can you defend only after using both the image and this catalog clue: {clue}",
+)
 
 # Reuse one session so request headers and retries stay consistent.
 SESSION = requests.Session()
@@ -77,6 +112,10 @@ def make_request(url: str, *, timeout: int = 30) -> Response:
 
 def clean_text(text: Any) -> str:
     return " ".join(str(text or "").split()).strip()
+
+
+def stable_index(*parts: str, count: int) -> int:
+    return sum(ord(char) for part in parts for char in part) % count
 
 
 def fetch_html(url: str) -> BeautifulSoup | None:
@@ -289,13 +328,65 @@ def build_context(soup: BeautifulSoup) -> str | None:
     return " | ".join(parts) if parts else None
 
 
+def has_biomedical_signal(title: str | None, category: str | None, context: str | None) -> bool:
+    combined = clean_text(" ".join(part for part in (title, category, context) if part)).lower()
+    return any(term in combined for term in BIOMEDICAL_SIGNAL_TERMS)
+
+
+def answer_aliases(answer: str) -> list[str]:
+    aliases = {clean_text(answer)}
+    aliases = {alias for alias in aliases if alias}
+    return sorted(aliases, key=len, reverse=True)
+
+
+def redact_answer_from_text(text: str, answer: str) -> str:
+    redacted = clean_text(text)
+
+    for alias in answer_aliases(answer):
+        pattern = re.compile(rf"(?<![A-Za-z0-9]){re.escape(alias)}(?![A-Za-z0-9])", flags=re.IGNORECASE)
+        redacted = pattern.sub("this concept", redacted)
+
+    return clean_text(redacted)
+
+
+def build_question(answer: str, context: str | None) -> str:
+    segments = [clean_text(segment) for segment in clean_text(context).split("|") if clean_text(segment)]
+    clue = ""
+    ordered_segments = []
+
+    if len(segments) >= 2:
+        ordered_segments.append(segments[1])
+    if len(segments) >= 3:
+        ordered_segments.append(segments[2])
+    if segments:
+        ordered_segments.append(segments[0])
+
+    for index, segment in enumerate(ordered_segments):
+        candidate = redact_answer_from_text(segment, answer)
+        min_length = 20 if index == 0 else MIN_CONTEXT_LENGTH
+        if len(candidate) >= min_length:
+            clue = candidate
+            break
+
+    if not clue and context:
+        clue = redact_answer_from_text(context, answer)
+
+    if len(clue) >= MIN_CONTEXT_LENGTH:
+        template = QUESTION_TEMPLATES[stable_index(answer, clue, count=len(QUESTION_TEMPLATES))]
+        return template.format(clue=clue)
+
+    return "Which NIAID BioArt concept can you infer only after combining the image with the catalog text?"
+
+
 def build_record(entry_id: int, soup: BeautifulSoup, index: int) -> dict:
     source_url = f"{BASE_URL}/bioart/{entry_id}"
+    title = extract_title(soup)
+    context = build_context(soup)
 
     return {
         "id": f"niaid_bioart_{index:03d}",
-        "question": IDENTIFYING_QUESTION,
-        "answer": extract_title(soup),
+        "question": build_question(title, context),
+        "answer": title,
         "source": "niaid_bioart",
         "source_url": source_url,
         "entry_id": f"BIOART-{entry_id:06d}",
@@ -303,7 +394,7 @@ def build_record(entry_id: int, soup: BeautifulSoup, index: int) -> dict:
         "license": extract_license(soup),
         "category": extract_category(soup),
         "credit": extract_credit(soup),
-        "context": build_context(soup),
+        "context": context,
     }
 
 
@@ -335,6 +426,9 @@ def main():
             continue
 
         item = build_record(entry_id, soup, len(dataset) + 1)
+        if not has_biomedical_signal(item["answer"], item["category"], item["context"]):
+            consecutive_misses = 0
+            continue
         if item["image_url"] in seen_images:
             consecutive_misses = 0
             continue
