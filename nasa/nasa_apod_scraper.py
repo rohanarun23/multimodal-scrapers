@@ -1,16 +1,25 @@
 import json
 import os
 import re
+import sys
 import time
 from datetime import date, datetime, timedelta
+from pathlib import Path
 
 import requests
 from requests import Response
+
+ROOT_DIR = Path(__file__).resolve().parents[1]
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
+from asset_localization import download_asset
 
 
 # API endpoint and output path for the generated dataset.
 API_URL = "https://api.nasa.gov/planetary/apod"
 OUTPUT_JSON = "dataset/nasa_apod_questions.json"
+IMAGES_DIR = ROOT_DIR / "dataset/images/nasa"
 API_KEY = os.getenv("NASA_API_KEY", "DEMO_KEY").strip() or "DEMO_KEY"
 CONTACT_EMAIL = os.getenv("SCRAPER_CONTACT_EMAIL", "your-email@example.com").strip() or "your-email@example.com"
 START_DATE = "2024-01-01"
@@ -235,6 +244,16 @@ def main():
             continue
 
         dataset.append(build_record(item, len(dataset) + 1))
+
+    for item in dataset:
+        remote_image_url = item.get("image_url")
+        if not remote_image_url:
+            continue
+
+        item["source_image_url"] = remote_image_url
+        local_image_path = download_asset(remote_image_url, IMAGES_DIR, item["id"])
+        if local_image_path:
+            item["image_url"] = local_image_path
 
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
         json.dump(dataset, f, indent=2, ensure_ascii=False)

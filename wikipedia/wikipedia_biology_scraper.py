@@ -1,12 +1,20 @@
 import json
 import re
 import os
+import sys
 import time
 from html import unescape
+from pathlib import Path
 from urllib.parse import urlparse
 
 import requests
 from requests import Response
+
+ROOT_DIR = Path(__file__).resolve().parents[1]
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
+from asset_localization import download_asset
 
 
 # Reuse one session so headers and connection pooling stay consistent.
@@ -38,6 +46,7 @@ PAGES = [
 ]
 
 OUTPUT_JSON = "dataset/wikipedia_biology.json"
+IMAGES_DIR = ROOT_DIR / "dataset/images/wikipedia"
 
 
 PAGE_CONFIG = {
@@ -282,6 +291,16 @@ def main():
 
             print(f"Saved {item_id}")
             counter += 1
+
+    for item in dataset:
+        remote_image_url = item.get("image_url")
+        if not remote_image_url:
+            continue
+
+        item["source_image_url"] = remote_image_url
+        local_image_path = download_asset(remote_image_url, IMAGES_DIR, item["id"])
+        if local_image_path:
+            item["image_url"] = local_image_path
 
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
         json.dump(dataset, f, indent=2, ensure_ascii=False)

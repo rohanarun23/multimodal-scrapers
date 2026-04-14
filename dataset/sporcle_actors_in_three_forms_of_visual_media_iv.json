@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_001.jpg",
+        "answer": "John Goodman",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/EsWumZz.jpeg"
+        },
+        "context": "The Big Lebowski|The Conners|Wild Wild Life (Talking Heads)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/2aa9cdf0bba242ef08b584bc904f5157"
+    },
+    {
+        "id": 2,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_002.jpg",
+        "answer": "Kristen Bell",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/RltWduG.jpeg"
+        },
+        "context": "Forgetting Sarah Marshall|The Good Place|Santa's Coming for Us (Sia)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/9cd5442aecc5346fd852cd565e11bff4"
+    },
+    {
+        "id": 3,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_003.jpg",
+        "answer": "Seth Rogen",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/Q14N7rA.jpeg"
+        },
+        "context": "Knocked Up|Freaks & Geeks|Make Some Noise (Beastie Boys)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/a0e73f986446f8da01d4f9c578be3312"
+    },
+    {
+        "id": 4,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_004.jpg",
+        "answer": "Sarah Michelle Gellar",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/lRsA60e.jpeg"
+        },
+        "context": "Cruel Intentions|Buffy the Vampire Slayer|Sour Girl (Stone Temple Pilots)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/0748de694b7323f94a4a433f1d70b214"
+    },
+    {
+        "id": 5,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_005.jpg",
+        "answer": "John Travolta",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/BtbA8sA.jpeg"
+        },
+        "context": "Pulp Fiction|Welcome Back, Kotter|3 to Tango (Pitbull)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/781408783d2c86c4aa7ff98c6265e931"
+    },
+    {
+        "id": 6,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_006.jpg",
+        "answer": "Emma Stone",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/9MRolzj.jpeg"
+        },
+        "context": "La La Land|The Curse|Who Cares (Paul McCartney)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/2b9b5215a302eb6c9b9c5c0cdf88e1a0"
+    },
+    {
+        "id": 7,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_007.jpg",
+        "answer": "Ray Liotta",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/Bvm804Y.jpeg"
+        },
+        "context": "GoodFellas|Shades of Blue|Lovers on the Sun (David Guetta)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/9be44fe31c7fbe08b2790ebe17a130c1"
+    },
+    {
+        "id": 8,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_008.jpg",
+        "answer": "Winona Ryder",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/MOE3JQU.jpeg"
+        },
+        "context": "Beetlejuice|Stranger Things|Here with Me (The Killers)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/109974acdd8d502a89e929a5299bb4ab"
+    },
+    {
+        "id": 9,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_009.jpg",
+        "answer": "Ed Asner",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/OtjPOLG.jpeg"
+        },
+        "context": "Hard Rain|Lou Grant|Someone's Chelsea (Reba McEntire)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/3022750a8dd26dd44ded7a58a7c2109c"
+    },
+    {
+        "id": 10,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_010.jpg",
+        "answer": "Katie Holmes",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/FCxqIUw.jpeg"
+        },
+        "context": "Batman Begins|Dawson's Creek|Tongue Tied (Eve 6)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/10127a4c9593c5414bbfca8d814fbd90"
+    },
+    {
+        "id": 11,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_011.jpg",
+        "answer": "Seann William Scott",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/rQxUmro.jpeg"
+        },
+        "context": "American Pie|Welcome to Flatch|Hole in My Soul (Aerosmith)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/a05f7f2bac1696f6f5fc328c3a684264"
+    },
+    {
+        "id": 12,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_012.jpg",
+        "answer": "Alyssa Milano",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/E9KDnPt.jpeg"
+        },
+        "context": "Commando|Charmed|Josie (blink-182)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/a9fb510d9fcd0401256a6c5ce7f4bed3"
+    },
+    {
+        "id": 13,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_013.jpg",
+        "answer": "Wilmer Valderrama",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/WjZhNrT.jpeg"
+        },
+        "context": "Larry Crowne|NCIS|Holy (Justin Bieber)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/fa9a9015d7d8b8e5ccde5d7598936c03"
+    },
+    {
+        "id": 14,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_014.jpg",
+        "answer": "Halle Bailey",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/hoCkFC9.jpeg"
+        },
+        "context": "The Little Mermaid|grown-ish|It's Givin' (Latto)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/94c006a5fb1e3dfcff820b7e02bd407c"
+    },
+    {
+        "id": 15,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_015.jpg",
+        "answer": "Norman Reedus",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/c0oPxU1.jpeg"
+        },
+        "context": "The Bikeriders|The Walking Dead|Judas (Lady Gaga)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/2cee5c9a4eb68cf67f3660f1be3fe42b"
+    },
+    {
+        "id": 16,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_016.jpg",
+        "answer": "Sydney Sweeney",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/Vpv92Dk.jpeg"
+        },
+        "context": "Anyone But You|Euphoria|Graveyard (Halsey)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/5b9f719baf33c60b9e863952697b85ae"
+    },
+    {
+        "id": 17,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_017.jpg",
+        "answer": "Brandon Routh",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/p1apicn.jpeg"
+        },
+        "context": "Superman Returns|Legends of Tomorrow|Babe (Sugarland)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/cd76905657d3b5b0daf20a08d25518f9"
+    },
+    {
+        "id": 18,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_018.jpg",
+        "answer": "AnnaSophia Robb",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/snwxDqt.jpeg"
+        },
+        "context": "Bridge to Terabithia|The Carrie Diaries|Shivers (Ed Sheeran)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/24681665b847d9816d20566c667a9d42"
+    },
+    {
+        "id": 19,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_019.jpg",
+        "answer": "Gabrielle Union",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/dPjFJ3B.jpeg"
+        },
+        "context": "Bring It On!|LA's Finest|Miss Independent (Ne-Yo)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/1b845de3a7c7d96ef8590ce9a29a2b10"
+    },
+    {
+        "id": 20,
+        "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
+        "quiz_title": "Actors in Three Forms of Visual Media IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_in_three_forms_of_visual_media_iv_020.jpg",
+        "answer": "Jennifer Love Hewitt",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-in-three-forms-of-visual-media-iv",
+            "quiz_title": "Actors in Three Forms of Visual Media IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "eN7588b5gi",
+            "game_id": 3518987,
+            "image_source_url": "https://imgur.com/kTGzvvX.jpeg"
+        },
+        "context": "Can't Hardly Wait|The Ghost Whisperer|Hero (Enrique Iglesias)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/0d91c8699e6aba8e642dd6a338399935"
+    }
+]

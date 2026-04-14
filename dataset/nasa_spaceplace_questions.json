@@ -1,53 +1,14 @@
 [
   {
-    "id": "nasa_q_001",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? Our home planet this topic is a rocky, terrestrial planet.",
-    "answer": "Earth",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/all-about-earth/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/planets/planets-03.en.png",
-    "context": "Our home planet Earth is a rocky, terrestrial planet. It has a solid and active surface with mountains, valleys, canyons, plains and so much more. Earth is special because it is an ocean planet. Water covers 70% of Earth's surface."
-  },
-  {
     "id": "nasa_q_002",
     "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? this topic is Earth's fifth largest continent.",
     "answer": "Antarctica",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/antarctica/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/antarctica/en/antarctica-continent.en.jpg",
-    "context": "Antarctica is Earth's fifth largest continent. Image credit: NASA"
-  },
-  {
-    "id": "nasa_q_003",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: It keeps us warm, it gives us oxygen to breathe, and it’s where our weather happens.",
-    "answer": "Earth's Atmosphere",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/atmosphere/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/atmosphere/en/whats-in-the-atmosphere.en.jpg",
-    "context": "Earth is a great planet to live on because it has a wonderful atmosphere around it. This jacket of gases does a lot for us. It keeps us warm, it gives us oxygen to breathe, and it’s where our weather happens."
-  },
-  {
-    "id": "nasa_q_007",
-    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Your satellite could help study things happening on Earth, take pictures of planets in our solar system, keep an eye on our sun, or even find planets elsewhere in the universe!",
-    "answer": "Build A Spacecraft",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/build-a-spacecraft/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/build-a-spacecraft/construction-cartoon.en.png",
-    "context": "How would you like to be the chief engineer for an important NASA mission? In this activity, you get to design the latest and greatest satellite. Your satellite could help study things happening on Earth, take pictures of planets in our solar system, keep an eye on our sun, or even find planets elsewhere in the universe!"
-  },
-  {
-    "id": "nasa_q_004",
-    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: If you're near the North Pole, it is called an this topic borealis or northern lights.",
-    "answer": "Aurora",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/aurora/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/aurora/en/aurora2.en.jpg",
-    "context": "If you're ever near the North or South Pole, you may be in for a very special treat. Frequently there are beautiful light shows in the sky. These lights are called auroras . If you're near the North Pole, it is called an aurora borealis or northern lights. If you're near the South Pole, it is called an aurora australis or the southern lights."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_002.jpg",
+    "context": "Antarctica is Earth's fifth largest continent. Image credit: NASA",
+    "source_image_url": "https://spaceplace.nasa.gov/antarctica/en/antarctica-continent.en.jpg"
   },
   {
     "id": "nasa_q_006",
@@ -56,8 +17,53 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/blue-sky/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/blue-sky/en/bluesky.en.png",
-    "context": "A lot of other smart people have, too. And it took a long time to figure it out!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_006.png",
+    "context": "A lot of other smart people have, too. And it took a long time to figure it out!",
+    "source_image_url": "https://spaceplace.nasa.gov/blue-sky/en/bluesky.en.png"
+  },
+  {
+    "id": "nasa_q_004",
+    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: If you're near the North Pole, it is called an this topic borealis or northern lights.",
+    "answer": "Aurora",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/aurora/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_004.jpg",
+    "context": "If you're ever near the North or South Pole, you may be in for a very special treat. Frequently there are beautiful light shows in the sky. These lights are called auroras . If you're near the North Pole, it is called an aurora borealis or northern lights. If you're near the South Pole, it is called an aurora australis or the southern lights.",
+    "source_image_url": "https://spaceplace.nasa.gov/aurora/en/aurora2.en.jpg"
+  },
+  {
+    "id": "nasa_q_003",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: It keeps us warm, it gives us oxygen to breathe, and it’s where our weather happens.",
+    "answer": "Earth's Atmosphere",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/atmosphere/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_003.jpg",
+    "context": "Earth is a great planet to live on because it has a wonderful atmosphere around it. This jacket of gases does a lot for us. It keeps us warm, it gives us oxygen to breathe, and it’s where our weather happens.",
+    "source_image_url": "https://spaceplace.nasa.gov/atmosphere/en/whats-in-the-atmosphere.en.jpg"
+  },
+  {
+    "id": "nasa_q_001",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? Our home planet this topic is a rocky, terrestrial planet.",
+    "answer": "Earth",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/all-about-earth/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_001.png",
+    "context": "Our home planet Earth is a rocky, terrestrial planet. It has a solid and active surface with mountains, valleys, canyons, plains and so much more. Earth is special because it is an ocean planet. Water covers 70% of Earth's surface.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/planets/planets-03.en.png"
+  },
+  {
+    "id": "nasa_q_007",
+    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Your satellite could help study things happening on Earth, take pictures of planets in our solar system, keep an eye on our sun, or even find planets elsewhere in the universe!",
+    "answer": "Build A Spacecraft",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/build-a-spacecraft/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_007.png",
+    "context": "How would you like to be the chief engineer for an important NASA mission? In this activity, you get to design the latest and greatest satellite. Your satellite could help study things happening on Earth, take pictures of planets in our solar system, keep an eye on our sun, or even find planets elsewhere in the universe!",
+    "source_image_url": "https://spaceplace.nasa.gov/review/build-a-spacecraft/construction-cartoon.en.png"
   },
   {
     "id": "nasa_q_005",
@@ -66,8 +72,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/birds/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/birds/radarbird.en.png",
-    "context": "You may think of sunset as marking the end of the day—a time to kick back and relax. But for many birds, sunset marks the beginning of a hard night’s work. Large numbers of birds all across North America take to the skies as the Sun sets in Fall. For these weary travelers, it is time for another long flight."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_005.png",
+    "context": "You may think of sunset as marking the end of the day—a time to kick back and relax. But for many birds, sunset marks the beginning of a hard night’s work. Large numbers of birds all across North America take to the skies as the Sun sets in Fall. For these weary travelers, it is time for another long flight.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/birds/radarbird.en.png"
   },
   {
     "id": "nasa_q_009",
@@ -76,8 +83,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/color-your-universe-game/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/color-your-universe-game/en/asteroid-belt.en.png",
-    "context": "Great work finding all the hidden objects! Want to learn more about some of the things you found? Click on the badges below!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_009.png",
+    "context": "Great work finding all the hidden objects! Want to learn more about some of the things you found? Click on the badges below!",
+    "source_image_url": "https://spaceplace.nasa.gov/color-your-universe-game/en/asteroid-belt.en.png"
   },
   {
     "id": "nasa_q_012",
@@ -86,18 +94,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/cubesat-builder-game/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/cubesat-builder-game/en/cubesat-builder-gamebox.en.jpg",
-    "context": "A CubeSat is a small, relatively low-cost cube-shaped spacecraft. Schools, universities, and institutions can design CubeSats to explore space in ways that previously required big, expensive satellites."
-  },
-  {
-    "id": "nasa_q_011",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? But we can see many thousands of this topic on the Moon and we only know of about 180 on Earth!",
-    "answer": "Craters",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/craters/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/craters/craters.en.jpg",
-    "context": "An asteroid or meteor is more likely to hit Earth because Earth is a lot bigger than the Moon, giving a meteoroid more area to hit! But we can see many thousands of craters on the Moon and we only know of about 180 on Earth! Why is that?"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_012.jpg",
+    "context": "A CubeSat is a small, relatively low-cost cube-shaped spacecraft. Schools, universities, and institutions can design CubeSats to explore space in ways that previously required big, expensive satellites.",
+    "source_image_url": "https://spaceplace.nasa.gov/cubesat-builder-game/en/cubesat-builder-gamebox.en.jpg"
   },
   {
     "id": "nasa_q_013",
@@ -106,28 +105,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/earth-fan/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/earth-fan/en/earthfan20.en.jpg",
-    "context": "We spend pretty much all our time on Earth’s crust . It’s where all the land and oceans are. But below the crust, there’s a lot going on."
-  },
-  {
-    "id": "nasa_q_014",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? The shaking is caused by movements in Earth’s outermost layer.",
-    "answer": "Earthquakes",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/earthquakes/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/earthquakes/en/earthquakes1.en.jpg",
-    "context": "An earthquake is an intense shaking of Earth’s surface. The shaking is caused by movements in Earth’s outermost layer."
-  },
-  {
-    "id": "nasa_q_010",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? Earth had one bad day after another getting hammered by comets, asteroids, and even bigger chunks of rock.",
-    "answer": "Thirsty? Have a comet",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/comet-ocean/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/comet-ocean/raining-comets.en.jpg",
-    "context": "A big comet or asteroid crashed into Earth about 65 million years ago. Scientists think this impact may be why the dinosaurs all died. But much earlier in Earth's history, times were worse. Earth had one bad day after another getting hammered by comets, asteroids, and even bigger chunks of rock. Could these space invaders have brought more than death to dinosaurs?"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_013.jpg",
+    "context": "We spend pretty much all our time on Earth’s crust . It’s where all the land and oceans are. But below the crust, there’s a lot going on.",
+    "source_image_url": "https://spaceplace.nasa.gov/earth-fan/en/earthfan20.en.jpg"
   },
   {
     "id": "nasa_q_017",
@@ -136,18 +116,31 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/el-nino/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/el-nino/en/jason1.en.jpg",
-    "context": "El Niño is a condition that sometimes occurs in the Pacific Ocean, but it is so big that it affects weather all over the world."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_017.jpg",
+    "context": "El Niño is a condition that sometimes occurs in the Pacific Ocean, but it is so big that it affects weather all over the world.",
+    "source_image_url": "https://spaceplace.nasa.gov/el-nino/en/jason1.en.jpg"
   },
   {
-    "id": "nasa_q_015",
-    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: A this topic happens when, at just the right moment, the Moon passes between the Sun and Earth.",
-    "answer": "Solar Eclipse",
+    "id": "nasa_q_014",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? The shaking is caused by movements in Earth’s outermost layer.",
+    "answer": "Earthquakes",
     "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/eclipse-snap/en/",
+    "source_url": "https://spaceplace.nasa.gov/earthquakes/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/eclipse-snap/en/eclipses.en.jpg",
-    "context": "A solar eclipse happens when, at just the right moment, the Moon passes between the Sun and Earth. Learn all about solar eclipses in this video!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_014.jpg",
+    "context": "An earthquake is an intense shaking of Earth’s surface. The shaking is caused by movements in Earth’s outermost layer.",
+    "source_image_url": "https://spaceplace.nasa.gov/earthquakes/en/earthquakes1.en.jpg"
+  },
+  {
+    "id": "nasa_q_011",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? But we can see many thousands of this topic on the Moon and we only know of about 180 on Earth!",
+    "answer": "Craters",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/craters/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_011.jpg",
+    "context": "An asteroid or meteor is more likely to hit Earth because Earth is a lot bigger than the Moon, giving a meteoroid more area to hit! But we can see many thousands of craters on the Moon and we only know of about 180 on Earth! Why is that?",
+    "source_image_url": "https://spaceplace.nasa.gov/review/craters/craters.en.jpg"
   },
   {
     "id": "nasa_q_016",
@@ -156,8 +149,31 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/eclipses/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/eclipses/en/solar-eclipse.en.png",
-    "context": "Below, check out a visualization of the April 8, 2024, total solar eclipse!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_016.png",
+    "context": "Below, check out a visualization of the April 8, 2024, total solar eclipse!",
+    "source_image_url": "https://spaceplace.nasa.gov/eclipses/en/solar-eclipse.en.png"
+  },
+  {
+    "id": "nasa_q_015",
+    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: A this topic happens when, at just the right moment, the Moon passes between the Sun and Earth.",
+    "answer": "Solar Eclipse",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/eclipse-snap/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_015.jpg",
+    "context": "A solar eclipse happens when, at just the right moment, the Moon passes between the Sun and Earth. Learn all about solar eclipses in this video!",
+    "source_image_url": "https://spaceplace.nasa.gov/eclipse-snap/en/eclipses.en.jpg"
+  },
+  {
+    "id": "nasa_q_010",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? Earth had one bad day after another getting hammered by comets, asteroids, and even bigger chunks of rock.",
+    "answer": "Thirsty? Have a comet",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/comet-ocean/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_010.jpg",
+    "context": "A big comet or asteroid crashed into Earth about 65 million years ago. Scientists think this impact may be why the dinosaurs all died. But much earlier in Earth's history, times were worse. Earth had one bad day after another getting hammered by comets, asteroids, and even bigger chunks of rock. Could these space invaders have brought more than death to dinosaurs?",
+    "source_image_url": "https://spaceplace.nasa.gov/review/comet-ocean/raining-comets.en.jpg"
   },
   {
     "id": "nasa_q_018",
@@ -166,8 +182,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/exosphere/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/exosphere/en/exo.en.png",
-    "context": "The exosphere is the outermost layer of our atmosphere. “Exo” means outside and is the same prefix used to describe insects like grasshoppers that have a hard shell or “exoskeleton” on the outside of their body."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_018.png",
+    "context": "The exosphere is the outermost layer of our atmosphere. “Exo” means outside and is the same prefix used to describe insects like grasshoppers that have a hard shell or “exoskeleton” on the outside of their body.",
+    "source_image_url": "https://spaceplace.nasa.gov/exosphere/en/exo.en.png"
   },
   {
     "id": "nasa_q_020",
@@ -176,8 +193,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/full-moons/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/full-moons/en/blood-moon.en.png",
-    "context": "When you look up at the night sky, you might notice that the Moon looks a little different each night. This is due to our Moon's many phases and types."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_020.png",
+    "context": "When you look up at the night sky, you might notice that the Moon looks a little different each night. This is due to our Moon's many phases and types.",
+    "source_image_url": "https://spaceplace.nasa.gov/full-moons/en/blood-moon.en.png"
   },
   {
     "id": "nasa_q_019",
@@ -186,8 +204,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/experiment/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/experiment/uavsar.en.jpg",
-    "context": "The Space Place Experiment center will help you conduct real life science experiments and learn how the world works. Whether you were sent here by your teacher or you found this on your own, you're going to have some fun!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_019.jpg",
+    "context": "The Space Place Experiment center will help you conduct real life science experiments and learn how the world works. Whether you were sent here by your teacher or you found this on your own, you're going to have some fun!",
+    "source_image_url": "https://spaceplace.nasa.gov/review/experiment/uavsar.en.jpg"
   },
   {
     "id": "nasa_q_021",
@@ -196,8 +215,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/gallery-earth/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/gallery-earth/en/ISS_earth.en.jpg",
-    "context": "NASA astronaut Reid Wiseman tweeted this photo from the International Space Station on Tuesday morning, Sept. 2, 2014. Credit: NASA/Reid Wiseman"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_021.jpg",
+    "context": "NASA astronaut Reid Wiseman tweeted this photo from the International Space Station on Tuesday morning, Sept. 2, 2014. Credit: NASA/Reid Wiseman",
+    "source_image_url": "https://spaceplace.nasa.gov/gallery-earth/en/ISS_earth.en.jpg"
   },
   {
     "id": "nasa_q_025",
@@ -206,8 +226,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/greenhouse/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/greenhouse/greenhouse.en.jpg",
-    "context": "A greenhouse is for growing plants. It is made of glass or clear plastic to let in lots of sunlight. But why not just put the plants outside? A greenhouse stays warmer than the air outside. Instead of cooling off at night, it traps some of the heat inside to keep the plants warm. Even in the winter, with no heat source but the Sun on a clear day, a greenhouse stays warmer than the air outside. In the summer, if a greenhouse gets too hot, the gardener can open the windows and doors and maybe turn on a fan."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_025.jpg",
+    "context": "A greenhouse is for growing plants. It is made of glass or clear plastic to let in lots of sunlight. But why not just put the plants outside? A greenhouse stays warmer than the air outside. Instead of cooling off at night, it traps some of the heat inside to keep the plants warm. Even in the winter, with no heat source but the Sun on a clear day, a greenhouse stays warmer than the air outside. In the summer, if a greenhouse gets too hot, the gardener can open the windows and doors and maybe turn on a fan.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/greenhouse/greenhouse.en.jpg"
   },
   {
     "id": "nasa_q_023",
@@ -216,28 +237,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/gps-pizza/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/gps-pizza/en/infographic.en.png",
-    "context": "It’s Friday night and you want some pizza. Fast. But somebody is going to have to pick that pizza up, and that means they need to know how to get to the closest pizzeria."
-  },
-  {
-    "id": "nasa_q_026",
-    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Molecules are tiny structures that make up just about all matter—including you!",
-    "answer": "Gumdrops",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/gumdrops/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/gumdrops/label_sheet_sm.en.jpg",
-    "context": "Got gumdrops? Then you can build models of molecules. Molecules are tiny structures that make up just about all matter—including you! Molecules themselves are made of atoms, the basic building blocks of matter."
-  },
-  {
-    "id": "nasa_q_028",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: An interesting layer called the this topic overlaps the mesosphere , thermosphere , and exosphere .",
-    "answer": "Ionosphere",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/ionosphere/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/ionosphere/en/ionos.en.png",
-    "context": "An interesting layer called the ionosphere overlaps the mesosphere , thermosphere , and exosphere . It’s a very active part of the atmosphere, and it grows and shrinks depending on the energy it absorbs from the sun. Its name comes from the fact that gases in these layers are excited by solar radiation to form “ions,” which have an electrical charge."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_023.png",
+    "context": "It’s Friday night and you want some pizza. Fast. But somebody is going to have to pick that pizza up, and that means they need to know how to get to the closest pizzeria.",
+    "source_image_url": "https://spaceplace.nasa.gov/gps-pizza/en/infographic.en.png"
   },
   {
     "id": "nasa_q_022",
@@ -246,228 +248,284 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/glossary/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/glossary/glossary-01.en.png",
-    "context": "Atmosphere: The gases held by gravity around Earth and around other planets. \"Atmosphere\" can also be used to talk about gases around stars."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_022.png",
+    "context": "Atmosphere: The gases held by gravity around Earth and around other planets. \"Atmosphere\" can also be used to talk about gases around stars.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/glossary/glossary-01.en.png"
   },
   {
-    "id": "nasa_q_029",
-    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: When strong winds cause this warm water to move, the clouds and storms move, too.",
-    "answer": "La Nina",
+    "id": "nasa_q_028",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: An interesting layer called the this topic overlaps the mesosphere , thermosphere , and exosphere .",
+    "answer": "Ionosphere",
     "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/la-nina/en/",
+    "source_url": "https://spaceplace.nasa.gov/ionosphere/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/la-nina/la-nina1.en.jpg",
-    "context": "The oceans play an important role in Earth's weather. Rain clouds normally form over warm ocean water. When strong winds cause this warm water to move, the clouds and storms move, too."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_028.png",
+    "context": "An interesting layer called the ionosphere overlaps the mesosphere , thermosphere , and exosphere . It’s a very active part of the atmosphere, and it grows and shrinks depending on the energy it absorbs from the sun. Its name comes from the fact that gases in these layers are excited by solar radiation to form “ions,” which have an electrical charge.",
+    "source_image_url": "https://spaceplace.nasa.gov/ionosphere/en/ionos.en.png"
   },
   {
-    "id": "nasa_q_030",
+    "id": "nasa_q_031",
     "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? In an ordinary year, if you were to count all the days in a calendar from January to December, you’d count 365 days.",
     "answer": "Leap Year",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/leap-year/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png",
-    "context": "In an ordinary year, if you were to count all the days in a calendar from January to December, you’d count 365 days. But approximately every four years, February has 29 days instead of 28. So, there are 366 days in the year. This is called a leap year."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_031.png",
+    "context": "In an ordinary year, if you were to count all the days in a calendar from January to December, you’d count 365 days. But approximately every four years, February has 29 days instead of 28. So, there are 366 days in the year. This is called a leap year.",
+    "source_image_url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png"
+  },
+  {
+    "id": "nasa_q_030",
+    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: When strong winds cause this warm water to move, the clouds and storms move, too.",
+    "answer": "La Nina",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/la-nina/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_030.jpg",
+    "context": "The oceans play an important role in Earth's weather. Rain clouds normally form over warm ocean water. When strong winds cause this warm water to move, the clouds and storms move, too.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/la-nina/la-nina1.en.jpg"
+  },
+  {
+    "id": "nasa_q_026",
+    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Molecules are tiny structures that make up just about all matter—including you!",
+    "answer": "Gumdrops",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/gumdrops/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_026.jpg",
+    "context": "Got gumdrops? Then you can build models of molecules. Molecules are tiny structures that make up just about all matter—including you! Molecules themselves are made of atoms, the basic building blocks of matter.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/gumdrops/label_sheet_sm.en.jpg"
+  },
+  {
+    "id": "nasa_q_029",
+    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Color Jupiter with the project scientist for NASA's Juno spacecraft.",
+    "answer": "Junoquest",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/junoquest/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_029.jpg",
+    "context": "Color Jupiter with the project scientist for NASA's Juno spacecraft.",
+    "source_image_url": "https://spaceplace.nasa.gov/junoquest/en/jupiter-earth-comparison.en.jpg"
   },
   {
     "id": "nasa_q_032",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: The this topic lies between the thermosphere and the stratosphere .",
-    "answer": "Mesosphere",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/mesosphere/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/mesosphere/en/meso.en.png",
-    "context": "The mesosphere lies between the thermosphere and the stratosphere . “Meso” means middle , and this is the highest layer of the atmosphere in which the gases are all mixed up rather than being layered by their mass."
-  },
-  {
-    "id": "nasa_q_033",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Often when we see drawings of the Earth and the Moon, they look really close together.",
-    "answer": "Moon Distance",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/moon-distance/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/moon-distance/moondistance-03.en.png",
-    "context": "Often when we see drawings of the Earth and the Moon, they look really close together."
-  },
-  {
-    "id": "nasa_q_034",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: The different shapes of the Moon that we see at different times of the month are called the this topic .",
-    "answer": "Moon’s Phases",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/moon-phases/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png",
-    "context": "If you have looked into the night sky, you may have noticed the Moon appears to change shape each night. Some nights, the Moon might look like a narrow crescent. Other nights, the Moon might look like a bright circle. And on other nights, you might not be able to see the Moon at all. The different shapes of the Moon that we see at different times of the month are called the Moon’s phases ."
-  },
-  {
-    "id": "nasa_q_035",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Play Go With the Flow to learn about this topic—and to unlock the hidden treasure!",
-    "answer": "Ocean Currents",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/ocean-currents/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/ocean-currents/en/salt.en.png",
-    "context": "Play Go With the Flow to learn about ocean currents—and to unlock the hidden treasure!"
-  },
-  {
-    "id": "nasa_q_037",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? If you’re ever near the North or South Pole, you may be in for a very special treat.",
-    "answer": "Pastel Aurora",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/pastel-aurora/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/pastel-aurora/aurora.en.jpg",
-    "context": "If you’re ever near the North or South Pole, you may be in for a very special treat. Frequently there are beautiful light shows in the sky. These lights are called auroras . These displays are caused by energy that comes from the sun. Click here to learn all about how auroras happen ."
-  },
-  {
-    "id": "nasa_q_036",
-    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: We describe how the Moon looks with terms such as \"Full Moon,\" \"First Quarter,\" and \"New Moon\" (which we can't really see, because the side that is lit faces away from us).",
-    "answer": "Oreo Moon",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/oreo-moon/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/oreo-moon/en/Moon-phases-from-space.en.jpg",
-    "context": "The Moon has \"phases.\" That means it looks a little different to us each night during its one-month orbit of our planet. We describe how the Moon looks with terms such as \"Full Moon,\" \"First Quarter,\" and \"New Moon\" (which we can't really see, because the side that is lit faces away from us)."
-  },
-  {
-    "id": "nasa_q_031",
     "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Maybe you will take a trip to a black hole or discover a far-off planet deep in the outer reaches of our galaxy.",
     "answer": "Loopy Legends",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/loopy-legends/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/loopy-legends/img/telescope.en.png",
-    "context": "You get to be the author of your very own silly story. Maybe you will take a trip to a black hole or discover a far-off planet deep in the outer reaches of our galaxy. Maybe you will stay on Earth and watch mysterious bright lights or take a trip to a slimy beach. It’s all up to you!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_032.png",
+    "context": "You get to be the author of your very own silly story. Maybe you will take a trip to a black hole or discover a far-off planet deep in the outer reaches of our galaxy. Maybe you will stay on Earth and watch mysterious bright lights or take a trip to a slimy beach. It’s all up to you!",
+    "source_image_url": "https://spaceplace.nasa.gov/review/loopy-legends/img/telescope.en.png"
   },
   {
-    "id": "nasa_q_041",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: They have come to Earth to study an event we call a total solar eclipse .",
-    "answer": "Snap it! An Eclipse Photo Adventure",
+    "id": "nasa_q_033",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: The this topic lies between the thermosphere and the stratosphere .",
+    "answer": "Mesosphere",
     "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/snap-it-eclipse-game/en/",
+    "source_url": "https://spaceplace.nasa.gov/mesosphere/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/snap-it-eclipse-game/en/solar-eclipse_diagram.en.jpg",
-    "context": "The Traveler needs your help! They have come to Earth to study an event we call a total solar eclipse . Can you help the Traveler snap photos of an eclipse?"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_033.png",
+    "context": "The mesosphere lies between the thermosphere and the stratosphere . “Meso” means middle , and this is the highest layer of the atmosphere in which the gases are all mixed up rather than being layered by their mass.",
+    "source_image_url": "https://spaceplace.nasa.gov/mesosphere/en/meso.en.png"
+  },
+  {
+    "id": "nasa_q_034",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Often when we see drawings of the Earth and the Moon, they look really close together.",
+    "answer": "Moon Distance",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/moon-distance/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_034.png",
+    "context": "Often when we see drawings of the Earth and the Moon, they look really close together.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/moon-distance/moondistance-03.en.png"
+  },
+  {
+    "id": "nasa_q_035",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: The different shapes of the Moon that we see at different times of the month are called the this topic .",
+    "answer": "Moon’s Phases",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/moon-phases/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_035.png",
+    "context": "If you have looked into the night sky, you may have noticed the Moon appears to change shape each night. Some nights, the Moon might look like a narrow crescent. Other nights, the Moon might look like a bright circle. And on other nights, you might not be able to see the Moon at all. The different shapes of the Moon that we see at different times of the month are called the Moon’s phases .",
+    "source_image_url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png"
   },
   {
     "id": "nasa_q_038",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? If you’re ever near the North or South Pole, you may be in for a very special treat.",
+    "answer": "Pastel Aurora",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/pastel-aurora/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_038.jpg",
+    "context": "If you’re ever near the North or South Pole, you may be in for a very special treat. Frequently there are beautiful light shows in the sky. These lights are called auroras . These displays are caused by energy that comes from the sun. Click here to learn all about how auroras happen .",
+    "source_image_url": "https://spaceplace.nasa.gov/review/pastel-aurora/aurora.en.jpg"
+  },
+  {
+    "id": "nasa_q_036",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Play Go With the Flow to learn about this topic—and to unlock the hidden treasure!",
+    "answer": "Ocean Currents",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/ocean-currents/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_036.png",
+    "context": "Play Go With the Flow to learn about ocean currents—and to unlock the hidden treasure!",
+    "source_image_url": "https://spaceplace.nasa.gov/ocean-currents/en/salt.en.png"
+  },
+  {
+    "id": "nasa_q_037",
+    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: We describe how the Moon looks with terms such as \"Full Moon,\" \"First Quarter,\" and \"New Moon\" (which we can't really see, because the side that is lit faces away from us).",
+    "answer": "Oreo Moon",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/oreo-moon/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_037.jpg",
+    "context": "The Moon has \"phases.\" That means it looks a little different to us each night during its one-month orbit of our planet. We describe how the Moon looks with terms such as \"Full Moon,\" \"First Quarter,\" and \"New Moon\" (which we can't really see, because the side that is lit faces away from us).",
+    "source_image_url": "https://spaceplace.nasa.gov/oreo-moon/en/Moon-phases-from-space.en.jpg"
+  },
+  {
+    "id": "nasa_q_039",
     "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? They take their caged this topic to a spot that is a carefully measured distance from their home.",
     "answer": "Pigeons",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/pigeons/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/pigeons/racing-pigeon.en.png",
-    "context": "Pigeon racing is a big sport that dates back almost 2,000 years. All over the world, there are people with the hobby of training and racing a special kind of homing pigeon. They take their caged pigeons to a spot that is a carefully measured distance from their home. Then they open the cages and time how long it takes for the pigeons to fly home. The pigeon with the shortest time gets the prize—or rather its owner gets the prize. The pigeon just gets tired, since it has flown as fast as it could for 60 – 600 miles or more (100 to 1000 kilometers)!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_039.png",
+    "context": "Pigeon racing is a big sport that dates back almost 2,000 years. All over the world, there are people with the hobby of training and racing a special kind of homing pigeon. They take their caged pigeons to a spot that is a carefully measured distance from their home. Then they open the cages and time how long it takes for the pigeons to fly home. The pigeon with the shortest time gets the prize—or rather its owner gets the prize. The pigeon just gets tired, since it has flown as fast as it could for 60 – 600 miles or more (100 to 1000 kilometers)!",
+    "source_image_url": "https://spaceplace.nasa.gov/review/pigeons/racing-pigeon.en.png"
   },
   {
     "id": "nasa_q_042",
-    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Even better, the end result will be a colorful “stained glass” window-style ornament that shows off its bright colors when light shines through!",
-    "answer": "Stained Glass Earth",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: They have come to Earth to study an event we call a total solar eclipse .",
+    "answer": "Snap it! An Eclipse Photo Adventure",
     "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/stained-glass-earth/en/",
+    "source_url": "https://spaceplace.nasa.gov/snap-it-eclipse-game/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/stained-glass-earth/materials.en.png",
-    "context": "You get to create your own full view of our planet as if it were seen from space—something that was not achieved until the 20th century. Even better, the end result will be a colorful “stained glass” window-style ornament that shows off its bright colors when light shines through!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_042.jpg",
+    "context": "The Traveler needs your help! They have come to Earth to study an event we call a total solar eclipse . Can you help the Traveler snap photos of an eclipse?",
+    "source_image_url": "https://spaceplace.nasa.gov/snap-it-eclipse-game/en/solar-eclipse_diagram.en.jpg"
   },
   {
-    "id": "nasa_q_044",
+    "id": "nasa_q_045",
     "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: In December 2022, a spacecraft called the Surface Water and Ocean Topography (SWOT) mission is launching to study our home planet!",
     "answer": "Swot Launch Bingo",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/swot-launch-bingo/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/swot-launch-bingo/en/SWOT_Bingo_splash-image.en.png",
-    "context": "In December 2022, a spacecraft called the Surface Water and Ocean Topography (SWOT) mission is launching to study our home planet! As the satellite orbits our planet, it will observe nearly all the water on Earth’s surface. This will help scientists understand how much water flows into and out of Earth’s freshwater bodies, such as lakes and rivers. It will also give scientists clues about the ocean’s role in Earth’s changing climate."
-  },
-  {
-    "id": "nasa_q_040",
-    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: As the poles are on opposite ends of Earth, they experience opposite timing for the this topic.",
-    "answer": "Seasons",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/seasons/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/seasons/en/north-pole_south-pole_summer_winter.en.png",
-    "context": "Earth’s tilted axis creates seasons. When the North Pole is pointing toward the sun, there is more sunlight reaching the northern half of the planet, leading to summer. When it is pointing away, there is less sunlight, leading to winter. As the poles are on opposite ends of Earth, they experience opposite timing for the seasons. Credit: NASA/JPL-Caltech"
-  },
-  {
-    "id": "nasa_q_039",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? Celebrate the fall season and Halloween by making your very own NASA Space Place this topic with these easy-to-use stencils!",
-    "answer": "Pumpkins",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/pumpkins/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/pumpkins/en/pumpkin10.en.jpg",
-    "context": "Celebrate the fall season and Halloween by making your very own NASA Space Place pumpkins with these easy-to-use stencils!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_045.png",
+    "context": "In December 2022, a spacecraft called the Surface Water and Ocean Topography (SWOT) mission is launching to study our home planet! As the satellite orbits our planet, it will observe nearly all the water on Earth’s surface. This will help scientists understand how much water flows into and out of Earth’s freshwater bodies, such as lakes and rivers. It will also give scientists clues about the ocean’s role in Earth’s changing climate.",
+    "source_image_url": "https://spaceplace.nasa.gov/swot-launch-bingo/en/SWOT_Bingo_splash-image.en.png"
   },
   {
     "id": "nasa_q_043",
+    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Even better, the end result will be a colorful “stained glass” window-style ornament that shows off its bright colors when light shines through!",
+    "answer": "Stained Glass Earth",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/stained-glass-earth/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_043.png",
+    "context": "You get to create your own full view of our planet as if it were seen from space—something that was not achieved until the 20th century. Even better, the end result will be a colorful “stained glass” window-style ornament that shows off its bright colors when light shines through!",
+    "source_image_url": "https://spaceplace.nasa.gov/review/stained-glass-earth/materials.en.png"
+  },
+  {
+    "id": "nasa_q_044",
     "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Above the troposphere and below the mesosphere , we have the this topic .",
     "answer": "Stratosphere",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/stratosphere/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/stratosphere/en/strato.en.png",
-    "context": "Above the troposphere and below the mesosphere , we have the stratosphere . “Strat” means layer . This layer of our atmosphere has its own set of layers. There are no storms or turbulence here to mix up the air, so cold, heavy air is at the bottom and warm, light air is at the top. That’s the opposite of how the layers work in the troposphere, where we live. If you were to climb a mountain in the stratosphere you would have to take off your warm clothes as you got closer to the top rather than putting them on like we usually do. But there are no mountains high enough to reach the stratosphere, so you don’t have to worry about that."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_044.png",
+    "context": "Above the troposphere and below the mesosphere , we have the stratosphere . “Strat” means layer . This layer of our atmosphere has its own set of layers. There are no storms or turbulence here to mix up the air, so cold, heavy air is at the bottom and warm, light air is at the top. That’s the opposite of how the layers work in the troposphere, where we live. If you were to climb a mountain in the stratosphere you would have to take off your warm clothes as you got closer to the top rather than putting them on like we usually do. But there are no mountains high enough to reach the stratosphere, so you don’t have to worry about that.",
+    "source_image_url": "https://spaceplace.nasa.gov/stratosphere/en/strato.en.png"
   },
   {
-    "id": "nasa_q_045",
+    "id": "nasa_q_041",
+    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: As the poles are on opposite ends of Earth, they experience opposite timing for the this topic.",
+    "answer": "Seasons",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/seasons/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_041.png",
+    "context": "Earth’s tilted axis creates seasons. When the North Pole is pointing toward the sun, there is more sunlight reaching the northern half of the planet, leading to summer. When it is pointing away, there is less sunlight, leading to winter. As the poles are on opposite ends of Earth, they experience opposite timing for the seasons. Credit: NASA/JPL-Caltech",
+    "source_image_url": "https://spaceplace.nasa.gov/seasons/en/north-pole_south-pole_summer_winter.en.png"
+  },
+  {
+    "id": "nasa_q_046",
     "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? The this topic lies between the exosphere and the mesosphere .",
     "answer": "Thermosphere",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/thermosphere/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/thermosphere/en/thermo.en.png",
-    "context": "The thermosphere lies between the exosphere and the mesosphere . “Thermo” means heat , and the temperature in this layer can reach up to 4,500 degrees Fahrenheit. If you were to hang out in the thermosphere, though, you would be very cold because there aren’t enough gas molecules to transfer the heat to you. This also means there aren’t enough molecules for sound waves to travel through."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_046.png",
+    "context": "The thermosphere lies between the exosphere and the mesosphere . “Thermo” means heat , and the temperature in this layer can reach up to 4,500 degrees Fahrenheit. If you were to hang out in the thermosphere, though, you would be very cold because there aren’t enough gas molecules to transfer the heat to you. This also means there aren’t enough molecules for sound waves to travel through.",
+    "source_image_url": "https://spaceplace.nasa.gov/thermosphere/en/thermo.en.png"
   },
   {
-    "id": "nasa_q_052",
+    "id": "nasa_q_040",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? Celebrate the fall season and Halloween by making your very own NASA Space Place this topic with these easy-to-use stencils!",
+    "answer": "Pumpkins",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/pumpkins/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_040.jpg",
+    "context": "Celebrate the fall season and Halloween by making your very own NASA Space Place pumpkins with these easy-to-use stencils!",
+    "source_image_url": "https://spaceplace.nasa.gov/pumpkins/en/pumpkin10.en.jpg"
+  },
+  {
+    "id": "nasa_q_053",
     "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: If you live near the ocean, you may have seen this topic warning signs like this one in British Columbia, Canada.",
     "answer": "Tsunami",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/tsunami/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/tsunami/en/HazardSign.en.jpg",
-    "context": "If you live near the ocean, you may have seen tsunami warning signs like this one in British Columbia, Canada. Credit: Mimigu CC BY 3.0"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_053.jpg",
+    "context": "If you live near the ocean, you may have seen tsunami warning signs like this one in British Columbia, Canada. Credit: Mimigu CC BY 3.0",
+    "source_image_url": "https://spaceplace.nasa.gov/tsunami/en/HazardSign.en.jpg"
   },
   {
-    "id": "nasa_q_051",
+    "id": "nasa_q_052",
     "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Closest to the surface of Earth, we have the this topic .",
     "answer": "Troposphere",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/troposphere/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/troposphere/en/tropo.en.png",
-    "context": "Closest to the surface of Earth, we have the troposphere . “Tropos” means change . This layer gets its name from the weather that is constantly changing and mixing up the gases in this part of our atmosphere."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_052.png",
+    "context": "Closest to the surface of Earth, we have the troposphere . “Tropos” means change . This layer gets its name from the weather that is constantly changing and mixing up the gases in this part of our atmosphere.",
+    "source_image_url": "https://spaceplace.nasa.gov/troposphere/en/tropo.en.png"
   },
   {
-    "id": "nasa_q_049",
+    "id": "nasa_q_050",
     "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: This illustration shows the rare alignment of the Sun and Moon that casts a shadow on our planet.",
     "answer": "Total Solar Eclipse",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/total-solar-eclipse/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png",
-    "context": "This illustration shows the rare alignment of the Sun and Moon that casts a shadow on our planet. Credit: NASA/GSFC/CI Lab"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_050.png",
+    "context": "This illustration shows the rare alignment of the Sun and Moon that casts a shadow on our planet. Credit: NASA/GSFC/CI Lab",
+    "source_image_url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png"
   },
   {
-    "id": "nasa_q_048",
+    "id": "nasa_q_049",
     "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: If you have been lucky enough to fly in an airplane, you know the world down here looks very different from up there.",
     "answer": "Building a 3-D Map of Earth from Space",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/topomap-earth/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/topomap-earth/shuttle.en.jpg",
-    "context": "If you have been lucky enough to fly in an airplane, you know the world down here looks very different from up there. Mountains look like wrinkled drapery. Riverbeds look like jagged scratches on the surface. Farm land looks like a crazy quilt of greens, browns, and yellows. The view from up there tells us a lot of what Earth is all about."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_049.jpg",
+    "context": "If you have been lucky enough to fly in an airplane, you know the world down here looks very different from up there. Mountains look like wrinkled drapery. Riverbeds look like jagged scratches on the surface. Farm land looks like a crazy quilt of greens, browns, and yellows. The view from up there tells us a lot of what Earth is all about.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/topomap-earth/shuttle.en.jpg"
   },
   {
-    "id": "nasa_q_053",
+    "id": "nasa_q_054",
     "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: Print these wonderful NASA Space Place Valentine's Day cards and give them to family and friends!",
     "answer": "Printable Space Valentines",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/valentines/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/valentines/en/valentines-astro.en.png",
-    "context": "Print these wonderful NASA Space Place Valentine's Day cards and give them to family and friends!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_054.png",
+    "context": "Print these wonderful NASA Space Place Valentine's Day cards and give them to family and friends!",
+    "source_image_url": "https://spaceplace.nasa.gov/valentines/en/valentines-astro.en.png"
   },
   {
     "id": "nasa_q_058",
@@ -476,28 +534,20 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/whats-in-the-atmosphere/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/whats-in-the-atmosphere/Jason3.png",
-    "context": "NASA's Jason-3 satellite measures sea level , wind speed and wave height for more than 95 percent of Earth's ice-free ocean. It helps scientists track Earth's rising seas and enables more accurate weather, ocean and climate forecasts."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_058.png",
+    "context": "NASA's Jason-3 satellite measures sea level , wind speed and wave height for more than 95 percent of Earth's ice-free ocean. It helps scientists track Earth's rising seas and enables more accurate weather, ocean and climate forecasts.",
+    "source_image_url": "https://spaceplace.nasa.gov/whats-in-the-atmosphere/Jason3.png"
   },
   {
-    "id": "nasa_q_055",
+    "id": "nasa_q_056",
     "question": "Which NASA Space Place topic can you infer only after combining the image with the article text?",
     "answer": "Volcanoes2",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/volcanoes2/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/volcanoes2/volcano-1.en.jpg",
-    "context": "Lava fountain at Kīlauea Volcano, Hawai`i. Credit: J.D Griggs, USGS"
-  },
-  {
-    "id": "nasa_q_056",
-    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: An image of Neptune taken by the Voyager 2 spacecraft.",
-    "answer": "Voyager To Planets",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/voyager-to-planets/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/voyager-to-planets/en/neptune.en.jpg",
-    "context": "An image of Neptune taken by the Voyager 2 spacecraft. Image credit: NASA"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_056.jpg",
+    "context": "Lava fountain at Kīlauea Volcano, Hawai`i. Credit: J.D Griggs, USGS",
+    "source_image_url": "https://spaceplace.nasa.gov/review/volcanoes2/volcano-1.en.jpg"
   },
   {
     "id": "nasa_q_057",
@@ -506,28 +556,20 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/water/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/water/en/water_snap_thumbnail.en.png",
-    "context": "Earth has a lot of water. It's one of the things that makes our big, blue planet so special. Learn more about Earth's water in this video!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_057.png",
+    "context": "Earth has a lot of water. It's one of the things that makes our big, blue planet so special. Learn more about Earth's water in this video!",
+    "source_image_url": "https://spaceplace.nasa.gov/water/en/water_snap_thumbnail.en.png"
   },
   {
-    "id": "nasa_q_054",
+    "id": "nasa_q_055",
     "question": "Which NASA Space Place topic can you infer only after combining the image with the article text?",
     "answer": "Space Volcanoes",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/volcanoes/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/volcanoes/volcano-main.en.png",
-    "context": "Click places marked with an ! to explore different volcanoes."
-  },
-  {
-    "id": "nasa_q_066",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Chances are that when you imagine the night sky, one of the first things that comes to mind is the this topic “glowing” in the darkness.",
-    "answer": "Moon",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/all-about-the-moon/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png",
-    "context": "Chances are that when you imagine the night sky, one of the first things that comes to mind is the Moon “glowing” in the darkness. The Moon has always held a special place in our imaginations and in daily life."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_055.png",
+    "context": "Click places marked with an ! to explore different volcanoes.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/volcanoes/volcano-main.en.png"
   },
   {
     "id": "nasa_q_060",
@@ -536,18 +578,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/all-about-jupiter/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/all-about-jupiter/en/postcard-jupiter.en.jpg",
-    "context": "Jupiter is a stormy planet that is probably best known for its Great Red Spot. The spot is actually a giant, wild storm that has been raging for more than 300 years. Credit: NASA/JPL-Caltech"
-  },
-  {
-    "id": "nasa_q_062",
-    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: Any vacation on this topic would be ruined by extreme temperatures.",
-    "answer": "Mercury",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/all-about-mercury/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/all-about-mercury/en/postcard-mercury.en.jpg",
-    "context": "Any vacation on Mercury would be ruined by extreme temperatures. During the daytime, the Sun would appear three times larger and more than 10 times brighter than it does here on Earth. During the day, temperatures would be as high as 800 degrees F, and at night temperatures could sink to -300 degrees F. Brr! Credit: NASA/JPL-Caltech"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_060.jpg",
+    "context": "Jupiter is a stormy planet that is probably best known for its Great Red Spot. The spot is actually a giant, wild storm that has been raging for more than 300 years. Credit: NASA/JPL-Caltech",
+    "source_image_url": "https://spaceplace.nasa.gov/all-about-jupiter/en/postcard-jupiter.en.jpg"
   },
   {
     "id": "nasa_q_067",
@@ -556,8 +589,20 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/all-about-uranus/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/planets/planets-07.en.png",
-    "context": "Uranus is made of water, methane, and ammonia fluids above a small rocky center. Its atmosphere is made of hydrogen and helium like Jupiter and Saturn, but it also has methane. The methane makes Uranus blue."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_067.png",
+    "context": "Uranus is made of water, methane, and ammonia fluids above a small rocky center. Its atmosphere is made of hydrogen and helium like Jupiter and Saturn, but it also has methane. The methane makes Uranus blue.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/planets/planets-07.en.png"
+  },
+  {
+    "id": "nasa_q_062",
+    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: Any vacation on this topic would be ruined by extreme temperatures.",
+    "answer": "Mercury",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/all-about-mercury/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_062.jpg",
+    "context": "Any vacation on Mercury would be ruined by extreme temperatures. During the daytime, the Sun would appear three times larger and more than 10 times brighter than it does here on Earth. During the day, temperatures would be as high as 800 degrees F, and at night temperatures could sink to -300 degrees F. Brr! Credit: NASA/JPL-Caltech",
+    "source_image_url": "https://spaceplace.nasa.gov/all-about-mercury/en/postcard-mercury.en.jpg"
   },
   {
     "id": "nasa_q_063",
@@ -566,8 +611,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/all-about-neptune/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/planets/planets-08.en.png",
-    "context": "Neptune is dark, cold, and very windy. It's the last of the planets in our solar system. It's more than 30 times as far from the sun as Earth is. Neptune is very similar to Uranus. It's made of a thick fog of water, ammonia, and methane over an Earth-sized solid center. Its atmosphere is made of hydrogen, helium, and methane. The methane gives Neptune the same blue color as Uranus. Neptune has six rings, but they're very hard to see."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_063.png",
+    "context": "Neptune is dark, cold, and very windy. It's the last of the planets in our solar system. It's more than 30 times as far from the sun as Earth is. Neptune is very similar to Uranus. It's made of a thick fog of water, ammonia, and methane over an Earth-sized solid center. Its atmosphere is made of hydrogen, helium, and methane. The methane gives Neptune the same blue color as Uranus. Neptune has six rings, but they're very hard to see.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/planets/planets-08.en.png"
   },
   {
     "id": "nasa_q_065",
@@ -576,18 +622,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/all-about-saturn/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/all-about-saturn/en/postcard-saturn.en.jpg",
-    "context": "Saturn isn’t the only planet to have rings, but it definitely has the most beautiful ones. The rings we see are made of groups of tiny ringlets that surround Saturn. They’re made of chunks of ice and rock. Like Jupiter, Saturn is mostly a ball of hydrogen and helium."
-  },
-  {
-    "id": "nasa_q_061",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: this topic’ atmosphere has clouds and wind just like Earth.",
-    "answer": "Mars",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/all-about-mars/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/all-about-mars/en/postcard-mars.en.jpg",
-    "context": "Mars’ atmosphere has clouds and wind just like Earth. Sometimes the wind blows the red dust into a dust storm. Spiraling dust storms–called dust devils–can look like tornadoes. Mars’ large storms sometimes cover the entire planet. Credit: NASA/JPL-Caltech"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_065.jpg",
+    "context": "Saturn isn’t the only planet to have rings, but it definitely has the most beautiful ones. The rings we see are made of groups of tiny ringlets that surround Saturn. They’re made of chunks of ice and rock. Like Jupiter, Saturn is mostly a ball of hydrogen and helium.",
+    "source_image_url": "https://spaceplace.nasa.gov/all-about-saturn/en/postcard-saturn.en.jpg"
   },
   {
     "id": "nasa_q_064",
@@ -596,48 +633,31 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/all-about-pluto/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/all-about-pluto/en/pluto_new_horizons.en.png",
-    "context": "In 2015, three billion miles away, Pluto sent a “love note” back to Earth, via NASA's New Horizons spacecraft. Credit: NASA/JHUAPL/SWRI"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_064.png",
+    "context": "In 2015, three billion miles away, Pluto sent a “love note” back to Earth, via NASA's New Horizons spacecraft. Credit: NASA/JHUAPL/SWRI",
+    "source_image_url": "https://spaceplace.nasa.gov/all-about-pluto/en/pluto_new_horizons.en.png"
   },
   {
-    "id": "nasa_q_070",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Create your own odd-shaped asteroids out of plain old mashed potatoes.",
-    "answer": "Asteroid Potatoes",
+    "id": "nasa_q_066",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Chances are that when you imagine the night sky, one of the first things that comes to mind is the this topic “glowing” in the darkness.",
+    "answer": "Moon",
     "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/asteroid-potatoes/en/",
+    "source_url": "https://spaceplace.nasa.gov/all-about-the-moon/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/asteroid-potatoes/asteroidpots.en.jpg",
-    "context": "Create your own odd-shaped asteroids out of plain old mashed potatoes. Bake them in the oven to turn them (more or less) asteroid color. Then eat your asteroids for dinner!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_066.png",
+    "context": "Chances are that when you imagine the night sky, one of the first things that comes to mind is the Moon “glowing” in the darkness. The Moon has always held a special place in our imaginations and in daily life.",
+    "source_image_url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png"
   },
   {
-    "id": "nasa_q_074",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: In this activity, you’ll make your own comet that can fly around the room!",
-    "answer": "Comet Stick",
+    "id": "nasa_q_061",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: this topic’ atmosphere has clouds and wind just like Earth.",
+    "answer": "Mars",
     "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/comet-stick/en/",
+    "source_url": "https://spaceplace.nasa.gov/all-about-mars/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/comet-stick/cometparts.en.png",
-    "context": "A comet is a chunk of ice, rock, and gas flying through space. When they get close to the sun, they heat up. We can see their glow and long tails. In this activity, you’ll make your own comet that can fly around the room!"
-  },
-  {
-    "id": "nasa_q_073",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Mount Thor (in Nunavut, Canada) has the tallest cliff face on Earth.",
-    "answer": "Jumping the Tallest Cliff in the Solar System",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/cliff-jumping/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/cliff-jumping/thor.en.png",
-    "context": "Mount Thor (in Nunavut, Canada) has the tallest cliff face on Earth."
-  },
-  {
-    "id": "nasa_q_075",
-    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: this topic, such as the comet ISON pictured here, are thought to hold material from the time when the Sun and planets were forming.",
-    "answer": "Comets",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/comets/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/comets/en/comet_ISON.en.jpg",
-    "context": "Comets, such as the comet ISON pictured here, are thought to hold material from the time when the Sun and planets were forming. They are like giant, frozen time capsules in our solar system. Credit: NASA/MSFC/Aaron Kingery"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_061.jpg",
+    "context": "Mars’ atmosphere has clouds and wind just like Earth. Sometimes the wind blows the red dust into a dust storm. Spiraling dust storms–called dust devils–can look like tornadoes. Mars’ large storms sometimes cover the entire planet. Credit: NASA/JPL-Caltech",
+    "source_image_url": "https://spaceplace.nasa.gov/all-about-mars/en/postcard-mars.en.jpg"
   },
   {
     "id": "nasa_q_068",
@@ -646,18 +666,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/all-about-venus/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/all-about-venus/en/postcard-venus.en.jpg",
-    "context": "Even though Venus isn't the closest planet to the Sun, it is still the hottest. It has a thick atmosphere full of the greenhouse gas carbon dioxide and clouds made of sulfuric acid. The gas traps heat and keeps Venus toasty warm. In fact, it's so hot on Venus, metals like lead would be puddles of melted liquid."
-  },
-  {
-    "id": "nasa_q_071",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Although asteroids orbit the sun like planets, they are much smaller than planets.",
-    "answer": "Asteroid",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/asteroid/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/asteroid/en/asteroid-ida.en.png",
-    "context": "Asteroids are small, rocky objects that orbit the sun. Although asteroids orbit the sun like planets, they are much smaller than planets."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_068.jpg",
+    "context": "Even though Venus isn't the closest planet to the Sun, it is still the hottest. It has a thick atmosphere full of the greenhouse gas carbon dioxide and clouds made of sulfuric acid. The gas traps heat and keeps Venus toasty warm. In fact, it's so hot on Venus, metals like lead would be puddles of melted liquid.",
+    "source_image_url": "https://spaceplace.nasa.gov/all-about-venus/en/postcard-venus.en.jpg"
   },
   {
     "id": "nasa_q_069",
@@ -666,28 +677,64 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/asteroid-or-meteor/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/asteroid-or-meteor/en/asteroid-eros.en.png",
-    "context": "An asteroid is a small rocky object that orbits the Sun. A meteor is what happens when a small piece of an asteroid or comet, called a meteoroid, burns up upon entering Earth’s atmosphere. Read on to find out more and learn the difference between asteroids and comets, meteoroids and meteorites, and more!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_069.png",
+    "context": "An asteroid is a small rocky object that orbits the Sun. A meteor is what happens when a small piece of an asteroid or comet, called a meteoroid, burns up upon entering Earth’s atmosphere. Read on to find out more and learn the difference between asteroids and comets, meteoroids and meteorites, and more!",
+    "source_image_url": "https://spaceplace.nasa.gov/asteroid-or-meteor/en/asteroid-eros.en.png"
   },
   {
-    "id": "nasa_q_072",
-    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: This common center of mass is called the this topic .",
-    "answer": "Barycenter",
+    "id": "nasa_q_070",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Create your own odd-shaped asteroids out of plain old mashed potatoes.",
+    "answer": "Asteroid Potatoes",
     "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/barycenter/en/",
+    "source_url": "https://spaceplace.nasa.gov/asteroid-potatoes/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/barycenter/en/ruler.en.png",
-    "context": "We say that planets orbit stars, but that’s not the whole truth. Planets and stars actually orbit around their common center of mass. This common center of mass is called the barycenter . Barycenters also help astronomers search for planets beyond our solar system!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_070.jpg",
+    "context": "Create your own odd-shaped asteroids out of plain old mashed potatoes. Bake them in the oven to turn them (more or less) asteroid color. Then eat your asteroids for dinner!",
+    "source_image_url": "https://spaceplace.nasa.gov/review/asteroid-potatoes/asteroidpots.en.jpg"
   },
   {
-    "id": "nasa_q_078",
-    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: Scientists are interested in learning more about Europa because on Earth, where you find water, you can find life.",
-    "answer": "Europa Clipper Launch Bingo",
+    "id": "nasa_q_074",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: In this activity, you’ll make your own comet that can fly around the room!",
+    "answer": "Comet Stick",
     "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/europa-clipper-launch-bingo/en/",
+    "source_url": "https://spaceplace.nasa.gov/comet-stick/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/europa-clipper-launch-bingo/en/Europa_Bingo_splash-image.en.jpg",
-    "context": "More than 500 million miles from Earth is a world that is covered with an ocean, topped by an icy crust. This ocean world, called Europa , is one of Jupiter’s many moons . Scientists are interested in learning more about Europa because on Earth, where you find water, you can find life. Could ocean-covered Europa have conditions suitable for life, too?"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_074.png",
+    "context": "A comet is a chunk of ice, rock, and gas flying through space. When they get close to the sun, they heat up. We can see their glow and long tails. In this activity, you’ll make your own comet that can fly around the room!",
+    "source_image_url": "https://spaceplace.nasa.gov/review/comet-stick/cometparts.en.png"
+  },
+  {
+    "id": "nasa_q_073",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Mount Thor (in Nunavut, Canada) has the tallest cliff face on Earth.",
+    "answer": "Jumping the Tallest Cliff in the Solar System",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/cliff-jumping/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_073.png",
+    "context": "Mount Thor (in Nunavut, Canada) has the tallest cliff face on Earth.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/cliff-jumping/thor.en.png"
+  },
+  {
+    "id": "nasa_q_075",
+    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: this topic, such as the comet ISON pictured here, are thought to hold material from the time when the Sun and planets were forming.",
+    "answer": "Comets",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/comets/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_075.jpg",
+    "context": "Comets, such as the comet ISON pictured here, are thought to hold material from the time when the Sun and planets were forming. They are like giant, frozen time capsules in our solar system. Credit: NASA/MSFC/Aaron Kingery",
+    "source_image_url": "https://spaceplace.nasa.gov/comets/en/comet_ISON.en.jpg"
+  },
+  {
+    "id": "nasa_q_071",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Although asteroids orbit the sun like planets, they are much smaller than planets.",
+    "answer": "Asteroid",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/asteroid/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_071.png",
+    "context": "Asteroids are small, rocky objects that orbit the sun. Although asteroids orbit the sun like planets, they are much smaller than planets.",
+    "source_image_url": "https://spaceplace.nasa.gov/asteroid/en/asteroid-ida.en.png"
   },
   {
     "id": "nasa_q_076",
@@ -696,28 +743,20 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/days/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/days/earth-cartoons-01.en.png",
-    "context": "When you think of a day, you normally think of one cycle of daytime to nighttime. That is called a solar day . On Earth, a solar day is around 24 hours. However, Earth’s orbit is elliptical, meaning it’s not a perfect circle. That means some solar days on Earth are a few minutes longer than 24 hours and some are a few minutes shorter."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_076.png",
+    "context": "When you think of a day, you normally think of one cycle of daytime to nighttime. That is called a solar day . On Earth, a solar day is around 24 hours. However, Earth’s orbit is elliptical, meaning it’s not a perfect circle. That means some solar days on Earth are a few minutes longer than 24 hours and some are a few minutes shorter.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/days/earth-cartoons-01.en.png"
   },
   {
-    "id": "nasa_q_081",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? In this topic, you will be driving a rover on Mars and collecting information about Martian rocks.",
-    "answer": "Explore Mars",
+    "id": "nasa_q_072",
+    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: This common center of mass is called the this topic .",
+    "answer": "Barycenter",
     "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/explore-mars/en/",
+    "source_url": "https://spaceplace.nasa.gov/barycenter/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/explore-mars/en/CharlenePfeifer.en.jpg",
-    "context": "Always wanted to cruise around on the surface of another planet? Well, you’re in luck! In Explore Mars, you will be driving a rover on Mars and collecting information about Martian rocks."
-  },
-  {
-    "id": "nasa_q_079",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Scientists believe that Europa is interesting because it may have twice as much water as Earth.",
-    "answer": "Europa Texture Coloring Activity",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/europa-texture-coloring-activity/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/europa-texture-coloring-activity/en/illustration_europa-surface.en.jpg",
-    "context": "Europa is one of Jupiter’s moons. Scientists believe that Europa is interesting because it may have twice as much water as Earth. However, it is so cold on Europa that water on the surface of this moon is frozen."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_072.png",
+    "context": "We say that planets orbit stars, but that’s not the whole truth. Planets and stars actually orbit around their common center of mass. This common center of mass is called the barycenter . Barycenters also help astronomers search for planets beyond our solar system!",
+    "source_image_url": "https://spaceplace.nasa.gov/barycenter/en/ruler.en.png"
   },
   {
     "id": "nasa_q_077",
@@ -726,8 +765,31 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/dsn-game/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/dsn-game/dsn_map.en.png",
-    "context": "How does NASA talk to its faraway spacecraft? With the big antenna dishes of the Deep Space Network (DSN) !"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_077.png",
+    "context": "How does NASA talk to its faraway spacecraft? With the big antenna dishes of the Deep Space Network (DSN) !",
+    "source_image_url": "https://spaceplace.nasa.gov/review/dsn-game/dsn_map.en.png"
+  },
+  {
+    "id": "nasa_q_078",
+    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: Scientists are interested in learning more about Europa because on Earth, where you find water, you can find life.",
+    "answer": "Europa Clipper Launch Bingo",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/europa-clipper-launch-bingo/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_078.jpg",
+    "context": "More than 500 million miles from Earth is a world that is covered with an ocean, topped by an icy crust. This ocean world, called Europa , is one of Jupiter’s many moons . Scientists are interested in learning more about Europa because on Earth, where you find water, you can find life. Could ocean-covered Europa have conditions suitable for life, too?",
+    "source_image_url": "https://spaceplace.nasa.gov/europa-clipper-launch-bingo/en/Europa_Bingo_splash-image.en.jpg"
+  },
+  {
+    "id": "nasa_q_079",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: Scientists believe that Europa is interesting because it may have twice as much water as Earth.",
+    "answer": "Europa Texture Coloring Activity",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/europa-texture-coloring-activity/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_079.jpg",
+    "context": "Europa is one of Jupiter’s moons. Scientists believe that Europa is interesting because it may have twice as much water as Earth. However, it is so cold on Europa that water on the surface of this moon is frozen.",
+    "source_image_url": "https://spaceplace.nasa.gov/europa-texture-coloring-activity/en/illustration_europa-surface.en.jpg"
   },
   {
     "id": "nasa_q_080",
@@ -736,8 +798,20 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/europa/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/europa/en/postcard_europa.en.png",
-    "context": "This image of Jupiter's beautiful moon Europa was taken by the Galileo Orbiter spacecraft in 1998. Credit: Galileo Project/JPL/NASA"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_080.png",
+    "context": "This image of Jupiter's beautiful moon Europa was taken by the Galileo Orbiter spacecraft in 1998. Credit: Galileo Project/JPL/NASA",
+    "source_image_url": "https://spaceplace.nasa.gov/europa/en/postcard_europa.en.png"
+  },
+  {
+    "id": "nasa_q_081",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? In this topic, you will be driving a rover on Mars and collecting information about Martian rocks.",
+    "answer": "Explore Mars",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/explore-mars/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_081.jpg",
+    "context": "Always wanted to cruise around on the surface of another planet? Well, you’re in luck! In Explore Mars, you will be driving a rover on Mars and collecting information about Martian rocks.",
+    "source_image_url": "https://spaceplace.nasa.gov/explore-mars/en/CharlenePfeifer.en.jpg"
   },
   {
     "id": "nasa_q_082",
@@ -746,8 +820,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/gallery-solar-system/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/gallery-solar-system/en/planets.en.jpg",
-    "context": "Our solar system is made up of a star—the Sun—eight planets, more than 140 moons, a bunch of comets, asteroids and space rocks, ice, and several dwarf planets, such as Pluto. Credits: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington (Mercury), USGS Astrogeology Science Center (Venus, Mars), NASA's Goddard Space Flight Center/Space Telescope Science Institute (Jupiter), NASA/JPL/Space Science Institute (Saturn) and NASA's Goddard Space Flight Center (Earth, Jupiter, Uranus)"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_082.jpg",
+    "context": "Our solar system is made up of a star—the Sun—eight planets, more than 140 moons, a bunch of comets, asteroids and space rocks, ice, and several dwarf planets, such as Pluto. Credits: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington (Mercury), USGS Astrogeology Science Center (Venus, Mars), NASA's Goddard Space Flight Center/Space Telescope Science Institute (Jupiter), NASA/JPL/Space Science Institute (Saturn) and NASA's Goddard Space Flight Center (Earth, Jupiter, Uranus)",
+    "source_image_url": "https://spaceplace.nasa.gov/gallery-solar-system/en/planets.en.jpg"
   },
   {
     "id": "nasa_q_085",
@@ -756,8 +831,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/ice-on-other-planets/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/ice-on-other-planets/greenaland_glaciers_sea_ice.en.png",
-    "context": "On Earth , you can find ice in many places—for example, the North and South poles. But Earth isn’t the only icy world we know of. Ice can be found in many places in our solar system: on planets, moons, comets—and even in the rings of giant planets like Saturn. Click \"Next\" to learn more about a few of these cool places in our solar system!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_085.png",
+    "context": "On Earth , you can find ice in many places—for example, the North and South poles. But Earth isn’t the only icy world we know of. Ice can be found in many places in our solar system: on planets, moons, comets—and even in the rings of giant planets like Saturn. Click \"Next\" to learn more about a few of these cool places in our solar system!",
+    "source_image_url": "https://spaceplace.nasa.gov/review/ice-on-other-planets/greenaland_glaciers_sea_ice.en.png"
   },
   {
     "id": "nasa_q_086",
@@ -766,8 +842,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/impact-crater/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/impact-crater/meteorcrater.en.jpg",
-    "context": "An impact crater is formed when an object like an asteroid or meteorite crashes into the surface of a larger solid object like a planet or a moon."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_086.jpg",
+    "context": "An impact crater is formed when an object like an asteroid or meteorite crashes into the surface of a larger solid object like a planet or a moon.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/impact-crater/meteorcrater.en.jpg"
   },
   {
     "id": "nasa_q_083",
@@ -776,28 +853,20 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/how-many-moons/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/how-many-moons/en/moons-01.en.png",
-    "context": "We on Earth have just one moon, but some planets have dozens of them. Others don’t have any. Which planets have moons, and which don’t?"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_083.png",
+    "context": "We on Earth have just one moon, but some planets have dozens of them. Others don’t have any. Which planets have moons, and which don’t?",
+    "source_image_url": "https://spaceplace.nasa.gov/how-many-moons/en/moons-01.en.png"
   },
   {
-    "id": "nasa_q_088",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? Image of Io, captured by NASA’s Galileo spacecraft.",
-    "answer": "Io Tides",
+    "id": "nasa_q_089",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? No one knows exactly how hot, but scientists think it could be about 43,000°F (24,000°C) near Jupiter's center, or core .",
+    "answer": "What's It Like Inside Jupiter",
     "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/io-tides/en/",
+    "source_url": "https://spaceplace.nasa.gov/jupiter/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/io-tides/en/io.en.jpg",
-    "context": "Image of Io, captured by NASA’s Galileo spacecraft. Credit: NASA/JPL/University of Arizona"
-  },
-  {
-    "id": "nasa_q_087",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: “Easy!” you think, “this topic space is the part of space that exists between stars.”",
-    "answer": "Interstellar",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/interstellar/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/interstellar/en/cover.en.png",
-    "context": "At first glance, the answer seems simple. ‘Inter’ means between. ‘Stellar’ refers to stars. “Easy!” you think, “Interstellar space is the part of space that exists between stars.”"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_089.jpg",
+    "context": "It's really hot inside Jupiter! No one knows exactly how hot, but scientists think it could be about 43,000°F (24,000°C) near Jupiter's center, or core .",
+    "source_image_url": "https://spaceplace.nasa.gov/jupiter/en/jupiter1.en.jpg"
   },
   {
     "id": "nasa_q_084",
@@ -806,188 +875,229 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/ice-dwarf/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/ice-dwarf/en/pluto_new_horizons.en.png",
-    "context": "In 2015, three billion miles away, Pluto sent a “love note” back to Earth, via NASA's New Horizons spacecraft. Credit: NASA/JHUAPL/SWRI"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_084.png",
+    "context": "In 2015, three billion miles away, Pluto sent a “love note” back to Earth, via NASA's New Horizons spacecraft. Credit: NASA/JHUAPL/SWRI",
+    "source_image_url": "https://spaceplace.nasa.gov/ice-dwarf/en/pluto_new_horizons.en.png"
   },
   {
-    "id": "nasa_q_089",
-    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Color Jupiter with the project scientist for NASA's Juno spacecraft.",
-    "answer": "Junoquest",
+    "id": "nasa_q_088",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? Image of Io, captured by NASA’s Galileo spacecraft.",
+    "answer": "Io Tides",
     "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/junoquest/en/",
+    "source_url": "https://spaceplace.nasa.gov/io-tides/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/junoquest/en/jupiter-earth-comparison.en.jpg",
-    "context": "Color Jupiter with the project scientist for NASA's Juno spacecraft."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_088.jpg",
+    "context": "Image of Io, captured by NASA’s Galileo spacecraft. Credit: NASA/JPL/University of Arizona",
+    "source_image_url": "https://spaceplace.nasa.gov/io-tides/en/io.en.jpg"
+  },
+  {
+    "id": "nasa_q_087",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: “Easy!” you think, “this topic space is the part of space that exists between stars.”",
+    "answer": "Interstellar",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/interstellar/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_087.png",
+    "context": "At first glance, the answer seems simple. ‘Inter’ means between. ‘Stellar’ refers to stars. “Easy!” you think, “Interstellar space is the part of space that exists between stars.”",
+    "source_image_url": "https://spaceplace.nasa.gov/interstellar/en/cover.en.png"
   },
   {
     "id": "nasa_q_090",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? No one knows exactly how hot, but scientists think it could be about 43,000°F (24,000°C) near Jupiter's center, or core .",
-    "answer": "What's It Like Inside Jupiter",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/jupiter/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/jupiter/en/jupiter1.en.jpg",
-    "context": "It's really hot inside Jupiter! No one knows exactly how hot, but scientists think it could be about 43,000°F (24,000°C) near Jupiter's center, or core ."
-  },
-  {
-    "id": "nasa_q_093",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? If there were living things, they were probably teeny tiny little organisms—something like bacteria here on Earth .",
-    "answer": "Mars 2020",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/mars-2020/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/mars-2020/en/mars2020-rover.en.jpg",
-    "context": "Rovers on Mars have collected evidence of water and some of the chemical building blocks of life. Scientists think it might be possible that life existed on Mars a long time ago. If there were living things, they were probably teeny tiny little organisms—something like bacteria here on Earth . But, did life actually ever get started on Mars?"
-  },
-  {
-    "id": "nasa_q_091",
     "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: It is orbited by eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
     "answer": "Kuiper Belt",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/kuiper-belt/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/kuiper-belt/en/kuiperbelt6.en.png",
-    "context": "The Sun is at the center of our solar system. It is orbited by eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. But what’s past Neptune?"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_090.png",
+    "context": "The Sun is at the center of our solar system. It is orbited by eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. But what’s past Neptune?",
+    "source_image_url": "https://spaceplace.nasa.gov/kuiper-belt/en/kuiperbelt6.en.png"
   },
   {
-    "id": "nasa_q_094",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? To find out, NASA sent the this topic rover to Mars.",
-    "answer": "Curiosity",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/mars-curiosity/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/mars-curiosity/en/curiosity-here.en.jpg",
-    "context": "On Earth , where there is water, there are living things. We know that Mars had water a long time ago. But did it also have other conditions life needs? To find out, NASA sent the Curiosity rover to Mars. Curiosity is the largest robot to ever land on another planet. It is about the size of a small SUV."
-  },
-  {
-    "id": "nasa_q_092",
+    "id": "nasa_q_091",
     "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? For years, a group of scientists had been looking through the night sky for a special kind of murky, dim star.",
     "answer": "A Planet Without a Sun",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/lone-planet/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/lone-planet/lonely-planet.en.png",
-    "context": "For years, a group of scientists had been looking through the night sky for a special kind of murky, dim star. These stars don’t emit much light, so they are pretty hard to find."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_091.png",
+    "context": "For years, a group of scientists had been looking through the night sky for a special kind of murky, dim star. These stars don’t emit much light, so they are pretty hard to find.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/lone-planet/lonely-planet.en.png"
+  },
+  {
+    "id": "nasa_q_092",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? If there were living things, they were probably teeny tiny little organisms—something like bacteria here on Earth .",
+    "answer": "Mars 2020",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/mars-2020/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_092.jpg",
+    "context": "Rovers on Mars have collected evidence of water and some of the chemical building blocks of life. Scientists think it might be possible that life existed on Mars a long time ago. If there were living things, they were probably teeny tiny little organisms—something like bacteria here on Earth . But, did life actually ever get started on Mars?",
+    "source_image_url": "https://spaceplace.nasa.gov/mars-2020/en/mars2020-rover.en.jpg"
+  },
+  {
+    "id": "nasa_q_093",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? To find out, NASA sent the this topic rover to Mars.",
+    "answer": "Curiosity",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/mars-curiosity/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_093.jpg",
+    "context": "On Earth , where there is water, there are living things. We know that Mars had water a long time ago. But did it also have other conditions life needs? To find out, NASA sent the Curiosity rover to Mars. Curiosity is the largest robot to ever land on another planet. It is about the size of a small SUV.",
+    "source_image_url": "https://spaceplace.nasa.gov/mars-curiosity/en/curiosity-here.en.jpg"
   },
   {
     "id": "nasa_q_095",
-    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: This image depicts all of the rovers which have driven on Mars, as well as the Mars helicopter.",
-    "answer": "The Mars Rovers",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/mars-rovers/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/mars-rovers/en/mars-rovers_metal-plate.en.jpg",
-    "context": "This image depicts all of the rovers which have driven on Mars, as well as the Mars helicopter. The artwork is etched onto a metal plate attached to the deck of the Mars Perseverance rover. Credit: NASA/JPL-Caltech"
-  },
-  {
-    "id": "nasa_q_096",
     "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: This robotic explorer, called a rover , was named this topic.",
     "answer": "Sojourner",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/mars-sojourner/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png",
-    "context": "In 1997, NASA scientists did something pretty amazing. For the first time, they used a small wheeled robot to study the surface of Mars . This robotic explorer, called a rover , was named Sojourner. It was only about the size of a microwave oven. However, it went on to share lots of important new information with scientists."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_095.png",
+    "context": "In 1997, NASA scientists did something pretty amazing. For the first time, they used a small wheeled robot to study the surface of Mars . This robotic explorer, called a rover , was named Sojourner. It was only about the size of a microwave oven. However, it went on to share lots of important new information with scientists.",
+    "source_image_url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png"
   },
   {
-    "id": "nasa_q_097",
+    "id": "nasa_q_096",
     "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? After the success of the Sojourner rover , NASA wanted to send more rovers to learn about Mars .",
     "answer": "Spirit and Opportunity",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/mars-spirit-opportunity/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/mars-spirit-opportunity/en/spirit-opportunity.en.jpg",
-    "context": "After the success of the Sojourner rover , NASA wanted to send more rovers to learn about Mars . So, in 2003, they sent two rovers to the Red Planet. The rovers were named Spirit and Opportunity. Together, they were part of the Mars Exploration Rover mission. Spirit and Opportunity were made as twins. They both carried all of the same scientific instruments. And each was about the size of a golf cart."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_096.jpg",
+    "context": "After the success of the Sojourner rover , NASA wanted to send more rovers to learn about Mars . So, in 2003, they sent two rovers to the Red Planet. The rovers were named Spirit and Opportunity. Together, they were part of the Mars Exploration Rover mission. Spirit and Opportunity were made as twins. They both carried all of the same scientific instruments. And each was about the size of a golf cart.",
+    "source_image_url": "https://spaceplace.nasa.gov/mars-spirit-opportunity/en/spirit-opportunity.en.jpg"
   },
   {
-    "id": "nasa_q_101",
+    "id": "nasa_q_094",
+    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: This image depicts all of the rovers which have driven on Mars, as well as the Mars helicopter.",
+    "answer": "The Mars Rovers",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/mars-rovers/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_094.jpg",
+    "context": "This image depicts all of the rovers which have driven on Mars, as well as the Mars helicopter. The artwork is etched onto a metal plate attached to the deck of the Mars Perseverance rover. Credit: NASA/JPL-Caltech",
+    "source_image_url": "https://spaceplace.nasa.gov/mars-rovers/en/mars-rovers_metal-plate.en.jpg"
+  },
+  {
+    "id": "nasa_q_100",
     "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: All this topic are elliptical, which means they are an ellipse, similar to an oval.",
     "answer": "Orbits",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/orbits/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/orbits/en/orbit.en.png",
-    "context": "Orbits come in different shapes. All orbits are elliptical, which means they are an ellipse, similar to an oval. For the planets, the orbits are almost circular. The orbits of comets have a different shape. They look like a \"squashed\" circle. They look more like thin ellipses than circles."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_100.png",
+    "context": "Orbits come in different shapes. All orbits are elliptical, which means they are an ellipse, similar to an oval. For the planets, the orbits are almost circular. The orbits of comets have a different shape. They look like a \"squashed\" circle. They look more like thin ellipses than circles.",
+    "source_image_url": "https://spaceplace.nasa.gov/orbits/en/orbit.en.png"
   },
   {
-    "id": "nasa_q_098",
-    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: If it's time for a this topic, you won't need a telescope, binoculars, or a high mountain to have a \"star gazing\" party.",
-    "answer": "Meteor Shower",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/meteor-shower/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/meteor-shower/en/Comet_orbit.en.jpg",
-    "context": "If it's time for a meteor shower, you won't need a telescope, binoculars, or a high mountain to have a \"star gazing\" party. You might need a warm sleeping bag and an alarm clock to wake you in the middle of the night. But then just lying down in your own back yard will put you in the perfect spot to enjoy a great show."
-  },
-  {
-    "id": "nasa_q_100",
+    "id": "nasa_q_099",
     "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? Way past Neptune's orbit, even past the Kuiper belt , what is there out there?",
     "answer": "Oort Cloud",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/oort-cloud/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/oort-cloud/en/thumbnail.en.png",
-    "context": "Way past Neptune's orbit, even past the Kuiper belt , what is there out there? Have you ever wondered? Watch this video to find out!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_099.png",
+    "context": "Way past Neptune's orbit, even past the Kuiper belt , what is there out there? Have you ever wondered? Watch this video to find out!",
+    "source_image_url": "https://spaceplace.nasa.gov/oort-cloud/en/thumbnail.en.png"
   },
   {
-    "id": "nasa_q_103",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? This cosmic cloud, called Sharpless 2-106, is an area where stars (and planets) form.",
-    "answer": "Planet",
+    "id": "nasa_q_097",
+    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: If it's time for a this topic, you won't need a telescope, binoculars, or a high mountain to have a \"star gazing\" party.",
+    "answer": "Meteor Shower",
     "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/planet-what-is/en/",
+    "source_url": "https://spaceplace.nasa.gov/meteor-shower/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/planet-what-is/star-forming-region.en.jpg",
-    "context": "This cosmic cloud, called Sharpless 2-106, is an area where stars (and planets) form. Credit: NASA/ESA/Hubble Heritage Team (STScI/AURA)."
-  },
-  {
-    "id": "nasa_q_104",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: The eight planets in our solar system differ in lots of ways.",
-    "answer": "Planets Round",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/planets-round/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/planets-round/en/round-01.en.png",
-    "context": "The eight planets in our solar system differ in lots of ways. They are different sizes. They are different distances from the sun. Some are small and rocky, and others are big and gassy. But they're all nice and round. Why is that? Why aren't they shaped like cubes, pyramids, or discs?"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_097.jpg",
+    "context": "If it's time for a meteor shower, you won't need a telescope, binoculars, or a high mountain to have a \"star gazing\" party. You might need a warm sleeping bag and an alarm clock to wake you in the middle of the night. But then just lying down in your own back yard will put you in the perfect spot to enjoy a great show.",
+    "source_image_url": "https://spaceplace.nasa.gov/meteor-shower/en/Comet_orbit.en.jpg"
   },
   {
     "id": "nasa_q_105",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: The heavier the planet, the stronger it tugs on nearby objects—like moons or visiting spacecraft.",
-    "answer": "Planets Weight",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/planets-weight/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/planets-weight/planets-weight1.en.png",
-    "context": "In real life, we can’t pick up a planet and put it on a scale. However, scientists do have ways to figure out how much a planet weighs. They can calculate how hard the planet pulls on other things. The heavier the planet, the stronger it tugs on nearby objects—like moons or visiting spacecraft. That tug is what we call gravitational pull ."
-  },
-  {
-    "id": "nasa_q_107",
-    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Illustration of the Psyche spacecraft at the asteroid, which is also named Psyche.",
-    "answer": "Psyche Launch Bingo",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/psyche-launch-bingo/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/psyche-launch-bingo/en/psyche-spacecraft-at-the-asteroid-psyche.en.jpg",
-    "context": "Illustration of the Psyche spacecraft at the asteroid, which is also named Psyche. Credit: NASA/JPL-Caltech/ASU"
-  },
-  {
-    "id": "nasa_q_106",
     "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Our solar system is home to eight amazing this topic.",
     "answer": "Planets",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/planets/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/planets/planets-09.en.png",
-    "context": "Our solar system is home to eight amazing planets. Some are small and rocky; others are big and gassy. Some are so hot that metals would melt on the surface. Others are freezing cold."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_105.png",
+    "context": "Our solar system is home to eight amazing planets. Some are small and rocky; others are big and gassy. Some are so hot that metals would melt on the surface. Others are freezing cold.",
+    "source_image_url": "https://spaceplace.nasa.gov/review/planets/planets-09.en.png"
   },
   {
-    "id": "nasa_q_108",
+    "id": "nasa_q_106",
+    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Illustration of the Psyche spacecraft at the asteroid, which is also named Psyche.",
+    "answer": "Psyche Launch Bingo",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/psyche-launch-bingo/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_106.jpg",
+    "context": "Illustration of the Psyche spacecraft at the asteroid, which is also named Psyche. Credit: NASA/JPL-Caltech/ASU",
+    "source_image_url": "https://spaceplace.nasa.gov/psyche-launch-bingo/en/psyche-spacecraft-at-the-asteroid-psyche.en.jpg"
+  },
+  {
+    "id": "nasa_q_104",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: The heavier the planet, the stronger it tugs on nearby objects—like moons or visiting spacecraft.",
+    "answer": "Planets Weight",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/planets-weight/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_104.png",
+    "context": "In real life, we can’t pick up a planet and put it on a scale. However, scientists do have ways to figure out how much a planet weighs. They can calculate how hard the planet pulls on other things. The heavier the planet, the stronger it tugs on nearby objects—like moons or visiting spacecraft. That tug is what we call gravitational pull .",
+    "source_image_url": "https://spaceplace.nasa.gov/review/planets-weight/planets-weight1.en.png"
+  },
+  {
+    "id": "nasa_q_102",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? This cosmic cloud, called Sharpless 2-106, is an area where stars (and planets) form.",
+    "answer": "Planet",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/planet-what-is/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_102.jpg",
+    "context": "This cosmic cloud, called Sharpless 2-106, is an area where stars (and planets) form. Credit: NASA/ESA/Hubble Heritage Team (STScI/AURA).",
+    "source_image_url": "https://spaceplace.nasa.gov/review/planet-what-is/star-forming-region.en.jpg"
+  },
+  {
+    "id": "nasa_q_103",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: The eight planets in our solar system differ in lots of ways.",
+    "answer": "Planets Round",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/planets-round/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_103.png",
+    "context": "The eight planets in our solar system differ in lots of ways. They are different sizes. They are different distances from the sun. Some are small and rocky, and others are big and gassy. But they're all nice and round. Why is that? Why aren't they shaped like cubes, pyramids, or discs?",
+    "source_image_url": "https://spaceplace.nasa.gov/planets-round/en/round-01.en.png"
+  },
+  {
+    "id": "nasa_q_107",
     "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: If you can find an unwanted CD or DVD, you can make your own jewel in the sky!",
     "answer": "Saturn Model",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/saturn-model/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/saturn-model/en/saturn.en.png",
-    "context": "If you can find an unwanted CD or DVD, you can make your own jewel in the sky!"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_107.png",
+    "context": "If you can find an unwanted CD or DVD, you can make your own jewel in the sky!",
+    "source_image_url": "https://spaceplace.nasa.gov/saturn-model/en/saturn.en.png"
+  },
+  {
+    "id": "nasa_q_108",
+    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: An image of Saturn taken by the Cassini spacecraft.",
+    "answer": "Saturn Rings",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/saturn-rings/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_108.jpg",
+    "context": "An image of Saturn taken by the Cassini spacecraft. Credit: NASA/JPL-Caltech/Space Science Institute",
+    "source_image_url": "https://spaceplace.nasa.gov/saturn-rings/en/saturn-rings5.en.jpg"
+  },
+  {
+    "id": "nasa_q_113",
+    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? Since then, several robotic spacecraft have flown by, orbited, or landed on Mars and sent back lots of information about this world so different from our own.",
+    "answer": "Water on Mars",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/water-on-mars/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_113.jpg",
+    "context": "The first spacecraft from Earth to visit Mars was Mariner 4 in 1965. Since then, several robotic spacecraft have flown by, orbited, or landed on Mars and sent back lots of information about this world so different from our own.",
+    "source_image_url": "https://spaceplace.nasa.gov/water-on-mars/en/mars_globe.en.jpg"
   },
   {
     "id": "nasa_q_111",
@@ -996,28 +1106,9 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/switch-a-roo/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/review/switch-a-roo/sse_planet_sizes.en.jpg",
-    "context": "The planets and moons of our solar system come in a wondrous variety of colors and textures. Some appear white, smooth, and calm; others are splotchy with color and dotted with craters and volcanoes. If this is the variety to be found in our solar system, imagine the strange worlds that must exist around other stars!"
-  },
-  {
-    "id": "nasa_q_109",
-    "question": "Which Space Place answer can you justify only after reconciling the image with this redacted article clue: An image of Saturn taken by the Cassini spacecraft.",
-    "answer": "Saturn Rings",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/saturn-rings/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/saturn-rings/en/saturn-rings5.en.jpg",
-    "context": "An image of Saturn taken by the Cassini spacecraft. Credit: NASA/JPL-Caltech/Space Science Institute"
-  },
-  {
-    "id": "nasa_q_112",
-    "question": "If you had to infer the page topic from the visual evidence plus this article clue, which NASA Space Place topic would you choose? Since then, several robotic spacecraft have flown by, orbited, or landed on Mars and sent back lots of information about this world so different from our own.",
-    "answer": "Water on Mars",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/water-on-mars/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/water-on-mars/en/mars_globe.en.jpg",
-    "context": "The first spacecraft from Earth to visit Mars was Mariner 4 in 1965. Since then, several robotic spacecraft have flown by, orbited, or landed on Mars and sent back lots of information about this world so different from our own."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_111.jpg",
+    "context": "The planets and moons of our solar system come in a wondrous variety of colors and textures. Some appear white, smooth, and calm; others are splotchy with color and dotted with craters and volcanoes. If this is the variety to be found in our solar system, imagine the strange worlds that must exist around other stars!",
+    "source_image_url": "https://spaceplace.nasa.gov/review/switch-a-roo/sse_planet_sizes.en.jpg"
   },
   {
     "id": "nasa_q_110",
@@ -1026,27 +1117,41 @@
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/solar-system-formation/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/solar-system-formation/en/infographic.en.png",
-    "context": "The solar system is a pretty busy place. It’s got all kinds of planets, moons, asteroids, and comets zipping around our Sun."
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_110.png",
+    "context": "The solar system is a pretty busy place. It’s got all kinds of planets, moons, asteroids, and comets zipping around our Sun.",
+    "source_image_url": "https://spaceplace.nasa.gov/solar-system-formation/en/infographic.en.png"
   },
   {
-    "id": "nasa_q_113",
-    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Each of the planets in our solar system experiences its own unique weather.",
-    "answer": "Weather Like on Other Planets",
-    "source": "nasa_space_place",
-    "source_url": "https://spaceplace.nasa.gov/weather-on-other-planets/en/",
-    "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/weather-on-other-planets/en/postcard-mercury.en.jpg",
-    "context": "Each of the planets in our solar system experiences its own unique weather. But one thing is certain: Only Earth has weather we can live with."
-  },
-  {
-    "id": "nasa_q_114",
+    "id": "nasa_q_115",
     "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: Here is how long it takes each of the planets in our solar system to orbit around the Sun (in Earth days):",
     "answer": "Year on Other Planets",
     "source": "nasa_space_place",
     "source_url": "https://spaceplace.nasa.gov/years-on-other-planets/en/",
     "subject": "space_science",
-    "image_url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png",
-    "context": "Here is how long it takes each of the planets in our solar system to orbit around the Sun (in Earth days):"
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_115.png",
+    "context": "Here is how long it takes each of the planets in our solar system to orbit around the Sun (in Earth days):",
+    "source_image_url": "https://spaceplace.nasa.gov/resources/layout/robot/robot_shortanswer.en.png"
+  },
+  {
+    "id": "nasa_q_112",
+    "question": "The image and the article sentence point to the same Space Place lesson. Which topic best explains both? Clue: An image of Neptune taken by the Voyager 2 spacecraft.",
+    "answer": "Voyager To Planets",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/voyager-to-planets/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_112.jpg",
+    "context": "An image of Neptune taken by the Voyager 2 spacecraft. Image credit: NASA",
+    "source_image_url": "https://spaceplace.nasa.gov/voyager-to-planets/en/neptune.en.jpg"
+  },
+  {
+    "id": "nasa_q_114",
+    "question": "Which NASA Space Place topic becomes the strongest inference when you combine the image with this article clue: Each of the planets in our solar system experiences its own unique weather.",
+    "answer": "Weather Like on Other Planets",
+    "source": "nasa_space_place",
+    "source_url": "https://spaceplace.nasa.gov/weather-on-other-planets/en/",
+    "subject": "space_science",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/nasa/nasa_q_114.jpg",
+    "context": "Each of the planets in our solar system experiences its own unique weather. But one thing is certain: Only Earth has weather we can live with.",
+    "source_image_url": "https://spaceplace.nasa.gov/weather-on-other-planets/en/postcard-mercury.en.jpg"
   }
 ]

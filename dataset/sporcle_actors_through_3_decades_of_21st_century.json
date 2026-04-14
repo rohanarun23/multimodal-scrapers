@@ -1,0 +1,598 @@
+[
+    {
+        "id": 1,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_001.jpg",
+        "answer": "Bill & Ted Face the Music",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/KYOWazP.jpg"
+        },
+        "accepted_answers": [
+            "Bill & Ted Face the Music",
+            "bill & ted"
+        ],
+        "context": "Keanu Reeves (\u201820s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/8b79c28a0ff8b0bd21ea066eba254080"
+    },
+    {
+        "id": 2,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_002.jpg",
+        "answer": "John Wick",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/KrUjGKM.jpg"
+        },
+        "context": "Keanu Reeves (\u201810s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/8c19127d1ae47fb882f2230e50c1de2c"
+    },
+    {
+        "id": 3,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_003.jpg",
+        "answer": "Constantine",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/Pp8v4wo.jpg"
+        },
+        "context": "Keanu Reeves (\u201800s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/9f0c20f88972545be12c85d913975106"
+    },
+    {
+        "id": 4,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_004.jpg",
+        "answer": "Jungle Cruise",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/1Wm71Oq.jpg"
+        },
+        "context": "Dwayne Johnson (\u201820s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/5dd310ef6a9c28d52470698bf7a7139e"
+    },
+    {
+        "id": 5,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_005.jpg",
+        "answer": "Jumanji: Welcome to the Jungle",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/TjN0Z4k.jpg"
+        },
+        "accepted_answers": [
+            "Jumanji: Welcome to the Jungle",
+            "jumanji",
+            "welcome to the jungle"
+        ],
+        "context": "Dwayne Johnson (\u201810s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/9ebb3f2a68fb660e31025bbe895e8ef6"
+    },
+    {
+        "id": 6,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_006.jpg",
+        "answer": "The Scorpion King",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/RAzs7Ku.jpg"
+        },
+        "context": "Dwayne Johnson (\u201800s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/693fcc491683f2264c8d23844fcbe38a"
+    },
+    {
+        "id": 7,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_007.jpg",
+        "answer": "Free Guy",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/OSydr8u.jpg"
+        },
+        "context": "Ryan Reynolds (\u201820s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/812f9b6c6ad3cfa7bf1204d8cee2949a"
+    },
+    {
+        "id": 8,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_008.jpg",
+        "answer": "Deadpool",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/TGevtTh.jpg"
+        },
+        "context": "Ryan Reynolds (\u201810s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/45c5b831250ac9a7d6fe3a88568972de"
+    },
+    {
+        "id": 9,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_009.jpg",
+        "answer": "The Proposal",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/fBP6Wjx.jpg"
+        },
+        "context": "Ryan Reynolds (\u201800s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/a972f6cc75b37e743d68fb407ff6e989"
+    },
+    {
+        "id": 10,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_010.jpg",
+        "answer": "Cry Macho",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/Wzvmgtt.jpg"
+        },
+        "context": "Clint Eastwood (\u201820s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/b0c8b6292ffaf199bf25f5a2a2fa675b"
+    },
+    {
+        "id": 11,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_011.jpg",
+        "answer": "The Mule",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/0cYVF56.jpg"
+        },
+        "context": "Clint Eastwood (\u201810s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/0c2445a3a47034569a447097d4d19fb8"
+    },
+    {
+        "id": 12,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_012.jpg",
+        "answer": "Gran Torino",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/bk3hT3T.jpg"
+        },
+        "context": "Clint Eastwood (\u201800s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/49684abe040c53cd47e3788f82ce19fc"
+    },
+    {
+        "id": 13,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_013.jpg",
+        "answer": "Coming 2 America",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/uAYmCML.jpg"
+        },
+        "accepted_answers": [
+            "Coming 2 America",
+            "coming to america"
+        ],
+        "context": "Eddie Murphy (\u201820s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/83e64b18a55ccf1bc96c6db551f02058"
+    },
+    {
+        "id": 14,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_014.jpg",
+        "answer": "Dolemite is My Name",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/AxkzCOH.jpg"
+        },
+        "context": "Eddie Murphy (\u201810s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/9968633a88b4454dc2c335520aeb742f"
+    },
+    {
+        "id": 15,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_015.jpg",
+        "answer": "Dreamgirls",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/SP5Ofn5.jpg"
+        },
+        "context": "Eddie Murphy (\u201800s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/57c5d2ad271f2d2f8956d5474a6ba894"
+    },
+    {
+        "id": 16,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_016.jpg",
+        "answer": "Sonic the Hedgehog",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/ewBal0E.jpg"
+        },
+        "accepted_answers": [
+            "Sonic the Hedgehog",
+            "sonic"
+        ],
+        "context": "Jim Carrey (\u201820s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/3ba4cd2d1373a8089d923635de4b442c"
+    },
+    {
+        "id": 17,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_017.jpg",
+        "answer": "Mr. Popper\u2019s Penguins",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/Qcs6DoH.jpg"
+        },
+        "context": "Jim Carrey (\u201810s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/3e773b9ac43f8aaceb16efa4f4df042f"
+    },
+    {
+        "id": 18,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_018.jpg",
+        "answer": "Eternal Sunshine of the Spotless Mind",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/RDB2Iz4.jpg"
+        },
+        "context": "Jim Carrey (\u201800s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/7fe48cf405706dae417e0f78fe9305d4"
+    },
+    {
+        "id": 19,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_019.jpg",
+        "answer": "King Richard",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/MNygv6g.jpg"
+        },
+        "context": "Will Smith (\u201820s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/7ed4b726727921b3fdf9f0868e34812c"
+    },
+    {
+        "id": 20,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_020.jpg",
+        "answer": "Aladdin",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/DCj3A1g.jpg"
+        },
+        "context": "Will Smith (\u201810s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/04acb65e1964d900aaf3968f7c3182bf"
+    },
+    {
+        "id": 21,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_021.jpg",
+        "answer": "The Pursuit of Happyness",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/yGES4lF.jpg"
+        },
+        "accepted_answers": [
+            "The Pursuit of Happyness",
+            "the pursuit of happiness"
+        ],
+        "context": "Will Smith (\u201800s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/4357a13085eb965b36e1d7b0df705894"
+    },
+    {
+        "id": 22,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_022.jpg",
+        "answer": "Freaky",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/dlvr9qi.jpg"
+        },
+        "context": "Vince Vaughn (\u201820s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/d53d68fab21bfde2f9da3956a05e3908"
+    },
+    {
+        "id": 23,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_023.jpg",
+        "answer": "Hacksaw Ridge",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/gyO0L7U.jpg"
+        },
+        "context": "Vince Vaughn (\u201810s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/e20f32d42d9837f63fdc4798e54de93c"
+    },
+    {
+        "id": 24,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_024.jpg",
+        "answer": "Wedding Crashers",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/Nd76XzC.jpg"
+        },
+        "context": "Vince Vaughn (\u201800s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/e0e04d98a40b0d1d6848f8e65be5a2cd"
+    },
+    {
+        "id": 25,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_025.jpg",
+        "answer": "Ghostbusters: Afterlife",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/ybw5fSv.jpg"
+        },
+        "accepted_answers": [
+            "Ghostbusters: Afterlife",
+            "ghostbusters",
+            "afterlife"
+        ],
+        "context": "Paul Rudd (\u201820s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/cd20129ece47ae7f73ee0967a4dbf7bb"
+    },
+    {
+        "id": 26,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_026.jpg",
+        "answer": "Ant-Man",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/DknN3qw.jpg"
+        },
+        "context": "Paul Rudd (\u201810s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/9b94f03ba25225f2f8089aa90b759bd5"
+    },
+    {
+        "id": 27,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_027.jpg",
+        "answer": "I Love You, Man",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/T5eRuCT.jpg"
+        },
+        "context": "Paul Rudd (\u201800s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/f21c0fc776ecc9a6a40e4ad743b28889"
+    },
+    {
+        "id": 28,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_028.jpg",
+        "answer": "News of the World",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/KPmoza3.jpg"
+        },
+        "context": "Tom Hanks (\u201820s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/d6dd16e76d6713612896ab222587f3b8"
+    },
+    {
+        "id": 29,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_029.jpg",
+        "answer": "Sully",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/JYEfP4g.jpg"
+        },
+        "context": "Tom Hanks (\u201810s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/25b4121a5004ddd528d36195e2513dbe"
+    },
+    {
+        "id": 30,
+        "question": "Can you name the movies released through the first three decades of the 21st century that starred the given actors?",
+        "quiz_title": "Actors Through Three Decades of the 21st Century",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_3_decades_of_21st_century_030.jpg",
+        "answer": "Catch Me if You Can",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-3-decades-of-21st-century",
+            "quiz_title": "Actors Through Three Decades of the 21st Century",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "9O73e0d1y8",
+            "game_id": 2332297,
+            "image_source_url": "https://imgur.com/EprVnIl.jpg"
+        },
+        "context": "Tom Hanks (\u201800s)",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/ef15acd83a0211caa7835b6a017142e5"
+    }
+]

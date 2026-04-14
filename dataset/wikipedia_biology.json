@@ -5,10 +5,11 @@
     "answer": "Cell",
     "source": "wikipedia",
     "source_page": "Cell_(biology)",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Animal_cell_NIH.jpg",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/wikipedia/wiki_bio_001.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Animal_cell_NIH.jpg",
     "caption": "animal cell from NIH",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Animal_cell_NIH.jpg"
   },
   {
     "id": "wiki_bio_002",
@@ -16,10 +17,11 @@
     "answer": "Cell",
     "source": "wikipedia",
     "source_page": "Cell_(biology)",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Average_prokaryote_cell-_en.svg/1280px-Average_prokaryote_cell-_en.svg.png",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/wikipedia/wiki_bio_002.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Average_prokaryote_cell-_en.svg",
     "caption": "A diagram of a typical prokaryotic cell . This diagram, made in Adobe Illustrator , is an improved version of a similar diagram, Prokaryote cell diagram.svg , which was also made by LadyofHats . Besides general appearance changes, this version adds plasmids and pili , and notes that DNA is circular.",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Average_prokaryote_cell-_en.svg/1280px-Average_prokaryote_cell-_en.svg.png"
   },
   {
     "id": "wiki_bio_003",
@@ -27,10 +29,11 @@
     "answer": "Cell",
     "source": "wikipedia",
     "source_page": "Cell_(biology)",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Cell_differentiation.jpg",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/wikipedia/wiki_bio_003.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Cell_differentiation.jpg",
     "caption": "Post-translational modifications in cell differentiation",
-    "license": "CC BY 3.0"
+    "license": "CC BY 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Cell_differentiation.jpg"
   },
   {
     "id": "wiki_bio_004",
@@ -38,10 +41,11 @@
     "answer": "Cell",
     "source": "wikipedia",
     "source_page": "Cell_(biology)",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cell_membrane_detailed_diagram_en.svg/1280px-Cell_membrane_detailed_diagram_en.svg.png",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/wikipedia/wiki_bio_004.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cell_membrane_detailed_diagram_en.svg",
     "caption": "The cell membrane, also called the plasma membrane or plasmalemma, is a semipermeable lipid bilayer common to all living cells. It contains a variety of biological molecules, primarily proteins and lipids, which are involved in a vast array of cellular processes. It also serves as the attachment point for both the intracellular cytoskeleton and, if present, the cell wall.",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cell_membrane_detailed_diagram_en.svg/1280px-Cell_membrane_detailed_diagram_en.svg.png"
   },
   {
     "id": "wiki_bio_005",
@@ -49,10 +53,11 @@
     "answer": "Cell",
     "source": "wikipedia",
     "source_page": "Cell_(biology)",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cell_membrane_drawing-en.svg/1280px-Cell_membrane_drawing-en.svg.png",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/wikipedia/wiki_bio_005.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Cell_membrane_drawing-en.svg",
     "caption": "Schematic three dimensional cross section of a cell membrane.",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cell_membrane_drawing-en.svg/1280px-Cell_membrane_drawing-en.svg.png"
   },
   {
     "id": "wiki_bio_006",
@@ -63,7 +68,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cells_from_different_germ_layers.webp/1280px-Cells_from_different_germ_layers.webp.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cells_from_different_germ_layers.webp",
     "caption": "Cells that arise from the three germ layers",
-    "license": "CC BY 4.0"
+    "license": "CC BY 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cells_from_different_germ_layers.webp/1280px-Cells_from_different_germ_layers.webp.png"
   },
   {
     "id": "wiki_bio_007",
@@ -74,7 +80,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Celltypes.svg/1280px-Celltypes.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Celltypes.svg",
     "caption": "Comparison of eukaryotes vs. prokaryotes",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Celltypes.svg/1280px-Celltypes.svg.png"
   },
   {
     "id": "wiki_bio_008",
@@ -85,18 +92,20 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Diagram_human_cell_nucleus_multilang.svg/1280px-Diagram_human_cell_nucleus_multilang.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Diagram_human_cell_nucleus_multilang.svg",
     "caption": "A comprehensive diagram of a human cell nucleus.",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Diagram_human_cell_nucleus_multilang.svg/1280px-Diagram_human_cell_nucleus_multilang.svg.png"
   },
   {
     "id": "wiki_bio_009",
-    "question": "If you had to sort this image onto one biology page using the caption as evidence, which topic would you choose? Clue: HeLa this topic stained with Hoechst 33258 stain.",
+    "question": "Which biology topic can you infer only after combining the image with the Wikipedia caption?",
     "answer": "Cell",
     "source": "wikipedia",
     "source_page": "Cell_(biology)",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/HeLa_cells_stained_with_Hoechst_33258.jpg",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/wikipedia/wiki_bio_009.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/HeLa_cells_stained_with_Hoechst_33258.jpg",
-    "caption": "HeLa cells stained with Hoechst 33258 stain.",
-    "license": "Public domain"
+    "caption": "",
+    "license": "",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/HeLa_cells_stained_with_Hoechst_33258.jpg"
   },
   {
     "id": "wiki_bio_010",
@@ -104,10 +113,11 @@
     "answer": "Cell",
     "source": "wikipedia",
     "source_page": "Cell_(biology)",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Plant_cell_structure-en.svg/1280px-Plant_cell_structure-en.svg.png",
+    "image_url": "/Users/rohanarun/projects/scrapers/dataset/images/wikipedia/wiki_bio_010.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Plant_cell_structure-en.svg",
     "caption": "The image is a corrected version of an image I made sometime ago. The original quote on the image was \"the image describes the parts on a typical plant cell. the image i made myself as resources i used the simple structure here, also the one i found hereand must of the text i could get from here as external source i used another structure found on the book \"molecular cell biology\" from james darnell, harvey lodish and david baltimore. i tried to convine all in a complete yet simple diagram. i finish it on the 03-feb-05 â€”LadyofHats 01:12, 3 Feb 2005 (UTC)\" Between the changes made are: removed the leucoplast , under request. added the name tonoplast and increased the side of the vacuole reduced the size of the cytoskeleton , and distributed in the back. changed the smooth endoplasmic reticulum to look as a part of the rough ER. made ribosome smaller and more attached to the rough endoplasmic reticulum made small membrane vesicles smaller and yellow. changed Golgi vesicles to Golgi body and added the actual Golgi vesicles. grouped elements that belonged together. made the file an SVG",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Plant_cell_structure-en.svg/1280px-Plant_cell_structure-en.svg.png"
   },
   {
     "id": "wiki_bio_011",
@@ -118,7 +128,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/RobertHookeMicrographia1665.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/RobertHookeMicrographia1665.jpg",
     "caption": "Suber cells and mimosa leaves",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/RobertHookeMicrographia1665.jpg"
   },
   {
     "id": "wiki_bio_012",
@@ -129,7 +140,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Structure_of_animal_cell.JPG/1280px-Structure_of_animal_cell.JPG",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Structure_of_animal_cell.JPG",
     "caption": "Structure of animal cell in Indian Museum, Kolkata, India",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Structure_of_animal_cell.JPG/1280px-Structure_of_animal_cell.JPG"
   },
   {
     "id": "wiki_bio_013",
@@ -140,7 +152,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Symbiogenesis_2_mergers.svg/1280px-Symbiogenesis_2_mergers.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Symbiogenesis_2_mergers.svg",
     "caption": "Symbiogenesis with 2 mergers creating Eukaryotes and then Plants",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Symbiogenesis_2_mergers.svg/1280px-Symbiogenesis_2_mergers.svg.png"
   },
   {
     "id": "wiki_bio_014",
@@ -151,7 +164,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Three_cell_growth_types.svg/1280px-Three_cell_growth_types.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Three_cell_growth_types.svg",
     "caption": "Vectorised version of File:Three cell growth types.png . Three types of cell reproduction are compared: the relatively simple Binary fission and two more complicated types that either involve mitosis or meiosis . Binary fission . Organisms such as bacteria typically have a single chromosome (green). At the start of the binary fission process, the DNA molecule of the cell's chromosome is replicated , producing two copies of the chromosome. A key aspect of bacterial cell reproduction is making sure that each daughter cell gets a copy of the chromosome. Cytokinesis is the actual physical separation of the two new daughter cells. Cell reproduction that involves mitosis . Most eukaryotic organisms like humans have more than one chromosome. In order to make sure that a copy of each chromosome gets segregated into each daughter cell, the spindle apparatus is used (blue threads). The chromosomes are moved along the long thin microtubules like trains moving along train tracks. Humans are diploid ; we have two copies of each type of chromosome, one from the father (red) and one from the mother (green). Cell reproduction that involves meiosis . The human sex cells ( gametes ) are produced by meiosis. For sperm production there are two cytokinesis steps that produce a total of four cells, each with half the normal number of chromosomes. The situation is different in the ovaries for egg production where one of the four sets of chromosomes that is segregated is placed in a large egg cell, ready to be combined with the DNA from a sperm cell (see meiosis for details). Note text is on a hidden layer under the visible text for consistent fonts.",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Three_cell_growth_types.svg/1280px-Three_cell_growth_types.svg.png"
   },
   {
     "id": "wiki_bio_015",
@@ -159,10 +173,11 @@
     "answer": "Cell",
     "source": "wikipedia",
     "source_page": "Cell_(biology)",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Typical_human_cell.tif/lossy-page1-813px-Typical_human_cell.tif.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Typical_human_cell.tif/lossy-page1-500px-Typical_human_cell.tif.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Typical_human_cell.tif",
     "caption": "Diagram of typical generalised human cell",
-    "license": "CC BY 4.0"
+    "license": "CC BY 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Typical_human_cell.tif/lossy-page1-500px-Typical_human_cell.tif.jpg"
   },
   {
     "id": "wiki_bio_016",
@@ -173,7 +188,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wilson1900Fig2.jpg/1280px-Wilson1900Fig2.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Wilson1900Fig2.jpg",
     "caption": "Original figure legend: \"General view of cells in the growing root-tip of the onion, from a longitudinal section, enlarged 800 diameters. a . non-dividing cells, with chromatin-network and deeply stained nucleoli; b . nuclei preparing for division (spireme-stage); c . dividing cells showing mitotic figures; e . pair of daughter-cells shortly after division.\"",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wilson1900Fig2.jpg/1280px-Wilson1900Fig2.jpg"
   },
   {
     "id": "wiki_bio_017",
@@ -184,7 +200,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Animal_Cell.svg/1280px-Animal_Cell.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Animal_Cell.svg",
     "caption": "A reworked version of File:Biological_cell.svg . Diagram of a typical animal cell . Organelles are labelled as follows: Nucleolus Nucleus Ribosomes (dots on rough reticulum walls) Vesicle Rough endoplasmic reticulum Golgi apparatus (or \"Golgi body\") Cytoskeleton Smooth endoplasmic reticulum Mitochondrion Vacuole Cytosol Lysosome Centriole Cell membrane",
-    "license": "CC0"
+    "license": "CC0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Animal_Cell.svg/1280px-Animal_Cell.svg.png"
   },
   {
     "id": "wiki_bio_018",
@@ -195,7 +212,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Animal_mitochondrion_diagram_en.svg/1280px-Animal_mitochondrion_diagram_en.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Animal_mitochondrion_diagram_en.svg",
     "caption": "The diagram shows a cross-section of a eukaryotic cell mitochondrion. Mitochondria are membrane-bound organelles distributed in the cytosol of most eukaryotic cells. Their primary function is to convert the energy potential of nutrients into ATP.",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Animal_mitochondrion_diagram_en.svg/1280px-Animal_mitochondrion_diagram_en.svg.png"
   },
   {
     "id": "wiki_bio_019",
@@ -206,7 +224,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Chondrocyte-_calcium_stain.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Chondrocyte-_calcium_stain.jpg",
     "caption": "Transmission electron micrograph of a chondrocyte, stained for calcium, showing its nucleus (N) and mitochondria (M).",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Chondrocyte-_calcium_stain.jpg"
   },
   {
     "id": "wiki_bio_020",
@@ -217,7 +236,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Electron_transport_chain.svg/1280px-Electron_transport_chain.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Electron_transport_chain.svg",
     "caption": "Diagram of the electron transport chain in the mitochondrial intermembrane space. Compared to the original this version has: Corrected stoichiometry, Cytochrome C is no longer inside the membrane, Complex II is now transmembrane, added electrons.",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Electron_transport_chain.svg/1280px-Electron_transport_chain.svg.png"
   },
   {
     "id": "wiki_bio_021",
@@ -225,10 +245,11 @@
     "answer": "Mitochondrion",
     "source": "wikipedia",
     "source_page": "Mitochondrion",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/HeLa_mtGFP.tif/lossy-page1-1024px-HeLa_mtGFP.tif.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/HeLa_mtGFP.tif/lossy-page1-960px-HeLa_mtGFP.tif.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/HeLa_mtGFP.tif",
     "caption": "Fluorescent microscopy picture of HeLa cells expressing a mitochondrially targeted version of green fluorescent protein (mtGFP)",
-    "license": "CC BY 4.0"
+    "license": "CC BY 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/HeLa_mtGFP.tif/lossy-page1-960px-HeLa_mtGFP.tif.jpg"
   },
   {
     "id": "wiki_bio_022",
@@ -239,7 +260,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Map_of_the_human_mitochondrial_genome.svg/1280px-Map_of_the_human_mitochondrial_genome.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Map_of_the_human_mitochondrial_genome.svg",
     "caption": "Map of the human mitochondrial DNA genome (16569 bp, NCBI sequence accession NC_012920 — Anderson et al. 1981 ). The H (heavy, outer circle) and L (light, inner circle) strands are given with their corresponding genes. There are 22 transfer RNA (TRN) genes for the following amino acids: F, V, L1 (codon UUA/G), I, Q, M, W, A, N, C, Y, S1 (UCN), D, K, G, R, H, S2 (AGC/U), L2 (CUN), E, T and P (white boxes). There are 2 ribosomal RNA (RRN) genes: S (small subunit, or 12S) and L (large subunit, or 16S) (blue boxes). There are 13 protein-coding genes: 7 for NADH dehydrogenase subunits (ND, yellow boxes), 3 for cytochrome c oxidase subunits (COX, orange boxes), 2 for ATPase subunits (ATP, red boxes), and one for cytochrome b (CYTB, coral box). Two gene overlaps are indicated (ATP8-ATP6, and ND4L-ND4, black boxes). The control region (CR) is the longest non-coding sequence (grey box). Its three hyper-variable regions are indicated (HV, green boxes).",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Map_of_the_human_mitochondrial_genome.svg/1280px-Map_of_the_human_mitochondrial_genome.svg.png"
   },
   {
     "id": "wiki_bio_023",
@@ -250,7 +272,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/MitochondrionCAM.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/MitochondrionCAM.jpg",
     "caption": "This is an image of a frozen-hydrated rat liver mitochondrion based on work done at the Wadsworth Center's Resource for Visualization of Biological Complexity ( http://www.wadsworth.org/databank/electron/cryomito_dis2.html ). It has not been previously published and I am releasing it into public domain for this article. The point is that the cristae are not folds of the inner membrane of the mitochondrion but pleomorphic invaginations with narrow tubular connections to each other and to the peripheral region of the inner membrane. I can advise on how to change your cartoon to be more accurate, while still retaining the basic format. There are numerous published references in last 10 years, the most recent: C.A. Mannella (2006) Biophysica et Biochimica Acta 1762: 140-147",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/MitochondrionCAM.jpg"
   },
   {
     "id": "wiki_bio_024",
@@ -261,7 +284,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/The-origins-of-mitochondrion-related-organelles-A-hypothetical-scenario-for-the.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/The-origins-of-mitochondrion-related-organelles-A-hypothetical-scenario-for-the.png",
     "caption": "The origins of mitochondrion-related organelles (MROs). A hypothetical scenario for the acquisition of anaerobic ATP generation enzymes and the subsequent emergence of extant MROs. (1) Acquisition of anaerobic energy generation enzymes. (2) Loss of the capacity for oxidative phosphorylation. (3) Loss of diverse mitochondrial functions. Yellow stars represent the electron transport chain, while red stars represent the hydrogenosomal anaerobic ATP generation pathway. Circles represent the mitochondrial genomes.",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/The-origins-of-mitochondrion-related-organelles-A-hypothetical-scenario-for-the.png"
   },
   {
     "id": "wiki_bio_025",
@@ -272,7 +296,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Benzopyrene_DNA_adduct_1JDG.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Benzopyrene_DNA_adduct_1JDG.png",
     "caption": "",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Benzopyrene_DNA_adduct_1JDG.png"
   },
   {
     "id": "wiki_bio_026",
@@ -283,7 +308,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Branch-DNA-multiple.svg/1280px-Branch-DNA-multiple.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Branch-DNA-multiple.svg",
     "caption": "Multiple DNA branches",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Branch-DNA-multiple.svg/1280px-Branch-DNA-multiple.svg.png"
   },
   {
     "id": "wiki_bio_027",
@@ -294,7 +320,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Branch-dna-single.svg/1280px-Branch-dna-single.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Branch-dna-single.svg",
     "caption": "Single DNA branch",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Branch-dna-single.svg/1280px-Branch-dna-single.svg.png"
   },
   {
     "id": "wiki_bio_028",
@@ -305,7 +332,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chromosome_DNA_Gene_unannotated.svg/1280px-Chromosome_DNA_Gene_unannotated.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chromosome_DNA_Gene_unannotated.svg",
     "caption": "A gene is a segment of DNA that encodes function. A chromosome consists of a long strand of DNA containing many genes. A human chromosome can be up to 500 Mega-base of DNA and contain thousands of genes.",
-    "license": "CC BY 4.0"
+    "license": "CC BY 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chromosome_DNA_Gene_unannotated.svg/1280px-Chromosome_DNA_Gene_unannotated.svg.png"
   },
   {
     "id": "wiki_bio_029",
@@ -316,7 +344,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/DNA-ligand-by-Abalone.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/DNA-ligand-by-Abalone.png",
     "caption": "Ligand in minor DNA groove. Picture created by Abalone program.",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/DNA-ligand-by-Abalone.png"
   },
   {
     "id": "wiki_bio_030",
@@ -327,7 +356,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/1280px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
     "caption": "The structure of DNA showing with detail the structure of the four bases, adenine, cytosine, guanine and thymine, and the location of the major and minor groove.",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/1280px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png"
   },
   {
     "id": "wiki_bio_031",
@@ -338,7 +368,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DNA_chemical_structure.svg/1280px-DNA_chemical_structure.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/DNA_chemical_structure.svg",
     "caption": "Chemical structure of DNA, with colored label identifying the four bases as well as the phosphate and deoxyribose components of the backbone.",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DNA_chemical_structure.svg/1280px-DNA_chemical_structure.svg.png"
   },
   {
     "id": "wiki_bio_032",
@@ -349,7 +380,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/DNA_nanostructures.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/DNA_nanostructures.png",
     "caption": "Self-Assembled DNA Nanostructures. (A) DNA “tile” structure consisting of four branched junctions oriented at 90° intervals. These tiles serve as the primary “building block” for the assembly of the DNA nanogrids shown in (B). Each tile consists of nine DNA oligonucleotides as shown. (B) An atomic force microscope image of a self-assembled DNA nanogrid. Individual DNA tiles self-assemble into a highly ordered periodic two-dimensional DNA nanogrid.",
-    "license": "CC BY 2.5"
+    "license": "CC BY 2.5",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/DNA_nanostructures.png"
   },
   {
     "id": "wiki_bio_033",
@@ -360,7 +392,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DNA_replication_en.svg/1280px-DNA_replication_en.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DNA_replication_en.svg",
     "caption": "DNA replication or DNA synthesis is the process of copying a double-stranded DNA molecule. This process is paramount to all life as we know it.",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DNA_replication_en.svg/1280px-DNA_replication_en.svg.png"
   },
   {
     "id": "wiki_bio_034",
@@ -371,7 +404,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Dnaconformations.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Dnaconformations.png",
     "caption": "A-DNA, B-DNA, and Z-DNA conformations of DNA. 12 base-pair steps composed by 13 base-pairs are show in a side view and top view. The symmetrical features of the double-helix are highlighted with the top view panel.",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Dnaconformations.png"
   },
   {
     "id": "wiki_bio_035",
@@ -382,7 +416,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/EcoRV_1RVA.png/1280px-EcoRV_1RVA.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/EcoRV_1RVA.png",
     "caption": "By Richard Wheeler ( Zephyris ) 2007. Image of EcoRV homodimer in complex with a DNA substrate. From .",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/EcoRV_1RVA.png/1280px-EcoRV_1RVA.png"
   },
   {
     "id": "wiki_bio_036",
@@ -393,7 +428,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Estrazione_DNA_%28cropped%29.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Estrazione_DNA_%28cropped%29.jpg",
     "caption": "DNA extraction from an orange.",
-    "license": "CC BY 4.0"
+    "license": "CC BY 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Estrazione_DNA_%28cropped%29.jpg"
   },
   {
     "id": "wiki_bio_037",
@@ -404,7 +440,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Eukaryote_DNA-en.svg/1280px-Eukaryote_DNA-en.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Eukaryote_DNA-en.svg",
     "caption": "Diagram of DNA in a eukaryotic cell",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Eukaryote_DNA-en.svg/1280px-Eukaryote_DNA-en.svg.png"
   },
   {
     "id": "wiki_bio_038",
@@ -415,7 +452,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Holliday_Junction.svg/1280px-Holliday_Junction.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Holliday_Junction.svg",
     "caption": "Illustration of DNA \" Holliday junction \"",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Holliday_Junction.svg/1280px-Holliday_Junction.svg.png"
   },
   {
     "id": "wiki_bio_039",
@@ -426,7 +464,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Lambda_repressor_1LMB.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Lambda_repressor_1LMB.png",
     "caption": "By Richard Wheeler ( Zephyris ) 2007. Lambda repressor protein bound to a lambda operator DNA sequence. From .",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Lambda_repressor_1LMB.png"
   },
   {
     "id": "wiki_bio_040",
@@ -437,7 +476,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nucleosome1.png/1280px-Nucleosome1.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nucleosome1.png",
     "caption": "Molecular surface of histones is shown in blue and the DNA in orange. Created from PDB 1EQZ",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nucleosome1.png/1280px-Nucleosome1.png"
   },
   {
     "id": "wiki_bio_041",
@@ -448,7 +488,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Parallel_telomere_quadruple.png/1280px-Parallel_telomere_quadruple.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Parallel_telomere_quadruple.png",
     "caption": "Crystal structure of parallel quadruplexes from human telomeric DNA. The DNA strand (blue) circles the bases that stack together in the center around three co-ordinated metal ions (green). Produced from NDB ID: UD0017",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Parallel_telomere_quadruple.png/1280px-Parallel_telomere_quadruple.png"
   },
   {
     "id": "wiki_bio_042",
@@ -459,7 +500,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pencil_sketch_of_the_DNA_double_helix_by_Francis_Crick_Wellcome_L0051225.jpg/1280px-Pencil_sketch_of_the_DNA_double_helix_by_Francis_Crick_Wellcome_L0051225.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pencil_sketch_of_the_DNA_double_helix_by_Francis_Crick_Wellcome_L0051225.jpg",
     "caption": "Pencil sketch of the DNA double helix by Francis Crick. It shows a right-handed helix and the nucleotides of the two anti-parallel strands. Archives & Manuscripts Keywords: DNA; Molecular Biology; Nucleic Acids; Nobel Prizes; DNA50; Francis Harry Compton Crick; Genetics; Nucleic acid; Base Pairing",
-    "license": "CC BY 4.0"
+    "license": "CC BY 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pencil_sketch_of_the_DNA_double_helix_by_Francis_Crick_Wellcome_L0051225.jpg/1280px-Pencil_sketch_of_the_DNA_double_helix_by_Francis_Crick_Wellcome_L0051225.jpg"
   },
   {
     "id": "wiki_bio_043",
@@ -470,7 +512,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Phosphate_backbone.jpg/1280px-Phosphate_backbone.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Phosphate_backbone.jpg",
     "caption": "Structure of DNA with sugar phosphate backbone and bases",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Phosphate_backbone.jpg/1280px-Phosphate_backbone.jpg"
   },
   {
     "id": "wiki_bio_044",
@@ -481,7 +524,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Photo_51_x-ray_diffraction_image.jpg/1280px-Photo_51_x-ray_diffraction_image.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Photo_51_x-ray_diffraction_image.jpg",
     "caption": "X-ray diffraction image of the double helix structure of the DNA molecule, taken 1952 by Raymond Gosling, commonly referred to as \"Photo 51\", during his work with Rosalind Franklin on the structure of DNA",
-    "license": "PD"
+    "license": "PD",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Photo_51_x-ray_diffraction_image.jpg/1280px-Photo_51_x-ray_diffraction_image.jpg"
   },
   {
     "id": "wiki_bio_045",
@@ -492,7 +536,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/TheEaglePub-Cambridge-BluePlaque.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/TheEaglePub-Cambridge-BluePlaque.jpg",
     "caption": "The blue plaque next to the entrance of the Eagle commemorating announcement of the discovery of the structure of DNA",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/TheEaglePub-Cambridge-BluePlaque.jpg"
   },
   {
     "id": "wiki_bio_046",
@@ -503,7 +548,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Anatomy_of_a_Neuron_with_Synapse.png/1280px-Anatomy_of_a_Neuron_with_Synapse.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Anatomy_of_a_Neuron_with_Synapse.png",
     "caption": "This schematic shows a single pyramidal neuron, the dominant excitatory neuron of cerebral cortex, with an synaptic connection from an incoming axon. It briefly explains the soma, dendrites, axon, and synapse and was created by Amy Sterling and Daniela Gamba for Neo Brain Game.",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Anatomy_of_a_Neuron_with_Synapse.png/1280px-Anatomy_of_a_Neuron_with_Synapse.png"
   },
   {
     "id": "wiki_bio_047",
@@ -514,7 +560,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Blausen_0657_MultipolarNeuron.png/1280px-Blausen_0657_MultipolarNeuron.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Blausen_0657_MultipolarNeuron.png",
     "caption": "Multipolar Neuron. See a full animation [ dead link ] of this medical topic.",
-    "license": "CC BY 3.0"
+    "license": "CC BY 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Blausen_0657_MultipolarNeuron.png/1280px-Blausen_0657_MultipolarNeuron.png"
   },
   {
     "id": "wiki_bio_048",
@@ -525,7 +572,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Chemical_synapse_schema_cropped.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Chemical_synapse_schema_cropped.jpg",
     "caption": "Drawing illustrating the process of synaptic transmission in neurons, cropped from original in an NIA brochure.",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Chemical_synapse_schema_cropped.jpg"
   },
   {
     "id": "wiki_bio_049",
@@ -536,7 +584,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Complete_neuron_cell_diagram_en.svg",
     "caption": "Complete neuron cell diagram. Neurons (also known as neurones and nerve cells) are electrically excitable cells in the nervous system that process and transmit information. In vertebrate animals, neurons are the core components of the brain, spinal cord and peripheral nerves.",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png"
   },
   {
     "id": "wiki_bio_050",
@@ -547,7 +596,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/GFPneuron.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/GFPneuron.png",
     "caption": "GFP expressing pyramydal cell in mouse cortex. Dynamic Remodeling of Dendritic Arbors in GABAergic Interneurons of Adult Visual Cortex Wei-Chung Allen Lee, Hayden Huang, Guoping Feng, Joshua R. Sanes, Emery N. Brown, Peter T. So, Elly Nedivi PLoS Biology Vol. 4, No. 2, e29 DOI: 10.1371/journal.pbio.0040029 http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pbio.0040029",
-    "license": "CC BY 2.5"
+    "license": "CC BY 2.5",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/GFPneuron.png"
   },
   {
     "id": "wiki_bio_051",
@@ -558,7 +608,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gyrus_Dentatus_40x.jpg/1280px-Gyrus_Dentatus_40x.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Gyrus_Dentatus_40x.jpg",
     "caption": "Image of Golgi stained neurons in the dentate gyrus of an epilepsy patient. 40 times magnification.",
-    "license": "CC BY-SA 2.5"
+    "license": "CC BY-SA 2.5",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gyrus_Dentatus_40x.jpg/1280px-Gyrus_Dentatus_40x.jpg"
   },
   {
     "id": "wiki_bio_052",
@@ -569,7 +620,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Neuro_Muscular_Junction.png/1280px-Neuro_Muscular_Junction.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Neuro_Muscular_Junction.png",
     "caption": "A neuromuscular junction (or myoneural junction) is a chemical synapse formed by the contact between a motor neuron and a muscle fiber. It is at the neuromuscular junction that a motor neuron is able to transmit a signal to the muscle fiber, causing muscle contraction. Labels from top right: myelin sheath , mitochondria , muscle fiber , ach receptors (acetylcholine), neurotransmitters , schwann cell , axoplasm , neurilemma .",
-    "license": "CC BY 4.0"
+    "license": "CC BY 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Neuro_Muscular_Junction.png/1280px-Neuro_Muscular_Junction.png"
   },
   {
     "id": "wiki_bio_053",
@@ -580,7 +632,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Purkinje_cell_by_Cajal.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Purkinje_cell_by_Cajal.png",
     "caption": "Camera lucida drawing of a Purkinje cell in the cat 's cerebellar cortex , by Santiago Ramón y Cajal . Legend: (a) axon (b) collateral (c) dendrites . Automatically converted to PNG The PNG crusade bot automatically converted this image to the more efficient PNG format. The image was previously uploaded as \"PurkinjeCellCajal.gif\". Previous file history 17:41:47, 21 January 2006 (UTC) . . Rsabbatini ( Talk",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Purkinje_cell_by_Cajal.png"
   },
   {
     "id": "wiki_bio_054",
@@ -591,7 +644,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SUM_110913_Cort_Neurons_2.5d_in_vitro_488_Phalloidin_no_perm_4_cmle-2.png/1280px-SUM_110913_Cort_Neurons_2.5d_in_vitro_488_Phalloidin_no_perm_4_cmle-2.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/SUM_110913_Cort_Neurons_2.5d_in_vitro_488_Phalloidin_no_perm_4_cmle-2.png",
     "caption": "Summed slices z-projection of actin filaments in mouse cortical neurons grown in vitro for 2.5 days. Image was taken on a zeiss 780 confocal microscope then deconvoluted using an experimental point spread function. Scan Settings Pinhole [m]: 53.0 µm Total Size-Width: 168.65 µm Total Size-Height: 168.65 µm Total Size-Depth: 5.50 µm StepSize: 0.125 µm Voxel-Width: 41.0 nm (pixel size) Voxel-Height: 41.0 nm (pixel size) Voxel-Depth: 125.0 nm Zoom: 0.8 Objective: Plan-Apochromat 63x/1.40 Oil DIC Numerical aperture: 1.40",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SUM_110913_Cort_Neurons_2.5d_in_vitro_488_Phalloidin_no_perm_4_cmle-2.png/1280px-SUM_110913_Cort_Neurons_2.5d_in_vitro_488_Phalloidin_no_perm_4_cmle-2.png"
   },
   {
     "id": "wiki_bio_055",
@@ -602,7 +656,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Structural_classification_of_neurons_by_polarity_hariadhi.svg/1280px-Structural_classification_of_neurons_by_polarity_hariadhi.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Structural_classification_of_neurons_by_polarity_hariadhi.svg",
     "caption": "Structural classification of neurons by polarity",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Structural_classification_of_neurons_by_polarity_hariadhi.svg/1280px-Structural_classification_of_neurons_by_polarity_hariadhi.svg.png"
   },
   {
     "id": "wiki_bio_056",
@@ -613,7 +668,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Calvin_Cycle_5.svg/1280px-Calvin_Cycle_5.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Calvin_Cycle_5.svg",
     "caption": "A diagram of the Calvin cycle showing carbon capture from CO2 and carbon output as glyceraldehyde 3-phosphate. Carbon can also exit the cycle as glycerate 3-phosphate, for production of fatty acids, and some amino acids. What is shown here is only the canonical representation of the Calvin cycle, where carbon exits as glyceraldehyde 3-phosphate for gluconeogenesis, or glycerol production. Key: Circles represent atoms according to the following: Black is carbon . White is hydrogen . Red is oxygen . Purple is phosphorus . Alternative chemical names: 3-phosphoglycerate (3-PGA or 3PG) is also known as glycerate 3-phosphate or GP in British textbooks. Glyceraldehyde 3-phosphate (G3P or GAP) is also known as triose phosphate or TP in British textbooks. Origin: This diagram is based on Calvin-cycle4.svg by Mike Jones , licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Calvin_Cycle_5.svg/1280px-Calvin_Cycle_5.svg.png"
   },
   {
     "id": "wiki_bio_057",
@@ -624,7 +680,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chloroplast.svg/1280px-Chloroplast.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Chloroplast.svg",
     "caption": "Scheme of a chloroplast .",
-    "license": "CC BY-SA 3.0"
+    "license": "CC BY-SA 3.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chloroplast.svg/1280px-Chloroplast.svg.png"
   },
   {
     "id": "wiki_bio_058",
@@ -635,7 +692,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Melvin_Calvin.jpg/1280px-Melvin_Calvin.jpg",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Melvin_Calvin.jpg",
     "caption": "Dr. Melvin Calvin, Nobel Laureate, professor of physics, and Director of the Chemical Biodynamics Laboratory at Lawrence Berkeley Laboratory, works in his photosynthesis laboratory. Dr. Calvin was awarded the Nobel Prize in 1961 for elucidating the chemistry of the photosynthetic process.",
-    "license": "Public domain"
+    "license": "Public domain",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Melvin_Calvin.jpg/1280px-Melvin_Calvin.jpg"
   },
   {
     "id": "wiki_bio_059",
@@ -646,7 +704,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Photosynthesis_en.svg/1280px-Photosynthesis_en.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Photosynthesis_en.svg",
     "caption": "The overall process of photosynthesis",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Photosynthesis_en.svg/1280px-Photosynthesis_en.svg.png"
   },
   {
     "id": "wiki_bio_060",
@@ -657,7 +716,8 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Simple_photosynthesis_overview.svg/1280px-Simple_photosynthesis_overview.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Simple_photosynthesis_overview.svg",
     "caption": "A simplified diagram of photosynthesis . Redrawn in vector format from Image:Simple_photosynthesis_overview.PNG",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Simple_photosynthesis_overview.svg/1280px-Simple_photosynthesis_overview.svg.png"
   },
   {
     "id": "wiki_bio_061",
@@ -668,6 +728,7 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Thylakoid_membrane_3.svg/1280px-Thylakoid_membrane_3.svg.png",
     "original_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Thylakoid_membrane_3.svg",
     "caption": "Light-dependent reactions of photosynthesis in the thylakoid membrane of plant cells. I redrew and formatted it for a better quality SVG file.",
-    "license": "CC BY-SA 4.0"
+    "license": "CC BY-SA 4.0",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Thylakoid_membrane_3.svg/1280px-Thylakoid_membrane_3.svg.png"
   }
 ]

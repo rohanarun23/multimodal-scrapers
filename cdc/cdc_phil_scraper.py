@@ -1,17 +1,26 @@
 import json
 import os
 import re
+import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
 from typing import Any
 
 import requests
 from bs4 import BeautifulSoup
 from requests import Response
 
+ROOT_DIR = Path(__file__).resolve().parents[1]
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
+from asset_localization import download_asset
+
 
 BASE_URL = "https://wwwn.cdc.gov/phil"
 OUTPUT_JSON = "dataset/cdc_phil_questions.json"
+IMAGES_DIR = ROOT_DIR / "dataset/images/cdc"
 START_ID = int(os.getenv("CDC_PHIL_START_ID", "10000"))
 END_ID = int(os.getenv("CDC_PHIL_END_ID", "26000"))
 MAX_ITEMS = int(os.getenv("CDC_PHIL_MAX_ITEMS", "200"))
@@ -714,6 +723,16 @@ def main() -> None:
             seen_images.add(item["image_url"])
             dataset.append(item)
             print(f"Saved {item['id']}: {item['answer']}")
+
+    for item in dataset:
+        remote_image_url = item.get("image_url")
+        if not remote_image_url:
+            continue
+
+        item["source_image_url"] = remote_image_url
+        local_image_path = download_asset(remote_image_url, IMAGES_DIR, item["id"])
+        if local_image_path:
+            item["image_url"] = local_image_path
 
     with open(OUTPUT_JSON, "w", encoding="utf-8") as handle:
         json.dump(dataset, handle, indent=2, ensure_ascii=False)

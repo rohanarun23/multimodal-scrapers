@@ -1,7 +1,9 @@
 import json
 import os
 import re
+import sys
 import time
+from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin
 
@@ -9,10 +11,17 @@ import requests
 from bs4 import BeautifulSoup
 from requests import Response
 
+ROOT_DIR = Path(__file__).resolve().parents[1]
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
+from asset_localization import download_asset
+
 
 # Base settings for the scraper run and output dataset.
 BASE_URL = "https://bioart.niaid.nih.gov"
 OUTPUT_JSON = "dataset/niaid_bioart_questions.json"
+IMAGES_DIR = ROOT_DIR / "dataset/images/nih"
 START_ID = 400
 END_ID = 670
 MAX_ITEMS = 250
@@ -437,6 +446,16 @@ def main():
         dataset.append(item)
         consecutive_misses = 0
         print(f"Saved {item['id']}: {item['answer']}")
+
+    for item in dataset:
+        remote_image_url = item.get("image_url")
+        if not remote_image_url:
+            continue
+
+        item["source_image_url"] = remote_image_url
+        local_image_path = download_asset(remote_image_url, IMAGES_DIR, item["id"])
+        if local_image_path:
+            item["image_url"] = local_image_path
 
     with open(OUTPUT_JSON, "w", encoding="utf-8") as handle:
         json.dump(dataset, handle, indent=2, ensure_ascii=False)

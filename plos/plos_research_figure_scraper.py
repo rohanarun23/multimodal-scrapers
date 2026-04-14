@@ -1,17 +1,26 @@
 import json
 import os
 import re
+import sys
 import time
 import xml.etree.ElementTree as ET
 from datetime import date
+from pathlib import Path
 from typing import Any
 
 import requests
 from requests import Response
 
+ROOT_DIR = Path(__file__).resolve().parents[1]
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
+from asset_localization import download_asset
+
 
 SEARCH_URL = "https://api.plos.org/search"
 OUTPUT_JSON = "dataset/plos_research_figure_questions.json"
+IMAGES_DIR = ROOT_DIR / "dataset/images/plos"
 CONTACT_EMAIL = os.getenv("SCRAPER_CONTACT_EMAIL", "your-email@example.com").strip() or "your-email@example.com"
 
 TARGET_JOURNALS = (
@@ -447,6 +456,16 @@ def main() -> None:
             seen_images.add(item["image_url"])
             dataset.append(item)
             print(f"Saved {item['id']}: {item['figure_label']} -> {item['answer']}")
+
+    for item in dataset:
+        remote_image_url = item.get("image_url")
+        if not remote_image_url:
+            continue
+
+        item["source_image_url"] = remote_image_url
+        local_image_path = download_asset(remote_image_url, IMAGES_DIR, item["id"])
+        if local_image_path:
+            item["image_url"] = local_image_path
 
     with open(OUTPUT_JSON, "w", encoding="utf-8") as handle:
         json.dump(dataset, handle, indent=2, ensure_ascii=False)

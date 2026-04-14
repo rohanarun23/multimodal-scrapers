@@ -1,0 +1,310 @@
+[
+    {
+        "id": 1,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_001.jpg",
+        "answer": "Sarah Michelle Gellar",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://i.imgur.com/bO3KLdC.jpg"
+        },
+        "context": "Buffy the Vampire Slayer, The Crazy Ones, & Wolf Pack",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/c5fe4c70c4d80e94ef72d71cf504f381"
+    },
+    {
+        "id": 2,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_002.jpg",
+        "answer": "Jason Segel",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://i.imgur.com/0IACWtY.jpg"
+        },
+        "accepted_answers": [
+            "Jason Segel",
+            "jason segal"
+        ],
+        "context": "Freaks & Geeks, How I Met Your Mother, & Shrinking",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/e0ae92ce8a5df919a2e3859f2218df96"
+    },
+    {
+        "id": 3,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_003.jpg",
+        "answer": "Katherine Heigl",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://imgur.com/CzL4Z6l.jpg"
+        },
+        "context": "Roswell, Grey\u2019s Anatomy, & Firefly Lane",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/7f89ef60c3eec91f4634fc4cabb3f33e"
+    },
+    {
+        "id": 4,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_004.jpg",
+        "answer": "Craig T. Nelson",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://imgur.com/eHFQW8M.jpg"
+        },
+        "context": "Coach, The District, & Parenthood",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/e97dd21ee0a6dbb4faba8da22d14b871"
+    },
+    {
+        "id": 5,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_005.jpg",
+        "answer": "Rashida Jones",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://imgur.com/1bhW96B.jpg"
+        },
+        "context": "Parks & Recreation, Angie Tribeca, & blackAF",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/ebaa35eb3dc13bbb97e388e640c804ec"
+    },
+    {
+        "id": 6,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_006.jpg",
+        "answer": "Matthew Rhys",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://imgur.com/KrLydK4.jpg"
+        },
+        "context": "Brothers & Sisters, The Americans, & Perry Mason",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/0a17d09f61bbc7de7162dff311e4d82a"
+    },
+    {
+        "id": 7,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_007.jpg",
+        "answer": "Jane Krakowski",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://imgur.com/nHlofVL.jpg"
+        },
+        "context": "Ally McBeal, 30 Rock, & Unbreakable Kimmy Schmidt",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/392cfc6b35ae31037845cc19a5587f14"
+    },
+    {
+        "id": 8,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_008.jpg",
+        "answer": "David Duchovny",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://imgur.com/BOHM8rN.jpg"
+        },
+        "context": "The X-Files, Californication, & Aquarius",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/67162f19df4d29e25c6b954f970166c0"
+    },
+    {
+        "id": 9,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_009.jpg",
+        "answer": "Christine Baranski",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://imgur.com/AM63knG.jpg"
+        },
+        "context": "Cybill, The Good Wife, & The Gilded Age",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/82259a6e7d1f144ef30af359f562c971"
+    },
+    {
+        "id": 10,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_010.jpg",
+        "answer": "Donald Faison",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://i.imgur.com/i4Qk4iy.jpg"
+        },
+        "context": "Clueless: The Series, Scrubs, & The Exes",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/fae4c1fa9bd5bab244e7a4ca05a7cbf1"
+    },
+    {
+        "id": 11,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_011.jpg",
+        "answer": "Jean Smart",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://imgur.com/o9KrJ92.jpg"
+        },
+        "context": "Designing Women, Samantha Who?, & Hacks",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/987d5db6c24609c54935be4826c166b9"
+    },
+    {
+        "id": 12,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_012.jpg",
+        "answer": "Ron Perlman",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://imgur.com/31DJTMb.jpg"
+        },
+        "context": "Beauty & the Beast, The Magnificent Seven, & Sons of Anarchy",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/6fe6d304eded62b9fdcec9a6333f25be"
+    },
+    {
+        "id": 13,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_013.jpg",
+        "answer": "Ginnifer Goodwin",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://imgur.com/thz3vvQ.jpg"
+        },
+        "context": "Big Love, Once Upon a Time, & Pivoting",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/b7d81a602b0472b37a22f64ac0e0098f"
+    },
+    {
+        "id": 14,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_014.jpg",
+        "answer": "Milo Ventimiglia",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://i.imgur.com/LNENPWj.jpg"
+        },
+        "context": "Gilmore Girls, This is Us, & The Company You Keep",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/b849fde1cd9fe44d33456295d50b4441"
+    },
+    {
+        "id": 15,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_015.jpg",
+        "answer": "Jane Curtin",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://imgur.com/Y3ftfmR.jpg"
+        },
+        "context": "Kate & Allie, 3rd Rock from the Sun, & Unforgettable",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/9b3f99cde396e9c27f9e25e1c340361c"
+    },
+    {
+        "id": 16,
+        "question": "Can you name the actors who\u2019ve been on TV for three decades?",
+        "quiz_title": "Actors Through Three Decades on TV IV",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iv_016.jpg",
+        "answer": "Scott Baio",
+        "source": {
+            "platform": "Sporcle",
+            "url": "https://www.sporcle.com/games/ghcgh/actors-through-three-decades-on-tv-iv",
+            "quiz_title": "Actors Through Three Decades on TV IV",
+            "quiz_type": "Slideshow",
+            "creator_handle": "ghcgh",
+            "encoded_game_id": "aO347fc1xn",
+            "game_id": 2570578,
+            "image_source_url": "https://i.imgur.com/XH42Tzi.jpg"
+        },
+        "context": "Happy Days, Charles in Charge, & Diagnosis: Murder",
+        "source_media_url": "https://d2h3d42vkj4fuu.cloudfront.net/e211012b4abb7b6c248e53deba8c6e45"
+    }
+]

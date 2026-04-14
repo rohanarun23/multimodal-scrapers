@@ -1,11 +1,19 @@
 import json
 import os
 import re
+import sys
 from urllib.parse import urljoin, urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
+
+ROOT_DIR = Path(__file__).resolve().parents[1]
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
+from asset_localization import download_asset
 
 
 # Base URL, starting pages, and output path for the Space Place scraper.
@@ -16,6 +24,7 @@ START_PAGES = [
 ]
 
 OUTPUT_JSON = "dataset/nasa_spaceplace_questions.json"
+IMAGES_DIR = ROOT_DIR / "dataset/images/nasa"
 CONTACT_EMAIL = os.getenv("SCRAPER_CONTACT_EMAIL", "your-email@example.com").strip() or "your-email@example.com"
 
 # Reuse one session so request headers stay consistent.
@@ -404,6 +413,16 @@ def main():
                     print(f"Saved {item_id}: {item['question']} -> {item['answer']}")
 
         counter += len(unique_links)
+
+    for item in dataset:
+        remote_image_url = item.get("image_url")
+        if not remote_image_url:
+            continue
+
+        item["source_image_url"] = remote_image_url
+        local_image_path = download_asset(remote_image_url, IMAGES_DIR, item["id"])
+        if local_image_path:
+            item["image_url"] = local_image_path
 
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
         json.dump(dataset, f, indent=2, ensure_ascii=False)
