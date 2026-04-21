@@ -8,10 +8,12 @@ Small Python scrapers for collecting multimodal image-question datasets from pub
 - `jeopardy/jeopardy_scraper.py`: collects archived Jeopardy! clues and responses into a quiz dataset.
 - `jeopardy/jeopardy_show_*_visual_scraper.py`: collect J-Archive clues from specific shows that include linked visual media. The working Jeopardy batch targets shows 7103 through 7124.
 - `kensquiz/kensquiz_scraper.py`: collects Ken's Quiz road-sign handout questions and cropped image tiles.
+- `kensquiz/kensquiz_handout_scraper.py`: collects Ken's Quiz pub quiz handout picture rounds and cropped image tiles.
 - `nasa/nasa_apod_scraper.py`: collects Astronomy Picture of the Day image records from NASA.
 - `nasa/nasa_spaceplace_scraper.py`: collects image-based records from NASA Space Place articles.
 - `nih/niaid_bioart_scraper.py`: collects public NIH BioArt image records.
 - `plos/plos_research_figure_scraper.py`: collects peer-reviewed PLOS article figures with questions that combine figure legends and abstracts.
+- `quizbowl/quizbowl_picture_rounds_scraper.py`: collects quizbowl-style picture rounds from curated Wikipedia/Wikimedia Commons pages.
 - `sporcle/sporcle_scraper.py`: collects image-backed trivia prompts from a Sporcle slideshow quiz.
 - `sporcle/sporcle_*_scraper.py`: collect specific Sporcle slideshow quizzes with image-backed prompts. The working Sporcle batch currently targets 13 quizzes, including the actor series plus `Broken Bones by X-Ray` and `Animals with David Attenborough`.
 - `wikipedia/wikipedia_biology_scraper.py`: collects biology-related image records from Wikipedia.
@@ -47,10 +49,12 @@ python3 cdc/cdc_phil_scraper.py
 python3 jeopardy/jeopardy_scraper.py
 python3 jeopardy/jeopardy_show_7124_visual_scraper.py
 python3 kensquiz/kensquiz_scraper.py
+python3 kensquiz/kensquiz_handout_scraper.py
 python3 nasa/nasa_apod_scraper.py
 python3 nasa/nasa_spaceplace_scraper.py
 python3 nih/niaid_bioart_scraper.py
 python3 plos/plos_research_figure_scraper.py
+python3 quizbowl/quizbowl_picture_rounds_scraper.py
 python3 sporcle/sporcle_scraper.py
 python3 wikipedia/wikipedia_biology_scraper.py
 ```

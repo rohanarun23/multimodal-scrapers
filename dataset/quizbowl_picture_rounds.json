@@ -1,0 +1,1686 @@
+[
+    {
+        "id": 1,
+        "question": "Identify this painting.",
+        "quiz_title": "Fine Arts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_001.jpg",
+        "answer": "Mona Lisa",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Mona_Lisa",
+            "quiz_title": "Fine Arts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Mona Lisa",
+            "image_title": "File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Mona Lisa",
+            "La Gioconda"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1280px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+    },
+    {
+        "id": 2,
+        "question": "Identify this painting.",
+        "quiz_title": "Fine Arts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_002.jpg",
+        "answer": "The Starry Night",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/The_Starry_Night",
+            "quiz_title": "Fine Arts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "The Starry Night",
+            "image_title": "File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "The Starry Night"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+    },
+    {
+        "id": 3,
+        "question": "Identify this painting.",
+        "quiz_title": "Fine Arts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_003.jpg",
+        "answer": "The Birth of Venus",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/The_Birth_of_Venus",
+            "quiz_title": "Fine Arts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "The Birth of Venus",
+            "image_title": "File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "The Birth of Venus"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1280px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg"
+    },
+    {
+        "id": 4,
+        "question": "Identify this painting.",
+        "quiz_title": "Fine Arts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_004.jpg",
+        "answer": "Las Meninas",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Las_Meninas",
+            "quiz_title": "Fine Arts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Las Meninas",
+            "image_title": "File:Las_Meninas,_by_Diego_Vel\u00e1zquez,_from_Prado_in_Google_Earth.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Las Meninas"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/1280px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg"
+    },
+    {
+        "id": 5,
+        "question": "Identify this triptych.",
+        "quiz_title": "Fine Arts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_005.jpg",
+        "answer": "The Garden of Earthly Delights",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights",
+            "quiz_title": "Fine Arts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "The Garden of Earthly Delights",
+            "image_title": "File:The_Garden_of_earthly_delights.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "The Garden of Earthly Delights"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Garden_of_earthly_delights.jpg/1280px-The_Garden_of_earthly_delights.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/The_Garden_of_earthly_delights.jpg"
+    },
+    {
+        "id": 6,
+        "question": "Identify this fresco.",
+        "quiz_title": "Fine Arts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_006.jpg",
+        "answer": "The School of Athens",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/The_School_of_Athens",
+            "quiz_title": "Fine Arts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "The School of Athens",
+            "image_title": "File:\"The_School_of_Athens\"_by_Raffaello_Sanzio_da_Urbino.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "The School of Athens"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1280px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
+    },
+    {
+        "id": 7,
+        "question": "Identify this painting.",
+        "quiz_title": "Fine Arts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_007.jpg",
+        "answer": "The Night Watch",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/The_Night_Watch",
+            "quiz_title": "Fine Arts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "The Night Watch",
+            "image_title": "File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "The Night Watch"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg/1280px-La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg"
+    },
+    {
+        "id": 8,
+        "question": "Identify this painting.",
+        "quiz_title": "Fine Arts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_008.jpg",
+        "answer": "The Arnolfini Portrait",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Arnolfini_Portrait",
+            "quiz_title": "Fine Arts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Arnolfini Portrait",
+            "image_title": "File:The_Arnolfini_portrait_(1434).jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "The Arnolfini Portrait",
+            "Portrait of Giovanni Arnolfini and his Wife"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Arnolfini_portrait_%281434%29.jpg/1280px-The_Arnolfini_portrait_%281434%29.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/The_Arnolfini_portrait_%281434%29.jpg"
+    },
+    {
+        "id": 9,
+        "question": "Identify this woodblock print.",
+        "quiz_title": "Fine Arts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_009.jpg",
+        "answer": "The Great Wave off Kanagawa",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa",
+            "quiz_title": "Fine Arts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "The Great Wave off Kanagawa",
+            "image_title": "File:Tsunami_by_hokusai_19th_century.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "The Great Wave off Kanagawa"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1280px-Tsunami_by_hokusai_19th_century.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tsunami_by_hokusai_19th_century.jpg"
+    },
+    {
+        "id": 10,
+        "question": "Identify this painting.",
+        "quiz_title": "Fine Arts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_010.jpg",
+        "answer": "Liberty Leading the People",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Liberty_Leading_the_People",
+            "quiz_title": "Fine Arts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Liberty Leading the People",
+            "image_title": "File:La_Libert\u00e9_guidant_le_peuple_-_Eug\u00e8ne_Delacroix_-_Mus\u00e9e_du_Louvre_Peintures_RF_129_-_apr\u00e8s_restauration_2024.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Liberty Leading the People"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg/1280px-La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg"
+    },
+    {
+        "id": 11,
+        "question": "Identify this sculpture.",
+        "quiz_title": "Monuments and Sculpture Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_011.jpg",
+        "answer": "David",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/David_(Michelangelo)",
+            "quiz_title": "Monuments and Sculpture Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "David (Michelangelo)",
+            "image_title": "File:'David'_by_Michelangelo_Fir_JBU004.jpg",
+            "license": "CC BY 3.0"
+        },
+        "accepted_answers": [
+            "David"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg/1280px-%27David%27_by_Michelangelo_Fir_JBU004.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg"
+    },
+    {
+        "id": 12,
+        "question": "Identify this sculpture.",
+        "quiz_title": "Monuments and Sculpture Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_012.jpg",
+        "answer": "Venus de Milo",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Venus_de_Milo",
+            "quiz_title": "Monuments and Sculpture Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Venus de Milo",
+            "image_title": "File:Front_views_of_the_Venus_de_Milo.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "accepted_answers": [
+            "Venus de Milo"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Front_views_of_the_Venus_de_Milo.jpg/1280px-Front_views_of_the_Venus_de_Milo.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Front_views_of_the_Venus_de_Milo.jpg"
+    },
+    {
+        "id": 13,
+        "question": "Identify this sculpture group.",
+        "quiz_title": "Monuments and Sculpture Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_013.jpg",
+        "answer": "Laocoon and His Sons",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Laoco%C3%B6n_and_His_Sons",
+            "quiz_title": "Monuments and Sculpture Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Laoco\u00f6n and His Sons",
+            "image_title": "File:Laoco\u00f6n_and_his_sons_group.jpg",
+            "license": "CC0"
+        },
+        "accepted_answers": [
+            "Laocoon and His Sons"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/1280px-Laoco%C3%B6n_and_his_sons_group.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg"
+    },
+    {
+        "id": 14,
+        "question": "Identify this monument.",
+        "quiz_title": "Monuments and Sculpture Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_014.jpg",
+        "answer": "Great Sphinx of Giza",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza",
+            "quiz_title": "Monuments and Sculpture Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Great Sphinx of Giza",
+            "image_title": "File:Sphinx_with_the_third_pyramid.jpg",
+            "license": "CC0"
+        },
+        "accepted_answers": [
+            "Great Sphinx of Giza"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sphinx_with_the_third_pyramid.jpg/1280px-Sphinx_with_the_third_pyramid.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sphinx_with_the_third_pyramid.jpg"
+    },
+    {
+        "id": 15,
+        "question": "Identify this building.",
+        "quiz_title": "Monuments and Sculpture Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_015.jpg",
+        "answer": "Parthenon",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Parthenon",
+            "quiz_title": "Monuments and Sculpture Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Parthenon",
+            "image_title": "File:The_Parthenon_in_Athens.jpg",
+            "license": "CC BY 2.0"
+        },
+        "accepted_answers": [
+            "Parthenon"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg"
+    },
+    {
+        "id": 16,
+        "question": "Identify this building.",
+        "quiz_title": "Monuments and Sculpture Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_016.jpg",
+        "answer": "Hagia Sophia",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+            "quiz_title": "Monuments and Sculpture Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Hagia Sophia",
+            "image_title": "File:Hagia_Sophia_(228968325).jpeg",
+            "license": "CC BY-SA 3.0"
+        },
+        "accepted_answers": [
+            "Hagia Sophia"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/1280px-Hagia_Sophia_%28228968325%29.jpeg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hagia_Sophia_%28228968325%29.jpeg"
+    },
+    {
+        "id": 17,
+        "question": "Identify this basilica.",
+        "quiz_title": "Monuments and Sculpture Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_017.jpg",
+        "answer": "Sagrada Familia",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+            "quiz_title": "Monuments and Sculpture Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Sagrada Fam\u00edlia",
+            "image_title": "File:\u03a3\u03b1\u03b3\u03c1\u03ac\u03b4\u03b1_\u03a6\u03b1\u03bc\u03af\u03bb\u03b9\u03b1_2941.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "accepted_answers": [
+            "Sagrada Familia"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%CE%A3%CE%B1%CE%B3%CF%81%CE%AC%CE%B4%CE%B1_%CE%A6%CE%B1%CE%BC%CE%AF%CE%BB%CE%B9%CE%B1_2941.jpg/1280px-%CE%A3%CE%B1%CE%B3%CF%81%CE%AC%CE%B4%CE%B1_%CE%A6%CE%B1%CE%BC%CE%AF%CE%BB%CE%B9%CE%B1_2941.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/%CE%A3%CE%B1%CE%B3%CF%81%CE%AC%CE%B4%CE%B1_%CE%A6%CE%B1%CE%BC%CE%AF%CE%BB%CE%B9%CE%B1_2941.jpg"
+    },
+    {
+        "id": 18,
+        "question": "Identify this amphitheatre.",
+        "quiz_title": "Monuments and Sculpture Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_018.jpg",
+        "answer": "Colosseum",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Colosseum",
+            "quiz_title": "Monuments and Sculpture Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Colosseum",
+            "image_title": "File:Colosseo_2020.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "accepted_answers": [
+            "Colosseum"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1280px-Colosseo_2020.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg"
+    },
+    {
+        "id": 19,
+        "question": "Identify this mausoleum.",
+        "quiz_title": "Monuments and Sculpture Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_019.jpg",
+        "answer": "Taj Mahal",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+            "quiz_title": "Monuments and Sculpture Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Taj Mahal",
+            "image_title": "File:Taj_Mahal_(Edited).jpeg",
+            "license": "CC BY-SA 4.0"
+        },
+        "accepted_answers": [
+            "Taj Mahal"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1280px-Taj_Mahal_%28Edited%29.jpeg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg"
+    },
+    {
+        "id": 20,
+        "question": "Identify this temple complex.",
+        "quiz_title": "Monuments and Sculpture Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_020.jpg",
+        "answer": "Angkor Wat",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Angkor_Wat",
+            "quiz_title": "Monuments and Sculpture Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Angkor Wat",
+            "image_title": "File:Buddhist_monks_in_front_of_the_Angkor_Wat.jpg",
+            "license": "CC BY 2.0"
+        },
+        "accepted_answers": [
+            "Angkor Wat"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Buddhist_monks_in_front_of_the_Angkor_Wat.jpg/1280px-Buddhist_monks_in_front_of_the_Angkor_Wat.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Buddhist_monks_in_front_of_the_Angkor_Wat.jpg"
+    },
+    {
+        "id": 21,
+        "question": "Identify this molecule or structure.",
+        "quiz_title": "Science Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_021.png",
+        "answer": "DNA",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/DNA",
+            "quiz_title": "Science Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "DNA",
+            "image_title": "File:Chromosome_DNA_Gene_unannotated.svg",
+            "license": "CC BY 4.0"
+        },
+        "accepted_answers": [
+            "DNA"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chromosome_DNA_Gene_unannotated.svg/1280px-Chromosome_DNA_Gene_unannotated.svg.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chromosome_DNA_Gene_unannotated.svg"
+    },
+    {
+        "id": 22,
+        "question": "Identify this organelle.",
+        "quiz_title": "Science Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_022.png",
+        "answer": "Mitochondrion",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Mitochondrion",
+            "quiz_title": "Science Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Mitochondrion",
+            "image_title": "File:Animal_mitochondrion_diagram_en.svg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Mitochondrion",
+            "Mitochondria"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Animal_mitochondrion_diagram_en.svg/1280px-Animal_mitochondrion_diagram_en.svg.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Animal_mitochondrion_diagram_en.svg"
+    },
+    {
+        "id": 23,
+        "question": "Identify this type of cell.",
+        "quiz_title": "Science Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_023.png",
+        "answer": "Neuron",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Neuron",
+            "quiz_title": "Science Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Neuron",
+            "image_title": "File:Blausen_0657_MultipolarNeuron.png",
+            "license": "CC BY 3.0"
+        },
+        "accepted_answers": [
+            "Neuron"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Blausen_0657_MultipolarNeuron.png/1280px-Blausen_0657_MultipolarNeuron.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Blausen_0657_MultipolarNeuron.png"
+    },
+    {
+        "id": 24,
+        "question": "Identify this scientific table.",
+        "quiz_title": "Science Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_024.png",
+        "answer": "Periodic table",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Periodic_table",
+            "quiz_title": "Science Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Periodic table",
+            "image_title": "File:Colour_18-col_PT_with_labels.svg",
+            "license": "CC BY-SA 4.0"
+        },
+        "accepted_answers": [
+            "Periodic table"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Colour_18-col_PT_with_labels.svg/1280px-Colour_18-col_PT_with_labels.svg.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Colour_18-col_PT_with_labels.svg"
+    },
+    {
+        "id": 25,
+        "question": "Identify this astronomical diagram.",
+        "quiz_title": "Science Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_025.png",
+        "answer": "Hertzsprung-Russell diagram",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram",
+            "quiz_title": "Science Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Hertzsprung\u2013Russell diagram",
+            "image_title": "File:HRDiagram.png",
+            "license": "CC BY-SA 2.5"
+        },
+        "accepted_answers": [
+            "Hertzsprung-Russell diagram"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/HRDiagram.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/HRDiagram.png"
+    },
+    {
+        "id": 26,
+        "question": "Identify this chronological scale.",
+        "quiz_title": "Science Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_026.png",
+        "answer": "Geologic time scale",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Geologic_time_scale",
+            "quiz_title": "Science Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Geologic time scale",
+            "image_title": "File:Geologic_time_scale_-_spiral_-_ICS_colours_(light)_-_path_text.svg",
+            "license": "CC BY 4.0"
+        },
+        "accepted_answers": [
+            "Geologic time scale"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Geologic_time_scale_-_spiral_-_ICS_colours_%28light%29_-_path_text.svg/1280px-Geologic_time_scale_-_spiral_-_ICS_colours_%28light%29_-_path_text.svg.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Geologic_time_scale_-_spiral_-_ICS_colours_%28light%29_-_path_text.svg"
+    },
+    {
+        "id": 27,
+        "question": "Identify this organ.",
+        "quiz_title": "Science Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_027.jpg",
+        "answer": "Human brain",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Human_brain",
+            "quiz_title": "Science Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Human brain",
+            "image_title": "File:Brain_autopsy_lateral_view.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "accepted_answers": [
+            "Human brain",
+            "Brain"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brain_autopsy_lateral_view.jpg/1280px-Brain_autopsy_lateral_view.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Brain_autopsy_lateral_view.jpg"
+    },
+    {
+        "id": 28,
+        "question": "Identify this astronomical system.",
+        "quiz_title": "Science Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_028.jpg",
+        "answer": "Solar System",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Solar_System",
+            "quiz_title": "Science Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Solar System",
+            "image_title": "File:Solar_System_true_color_(captions).jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "accepted_answers": [
+            "Solar System"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Solar_System_true_color_%28captions%29.jpg/1280px-Solar_System_true_color_%28captions%29.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Solar_System_true_color_%28captions%29.jpg"
+    },
+    {
+        "id": 29,
+        "question": "Identify this physics experiment.",
+        "quiz_title": "Science Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_029.png",
+        "answer": "Double-slit experiment",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Double-slit_experiment",
+            "quiz_title": "Science Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Double-slit experiment",
+            "image_title": "File:Double-slit.svg",
+            "license": "CC BY-SA 4.0"
+        },
+        "accepted_answers": [
+            "Double-slit experiment"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Double-slit.svg/1280px-Double-slit.svg.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Double-slit.svg"
+    },
+    {
+        "id": 30,
+        "question": "Identify this biological diagram type.",
+        "quiz_title": "Science Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_030.png",
+        "answer": "Cladogram",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Cladogram",
+            "quiz_title": "Science Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Cladogram",
+            "image_title": "File:Identical_cladograms.svg",
+            "license": "CC BY-SA 3.0"
+        },
+        "accepted_answers": [
+            "Cladogram"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Identical_cladograms.svg/1280px-Identical_cladograms.svg.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Identical_cladograms.svg"
+    },
+    {
+        "id": 31,
+        "question": "Identify this lake.",
+        "quiz_title": "Geography Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_031.jpg",
+        "answer": "Lake Baikal",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Lake_Baikal",
+            "quiz_title": "Geography Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Lake Baikal",
+            "image_title": "File:Baikal.A2001296.0420.250m-NASA.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Lake Baikal"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Baikal.A2001296.0420.250m-NASA.jpg/1280px-Baikal.A2001296.0420.250m-NASA.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Baikal.A2001296.0420.250m-NASA.jpg"
+    },
+    {
+        "id": 32,
+        "question": "Identify this mountain.",
+        "quiz_title": "Geography Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_032.jpg",
+        "answer": "Mount Kilimanjaro",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro",
+            "quiz_title": "Geography Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Mount Kilimanjaro",
+            "image_title": "File:Kilimanjaro_from_Amboseli.jpg",
+            "license": "CC BY-SA 4.0"
+        },
+        "accepted_answers": [
+            "Mount Kilimanjaro"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kilimanjaro_from_Amboseli.jpg/1280px-Kilimanjaro_from_Amboseli.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kilimanjaro_from_Amboseli.jpg"
+    },
+    {
+        "id": 33,
+        "question": "Identify this strait.",
+        "quiz_title": "Geography Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_033.jpg",
+        "answer": "Strait of Gibraltar",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Strait_of_Gibraltar",
+            "quiz_title": "Geography Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Strait of Gibraltar",
+            "image_title": "File:STS059-238-074_Strait_of_Gibraltar.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Strait of Gibraltar"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/STS059-238-074_Strait_of_Gibraltar.jpg/1280px-STS059-238-074_Strait_of_Gibraltar.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/STS059-238-074_Strait_of_Gibraltar.jpg"
+    },
+    {
+        "id": 34,
+        "question": "Identify this river.",
+        "quiz_title": "Geography Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_034.jpg",
+        "answer": "Nile",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Nile",
+            "quiz_title": "Geography Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Nile",
+            "image_title": "File:Nile_3rd_Cataract_Left.jpg",
+            "license": "CC BY 2.0"
+        },
+        "accepted_answers": [
+            "Nile"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nile_3rd_Cataract_Left.jpg/1280px-Nile_3rd_Cataract_Left.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Nile_3rd_Cataract_Left.jpg"
+    },
+    {
+        "id": 35,
+        "question": "Identify this canyon.",
+        "quiz_title": "Geography Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_035.jpg",
+        "answer": "Grand Canyon",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Grand_Canyon",
+            "quiz_title": "Geography Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Grand Canyon",
+            "image_title": "File:Canyon_River_Tree_(165872763).jpeg",
+            "license": "CC BY 3.0"
+        },
+        "accepted_answers": [
+            "Grand Canyon"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Canyon_River_Tree_%28165872763%29.jpeg/1280px-Canyon_River_Tree_%28165872763%29.jpeg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Canyon_River_Tree_%28165872763%29.jpeg"
+    },
+    {
+        "id": 36,
+        "question": "Identify this rainforest.",
+        "quiz_title": "Geography Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_036.jpg",
+        "answer": "Amazon rainforest",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+            "quiz_title": "Geography Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Amazon rainforest",
+            "image_title": "File:Amazon17_(5641020319).jpg",
+            "license": "CC BY-SA 2.0"
+        },
+        "accepted_answers": [
+            "Amazon rainforest"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Amazon17_%285641020319%29.jpg/1280px-Amazon17_%285641020319%29.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Amazon17_%285641020319%29.jpg"
+    },
+    {
+        "id": 37,
+        "question": "Identify this desert.",
+        "quiz_title": "Geography Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_037.jpg",
+        "answer": "Sahara",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Sahara",
+            "quiz_title": "Geography Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Sahara",
+            "image_title": "File:Sahara_real_color.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Sahara"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sahara_real_color.jpg/1280px-Sahara_real_color.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sahara_real_color.jpg"
+    },
+    {
+        "id": 38,
+        "question": "Identify this reef system.",
+        "quiz_title": "Geography Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_038.jpg",
+        "answer": "Great Barrier Reef",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+            "quiz_title": "Geography Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Great Barrier Reef",
+            "image_title": "File:ISS-45_StoryOfWater,_Great_Barrier_Reef,_Australia.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Great Barrier Reef"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg/1280px-ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg"
+    },
+    {
+        "id": 39,
+        "question": "Identify this mountain range.",
+        "quiz_title": "Geography Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_039.jpg",
+        "answer": "Andes",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Andes",
+            "quiz_title": "Geography Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Andes",
+            "image_title": "File:Panoramic_view_Andes-Chile.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "accepted_answers": [
+            "Andes"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Panoramic_view_Andes-Chile.jpg/1280px-Panoramic_view_Andes-Chile.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Panoramic_view_Andes-Chile.jpg"
+    },
+    {
+        "id": 40,
+        "question": "Identify this mountain range.",
+        "quiz_title": "Geography Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_040.jpg",
+        "answer": "Himalayas",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Himalayas",
+            "quiz_title": "Geography Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Himalayas",
+            "image_title": "File:Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders,_annotated_with_major_rivers.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Himalayas"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg/1280px-Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg"
+    },
+    {
+        "id": 41,
+        "question": "Identify this artifact.",
+        "quiz_title": "History and Artifacts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_041.jpg",
+        "answer": "Rosetta Stone",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+            "quiz_title": "History and Artifacts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Rosetta Stone",
+            "image_title": "File:Rosetta_Stone.JPG",
+            "license": "CC BY-SA 4.0"
+        },
+        "accepted_answers": [
+            "Rosetta Stone"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1280px-Rosetta_Stone.JPG",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Rosetta_Stone.JPG"
+    },
+    {
+        "id": 42,
+        "question": "Identify this Dead Sea Scroll artifact.",
+        "quiz_title": "History and Artifacts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_042.jpg",
+        "answer": "Copper Scroll",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Copper_Scroll",
+            "quiz_title": "History and Artifacts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Copper Scroll",
+            "image_title": "File:Part_of_Qumran_Copper_Scroll.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Copper Scroll"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Part_of_Qumran_Copper_Scroll.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Part_of_Qumran_Copper_Scroll.jpg"
+    },
+    {
+        "id": 43,
+        "question": "Identify this embroidered work.",
+        "quiz_title": "History and Artifacts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_043.png",
+        "answer": "Bayeux Tapestry",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Bayeux_Tapestry",
+            "quiz_title": "History and Artifacts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Bayeux Tapestry",
+            "image_title": "File:Odo_bayeux_tapestry.png",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Bayeux Tapestry"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Odo_bayeux_tapestry.png/1280px-Odo_bayeux_tapestry.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Odo_bayeux_tapestry.png"
+    },
+    {
+        "id": 44,
+        "question": "Identify this archaeological army.",
+        "quiz_title": "History and Artifacts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_044.jpg",
+        "answer": "Terracotta Army",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Terracotta_Army",
+            "quiz_title": "History and Artifacts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Terracotta Army",
+            "image_title": "File:51714-Terracota-Army.jpg",
+            "license": "CC BY 2.0"
+        },
+        "accepted_answers": [
+            "Terracotta Army"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/1280px-51714-Terracota-Army.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/51714-Terracota-Army.jpg"
+    },
+    {
+        "id": 45,
+        "question": "Identify this helmet.",
+        "quiz_title": "History and Artifacts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_045.png",
+        "answer": "Sutton Hoo helmet",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Sutton_Hoo_helmet",
+            "quiz_title": "History and Artifacts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Sutton Hoo helmet",
+            "image_title": "File:Sutton_Hoo_helmet_2016.png",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Sutton Hoo helmet"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sutton_Hoo_helmet_2016.png/1280px-Sutton_Hoo_helmet_2016.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sutton_Hoo_helmet_2016.png"
+    },
+    {
+        "id": 46,
+        "question": "Identify this charter.",
+        "quiz_title": "History and Artifacts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_046.jpg",
+        "answer": "Magna Carta",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Magna_Carta",
+            "quiz_title": "History and Artifacts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Magna Carta",
+            "image_title": "File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Magna Carta"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/1280px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg"
+    },
+    {
+        "id": 47,
+        "question": "Identify this law code.",
+        "quiz_title": "History and Artifacts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_047.jpg",
+        "answer": "Code of Hammurabi",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+            "quiz_title": "History and Artifacts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Code of Hammurabi",
+            "image_title": "File:P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+            "license": "CC BY 3.0"
+        },
+        "accepted_answers": [
+            "Code of Hammurabi"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG"
+    },
+    {
+        "id": 48,
+        "question": "Identify this bust.",
+        "quiz_title": "History and Artifacts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_048.jpg",
+        "answer": "Nefertiti Bust",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Nefertiti_Bust",
+            "quiz_title": "History and Artifacts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Nefertiti Bust",
+            "image_title": "File:Nofretete_Neues_Museum.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "accepted_answers": [
+            "Nefertiti Bust"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nofretete_Neues_Museum.jpg/1280px-Nofretete_Neues_Museum.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Nofretete_Neues_Museum.jpg"
+    },
+    {
+        "id": 49,
+        "question": "Identify this figurine.",
+        "quiz_title": "History and Artifacts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_049.jpg",
+        "answer": "Venus of Willendorf",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Venus_of_Willendorf",
+            "quiz_title": "History and Artifacts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Venus of Willendorf",
+            "image_title": "File:Venus_von_Willendorf_01.jpg",
+            "license": "CC BY 2.5"
+        },
+        "accepted_answers": [
+            "Venus of Willendorf"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Venus_von_Willendorf_01.jpg/1280px-Venus_von_Willendorf_01.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Venus_von_Willendorf_01.jpg"
+    },
+    {
+        "id": 50,
+        "question": "Identify this ancient artifact.",
+        "quiz_title": "History and Artifacts Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_050.jpg",
+        "answer": "Standard of Ur",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Standard_of_Ur",
+            "quiz_title": "History and Artifacts Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Standard of Ur",
+            "image_title": "File:Denis_Bourez_-_British_Museum,_London_(8747049029)_(2).jpg",
+            "license": "CC BY 2.0"
+        },
+        "accepted_answers": [
+            "Standard of Ur"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg/1280px-Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg"
+    },
+    {
+        "id": 51,
+        "question": "Identify this author.",
+        "quiz_title": "Literature Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_051.jpg",
+        "answer": "William Shakespeare",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/William_Shakespeare",
+            "quiz_title": "Literature Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "William Shakespeare",
+            "image_title": "File:William_Shakespeare_by_John_Taylor,_edited.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "William Shakespeare"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/1280px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg"
+    },
+    {
+        "id": 52,
+        "question": "Identify this author.",
+        "quiz_title": "Literature Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_052.jpg",
+        "answer": "Jane Austen",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Jane_Austen",
+            "quiz_title": "Literature Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Jane Austen",
+            "image_title": "File:CassandraAusten-JaneAusten(c.1810)_hires.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Jane Austen"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/1280px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg"
+    },
+    {
+        "id": 53,
+        "question": "Identify this author.",
+        "quiz_title": "Literature Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_053.jpg",
+        "answer": "Leo Tolstoy",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+            "quiz_title": "Literature Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Leo Tolstoy",
+            "image_title": "File:Leo_Tolstoy_1908_Portrait_(3x4_cropped).jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Leo Tolstoy"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg/1280px-Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg"
+    },
+    {
+        "id": 54,
+        "question": "Identify this author.",
+        "quiz_title": "Literature Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_054.jpg",
+        "answer": "Virginia Woolf",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Virginia_Woolf",
+            "quiz_title": "Literature Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Virginia Woolf",
+            "image_title": "File:George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Virginia Woolf"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg/1280px-George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg"
+    },
+    {
+        "id": 55,
+        "question": "Identify this author.",
+        "quiz_title": "Literature Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_055.jpg",
+        "answer": "James Joyce",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/James_Joyce",
+            "quiz_title": "Literature Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "James Joyce",
+            "image_title": "File:Revolutionary_Joyce_Better_Contrast.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "James Joyce"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Revolutionary_Joyce_Better_Contrast.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Revolutionary_Joyce_Better_Contrast.jpg"
+    },
+    {
+        "id": 56,
+        "question": "Identify this poet.",
+        "quiz_title": "Literature Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_056.jpg",
+        "answer": "Homer",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Homer",
+            "quiz_title": "Literature Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Homer",
+            "image_title": "File:Homer_British_Museum.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Homer"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg"
+    },
+    {
+        "id": 57,
+        "question": "Identify this poet.",
+        "quiz_title": "Literature Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_057.jpg",
+        "answer": "Dante Alighieri",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Dante_Alighieri",
+            "quiz_title": "Literature Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Dante Alighieri",
+            "image_title": "File:Bargello_-_Kapelle_Fresko_2a.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "accepted_answers": [
+            "Dante Alighieri"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bargello_-_Kapelle_Fresko_2a.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bargello_-_Kapelle_Fresko_2a.jpg"
+    },
+    {
+        "id": 58,
+        "question": "Identify this author.",
+        "quiz_title": "Literature Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_058.jpg",
+        "answer": "Charles Dickens",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Charles_Dickens",
+            "quiz_title": "Literature Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Charles Dickens",
+            "image_title": "File:Dickens_Gurney_head.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Charles Dickens"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg"
+    },
+    {
+        "id": 59,
+        "question": "Identify this author.",
+        "quiz_title": "Literature Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_059.jpg",
+        "answer": "Mary Shelley",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Mary_Shelley",
+            "quiz_title": "Literature Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Mary Shelley",
+            "image_title": "File:Mary_Wollstonecraft_Shelley_Rothwell.tif",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Mary Shelley"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mary_Wollstonecraft_Shelley_Rothwell.tif/lossy-page1-1280px-Mary_Wollstonecraft_Shelley_Rothwell.tif.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mary_Wollstonecraft_Shelley_Rothwell.tif"
+    },
+    {
+        "id": 60,
+        "question": "Identify this author.",
+        "quiz_title": "Literature Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_060.jpg",
+        "answer": "Franz Kafka",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Franz_Kafka",
+            "quiz_title": "Literature Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Franz Kafka",
+            "image_title": "File:Franz_Kafka,_1923.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Franz Kafka"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Franz_Kafka%2C_1923.jpg/1280px-Franz_Kafka%2C_1923.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Franz_Kafka%2C_1923.jpg"
+    },
+    {
+        "id": 61,
+        "question": "Identify this composer.",
+        "quiz_title": "Classical Music Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_061.jpg",
+        "answer": "Johann Sebastian Bach",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+            "quiz_title": "Classical Music Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Johann Sebastian Bach",
+            "image_title": "File:Johann_Sebastian_Bach.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Johann Sebastian Bach"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/1280px-Johann_Sebastian_Bach.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg"
+    },
+    {
+        "id": 62,
+        "question": "Identify this composer.",
+        "quiz_title": "Classical Music Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_062.jpg",
+        "answer": "Wolfgang Amadeus Mozart",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+            "quiz_title": "Classical Music Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Wolfgang Amadeus Mozart",
+            "image_title": "File:The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Wolfgang Amadeus Mozart"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg/1280px-The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg"
+    },
+    {
+        "id": 63,
+        "question": "Identify this composer.",
+        "quiz_title": "Classical Music Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_063.jpg",
+        "answer": "Ludwig van Beethoven",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+            "quiz_title": "Classical Music Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Ludwig van Beethoven",
+            "image_title": "File:Joseph_Karl_Stieler's_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Ludwig van Beethoven"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/1280px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg"
+    },
+    {
+        "id": 64,
+        "question": "Identify this composer.",
+        "quiz_title": "Classical Music Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_064.jpg",
+        "answer": "Frederic Chopin",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin",
+            "quiz_title": "Classical Music Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Fr\u00e9d\u00e9ric Chopin",
+            "image_title": "File:Frederic_Chopin_photo.jpeg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Frederic Chopin"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Frederic_Chopin_photo.jpeg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Frederic_Chopin_photo.jpeg"
+    },
+    {
+        "id": 65,
+        "question": "Identify this composer.",
+        "quiz_title": "Classical Music Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_065.jpg",
+        "answer": "Pyotr Ilyich Tchaikovsky",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+            "quiz_title": "Classical Music Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Pyotr Ilyich Tchaikovsky",
+            "image_title": "File:Tchaikovsky_by_Reutlinger_(cropped).jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Pyotr Ilyich Tchaikovsky"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tchaikovsky_by_Reutlinger_%28cropped%29.jpg/1280px-Tchaikovsky_by_Reutlinger_%28cropped%29.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tchaikovsky_by_Reutlinger_%28cropped%29.jpg"
+    },
+    {
+        "id": 66,
+        "question": "Identify this composer.",
+        "quiz_title": "Classical Music Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_066.jpg",
+        "answer": "Igor Stravinsky",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Igor_Stravinsky",
+            "quiz_title": "Classical Music Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Igor Stravinsky",
+            "image_title": "File:Igor_Stravinsky_LOC_32392u.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Igor Stravinsky"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Igor_Stravinsky_LOC_32392u.jpg/1280px-Igor_Stravinsky_LOC_32392u.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Igor_Stravinsky_LOC_32392u.jpg"
+    },
+    {
+        "id": 67,
+        "question": "Identify this composer.",
+        "quiz_title": "Classical Music Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_067.jpg",
+        "answer": "Clara Schumann",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Clara_Schumann",
+            "quiz_title": "Classical Music Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Clara Schumann",
+            "image_title": "File:Franz_Hanfstaengl_-_Clara_Schumann_(1857).jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Clara Schumann"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Franz_Hanfstaengl_-_Clara_Schumann_%281857%29.jpg/1280px-Franz_Hanfstaengl_-_Clara_Schumann_%281857%29.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Franz_Hanfstaengl_-_Clara_Schumann_%281857%29.jpg"
+    },
+    {
+        "id": 68,
+        "question": "Identify this composer.",
+        "quiz_title": "Classical Music Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_068.jpg",
+        "answer": "Giuseppe Verdi",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Giuseppe_Verdi",
+            "quiz_title": "Classical Music Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Giuseppe Verdi",
+            "image_title": "File:Giuseppe_Verdi_by_Ferdinand_Mulnier_BW.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Giuseppe Verdi"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Giuseppe_Verdi_by_Ferdinand_Mulnier_BW.jpg/1280px-Giuseppe_Verdi_by_Ferdinand_Mulnier_BW.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Giuseppe_Verdi_by_Ferdinand_Mulnier_BW.jpg"
+    },
+    {
+        "id": 69,
+        "question": "Identify this composer.",
+        "quiz_title": "Classical Music Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_069.jpg",
+        "answer": "Richard Wagner",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Richard_Wagner",
+            "quiz_title": "Classical Music Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Richard Wagner",
+            "image_title": "File:RichardWagner.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Richard Wagner"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RichardWagner.jpg/1280px-RichardWagner.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/RichardWagner.jpg"
+    },
+    {
+        "id": 70,
+        "question": "Identify this composer.",
+        "quiz_title": "Classical Music Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_070.jpg",
+        "answer": "Claude Debussy",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Claude_Debussy",
+            "quiz_title": "Classical Music Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Claude Debussy",
+            "image_title": "File:Claude_Debussy_by_Atelier_Nadar.jpg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Claude Debussy"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Claude_Debussy_by_Atelier_Nadar.jpg/1280px-Claude_Debussy_by_Atelier_Nadar.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Claude_Debussy_by_Atelier_Nadar.jpg"
+    },
+    {
+        "id": 71,
+        "question": "Identify this fractal.",
+        "quiz_title": "Math and Computing Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_071.jpg",
+        "answer": "Mandelbrot set",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Mandelbrot_set",
+            "quiz_title": "Math and Computing Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Mandelbrot set",
+            "image_title": "File:Mandel_zoom_00_mandelbrot_set.jpg",
+            "license": "CC BY-SA 3.0"
+        },
+        "accepted_answers": [
+            "Mandelbrot set"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/1280px-Mandel_zoom_00_mandelbrot_set.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg"
+    },
+    {
+        "id": 72,
+        "question": "Identify this surface.",
+        "quiz_title": "Math and Computing Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_072.jpg",
+        "answer": "Mobius strip",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/M%C3%B6bius_strip",
+            "quiz_title": "Math and Computing Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "M\u00f6bius strip",
+            "image_title": "File:M\u00f6bius_Strip.jpg",
+            "license": "CC BY-SA 2.0"
+        },
+        "accepted_answers": [
+            "Mobius strip"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/M%C3%B6bius_Strip.jpg/1280px-M%C3%B6bius_Strip.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/M%C3%B6bius_Strip.jpg"
+    },
+    {
+        "id": 73,
+        "question": "Identify this theorem.",
+        "quiz_title": "Math and Computing Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_073.png",
+        "answer": "Pythagorean theorem",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Pythagorean_theorem",
+            "quiz_title": "Math and Computing Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Pythagorean theorem",
+            "image_title": "File:Pythagorean.svg",
+            "license": "CC BY-SA 3.0"
+        },
+        "accepted_answers": [
+            "Pythagorean theorem"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pythagorean.svg/1280px-Pythagorean.svg.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Pythagorean.svg"
+    },
+    {
+        "id": 74,
+        "question": "Identify this dynamical system.",
+        "quiz_title": "Math and Computing Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_074.gif",
+        "answer": "Lorenz system",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Lorenz_system",
+            "quiz_title": "Math and Computing Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Lorenz system",
+            "image_title": "File:A_Trajectory_Through_Phase_Space_in_a_Lorenz_Attractor.gif",
+            "license": "CC BY-SA 3.0"
+        },
+        "accepted_answers": [
+            "Lorenz system"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/A_Trajectory_Through_Phase_Space_in_a_Lorenz_Attractor.gif",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/A_Trajectory_Through_Phase_Space_in_a_Lorenz_Attractor.gif"
+    },
+    {
+        "id": 75,
+        "question": "Identify this mathematical ratio.",
+        "quiz_title": "Math and Computing Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_075.png",
+        "answer": "Golden ratio",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Golden_ratio",
+            "quiz_title": "Math and Computing Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Golden ratio",
+            "image_title": "File:Golden_ratio_line.svg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Golden ratio"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Golden_ratio_line.svg/1280px-Golden_ratio_line.svg.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Golden_ratio_line.svg"
+    },
+    {
+        "id": 76,
+        "question": "Identify this fractal.",
+        "quiz_title": "Math and Computing Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_076.png",
+        "answer": "Sierpinski triangle",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle",
+            "quiz_title": "Math and Computing Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Sierpi\u0144ski triangle",
+            "image_title": "File:Sierpinski_triangle.svg",
+            "license": "CC BY-SA 3.0"
+        },
+        "accepted_answers": [
+            "Sierpinski triangle"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/1280px-Sierpinski_triangle.svg.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Sierpinski_triangle.svg"
+    },
+    {
+        "id": 77,
+        "question": "Identify this family of solids.",
+        "quiz_title": "Math and Computing Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_077.png",
+        "answer": "Platonic solid",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Platonic_solid",
+            "quiz_title": "Math and Computing Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Platonic solid",
+            "image_title": "File:Platonic_Solids_Transparent.svg",
+            "license": "CC0"
+        },
+        "accepted_answers": [
+            "Platonic solid"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Platonic_Solids_Transparent.svg/1280px-Platonic_Solids_Transparent.svg.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Platonic_Solids_Transparent.svg"
+    },
+    {
+        "id": 78,
+        "question": "Identify this diagram type.",
+        "quiz_title": "Math and Computing Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_078.png",
+        "answer": "Euler diagram",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Euler_diagram",
+            "quiz_title": "Math and Computing Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Euler diagram",
+            "image_title": "File:EulerDiagram.svg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Euler diagram"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/EulerDiagram.svg/1280px-EulerDiagram.svg.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/EulerDiagram.svg"
+    },
+    {
+        "id": 79,
+        "question": "Identify this probability distribution.",
+        "quiz_title": "Math and Computing Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_079.png",
+        "answer": "Normal distribution",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Normal_distribution",
+            "quiz_title": "Math and Computing Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Normal distribution",
+            "image_title": "File:Normal_Distribution_PDF.svg",
+            "license": "Public domain"
+        },
+        "accepted_answers": [
+            "Normal distribution"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Normal_Distribution_PDF.svg/1280px-Normal_Distribution_PDF.svg.png",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Normal_Distribution_PDF.svg"
+    },
+    {
+        "id": 80,
+        "question": "Identify this model of computation.",
+        "quiz_title": "Math and Computing Picture Round",
+        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/quizbowl/quizbowl_picture_round_080.jpg",
+        "answer": "Turing machine",
+        "source": {
+            "platform": "Wikipedia / Wikimedia Commons",
+            "url": "https://en.wikipedia.org/wiki/Turing_machine",
+            "quiz_title": "Math and Computing Picture Round",
+            "quiz_type": "Quiz Bowl Picture Round",
+            "wikipedia_title": "Turing machine",
+            "image_title": "File:Turing_Machine_Model_Davey_2012.jpg",
+            "license": "CC BY 3.0"
+        },
+        "accepted_answers": [
+            "Turing machine"
+        ],
+        "source_media_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Turing_Machine_Model_Davey_2012.jpg/1280px-Turing_Machine_Model_Davey_2012.jpg",
+        "original_media_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Turing_Machine_Model_Davey_2012.jpg"
+    }
+]
