@@ -13,14 +13,15 @@ Small Python scrapers for collecting multimodal image-question datasets from pub
 - `nasa/nasa_spaceplace_scraper.py`: collects image-based records from NASA Space Place articles.
 - `nih/niaid_bioart_scraper.py`: collects public NIH BioArt image records.
 - `plos/plos_research_figure_scraper.py`: collects peer-reviewed PLOS article figures with questions that combine figure legends and abstracts.
-- `quizbowl/quizbowl_picture_rounds_scraper.py`: collects quizbowl-style picture rounds from curated Wikipedia/Wikimedia Commons pages.
+- `quizbowl/quizbowl_picture_rounds_scraper.py`: collects image-based visual bonus questions from multiple real quizbowl packet archive PDFs.
+- `quizbowl/quizbowl_tossups_scraper.py`: collects real quizbowl tossups from QB Reader packet data.
 - `sporcle/sporcle_scraper.py`: collects image-backed trivia prompts from a Sporcle slideshow quiz.
 - `sporcle/sporcle_*_scraper.py`: collect specific Sporcle slideshow quizzes with image-backed prompts. The working Sporcle batch currently targets 13 quizzes, including the actor series plus `Broken Bones by X-Ray` and `Animals with David Attenborough`.
 - `wikipedia/wikipedia_biology_scraper.py`: collects biology-related image records from Wikipedia.
 
 ## Output files
 
-Each scraper writes JSON into `dataset/`. On each run, remote media is downloaded into `dataset/images/<source>/`, the main `image_url` or `media_url` field is rewritten to the local file path, and the original remote URL is preserved in `source_image_url` or `source_media_url`. The quiz scrapers preserve their imported question text, and the rest of the generated questions are intended to use both the image and the accompanying source text rather than simple "what is shown?" identification prompts.
+Each scraper writes JSON into `dataset/`. For image-backed sources, remote media is downloaded into `dataset/images/<source>/`, the main `image_url` or `media_url` field is rewritten to the local file path, and the original remote URL is preserved in `source_image_url` or `source_media_url`. Text-only sources such as the quizbowl tossup scraper keep the original clue text and provenance without downloading media. The quiz scrapers preserve imported prompt text from their sources, and the reasoning-oriented datasets are intended to require combining the prompt with the visual or source context rather than defaulting to simple "what is shown?" identification prompts.
 
 ## Setup
 
@@ -55,6 +56,7 @@ python3 nasa/nasa_spaceplace_scraper.py
 python3 nih/niaid_bioart_scraper.py
 python3 plos/plos_research_figure_scraper.py
 python3 quizbowl/quizbowl_picture_rounds_scraper.py
+python3 quizbowl/quizbowl_tossups_scraper.py
 python3 sporcle/sporcle_scraper.py
 python3 wikipedia/wikipedia_biology_scraper.py
 ```
