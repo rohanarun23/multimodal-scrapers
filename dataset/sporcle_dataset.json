@@ -3,7 +3,7 @@
         "id": 1,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_001.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_001.jpg",
         "answer": "Christopher Walken",
         "source": {
             "platform": "Sporcle",
@@ -22,7 +22,7 @@
         "id": 2,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_002.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_002.jpg",
         "answer": "Jennifer Lopez",
         "source": {
             "platform": "Sporcle",
@@ -41,7 +41,7 @@
         "id": 3,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_003.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_003.jpg",
         "answer": "Chevy Chase",
         "source": {
             "platform": "Sporcle",
@@ -60,7 +60,7 @@
         "id": 4,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_004.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_004.jpg",
         "answer": "Selena Gomez",
         "source": {
             "platform": "Sporcle",
@@ -79,7 +79,7 @@
         "id": 5,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_005.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_005.jpg",
         "answer": "Johnny Depp",
         "source": {
             "platform": "Sporcle",
@@ -98,7 +98,7 @@
         "id": 6,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_006.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_006.jpg",
         "answer": "Brie Larson",
         "source": {
             "platform": "Sporcle",
@@ -117,7 +117,7 @@
         "id": 7,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_007.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_007.jpg",
         "answer": "Rupert Grint",
         "source": {
             "platform": "Sporcle",
@@ -136,7 +136,7 @@
         "id": 8,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_008.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_008.jpg",
         "answer": "Sadie Sink",
         "source": {
             "platform": "Sporcle",
@@ -155,7 +155,7 @@
         "id": 9,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_009.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_009.jpg",
         "answer": "Ed Helms",
         "source": {
             "platform": "Sporcle",
@@ -174,7 +174,7 @@
         "id": 10,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_010.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_010.jpg",
         "answer": "Hailee Steinfeld",
         "source": {
             "platform": "Sporcle",
@@ -193,7 +193,7 @@
         "id": 11,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_011.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_011.jpg",
         "answer": "Bruce Willis",
         "source": {
             "platform": "Sporcle",
@@ -212,7 +212,7 @@
         "id": 12,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_012.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_012.jpg",
         "answer": "Christina Hendricks",
         "source": {
             "platform": "Sporcle",
@@ -231,7 +231,7 @@
         "id": 13,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_013.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_013.jpg",
         "answer": "Elijah Wood",
         "source": {
             "platform": "Sporcle",
@@ -250,7 +250,7 @@
         "id": 14,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_014.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_014.jpg",
         "answer": "Liv Tyler",
         "source": {
             "platform": "Sporcle",
@@ -269,7 +269,7 @@
         "id": 15,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_015.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_015.jpg",
         "answer": "LaKeith Stanfield",
         "source": {
             "platform": "Sporcle",
@@ -288,7 +288,7 @@
         "id": 16,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_016.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_016.jpg",
         "answer": "Pamela Anderson",
         "source": {
             "platform": "Sporcle",
@@ -307,7 +307,7 @@
         "id": 17,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_017.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_017.jpg",
         "answer": "Hugh Laurie",
         "source": {
             "platform": "Sporcle",
@@ -326,7 +326,7 @@
         "id": 18,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_018.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_018.jpg",
         "answer": "Mandy Moore",
         "source": {
             "platform": "Sporcle",
@@ -345,7 +345,7 @@
         "id": 19,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_019.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_019.jpg",
         "answer": "Jim Carrey",
         "source": {
             "platform": "Sporcle",
@@ -364,7 +364,7 @@
         "id": 20,
         "question": "Can you name the actors who've been in a movie, a TV show, & a music video?",
         "quiz_title": "Actors in Three Forms of Visual Media II",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_dataset_020.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_dataset_020.jpg",
         "answer": "Aubrey Plaza",
         "source": {
             "platform": "Sporcle",

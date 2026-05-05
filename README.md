@@ -9,7 +9,7 @@ Small Python scrapers for collecting multimodal image-question datasets from pub
 - `jeopardy/jeopardy_show_*_visual_scraper.py`: collect J-Archive clues from specific shows that include linked visual media. The working Jeopardy batch targets shows 7103 through 7124.
 - `kensquiz/kensquiz_scraper.py`: collects Ken's Quiz road-sign handout questions and cropped image tiles.
 - `kensquiz/kensquiz_handout_scraper.py`: collects Ken's Quiz pub quiz handout picture rounds and cropped image tiles.
-- `nasa/nasa_apod_scraper.py`: collects Astronomy Picture of the Day image records from NASA.
+- `nasa/nasa_apod_scraper.py`: collects Astronomy Picture of the Day image records from NASA into `dataset/images/nasa_apod/`.
 - `nasa/nasa_spaceplace_scraper.py`: collects image-based records from NASA Space Place articles.
 - `nih/niaid_bioart_scraper.py`: collects public NIH BioArt image records.
 - `plos/plos_research_figure_scraper.py`: collects peer-reviewed PLOS article figures with questions that combine figure legends and abstracts.
@@ -21,7 +21,7 @@ Small Python scrapers for collecting multimodal image-question datasets from pub
 
 ## Output files
 
-Each scraper writes JSON into `dataset/`. For image-backed sources, remote media is downloaded into `dataset/images/<source>/`, the main `image_url` or `media_url` field is rewritten to the local file path, and the original remote URL is preserved in `source_image_url` or `source_media_url`. Text-only sources such as the quizbowl tossup scraper keep the original clue text and provenance without downloading media. The quiz scrapers preserve imported prompt text from their sources, and the reasoning-oriented datasets are intended to require combining the prompt with the visual or source context rather than defaulting to simple "what is shown?" identification prompts.
+Each scraper writes JSON into `dataset/`. For image-backed sources, remote media is downloaded into `dataset/images/<source>/`, the main `image_url` or `media_url` field is rewritten to the local file path, and the original remote URL is preserved in `source_image_url` or `source_media_url`. Text-only sources such as the QB Reader tossup scraper are marked with `"media_type": "text"` and do not have an image directory. The quiz scrapers preserve imported prompt text from their sources, and the reasoning-oriented datasets are intended to require combining the prompt with the visual or source context rather than defaulting to simple "what is shown?" identification prompts.
 
 ## Setup
 
@@ -63,3 +63,13 @@ python3 wikipedia/wikipedia_biology_scraper.py
 
 Use additional Jeopardy visual-clue scrapers by running the matching file in `jeopardy/`, for example `python3 jeopardy/jeopardy_show_7116_visual_scraper.py`.
 Use additional Sporcle slideshow scrapers by running the matching file in `sporcle/`, for example `python3 sporcle/sporcle_actors_through_three_decades_on_tv_iv_scraper.py`.
+
+## Validating local assets
+
+Run this before pushing dataset changes:
+
+```bash
+python3 tools/validate_dataset_assets.py
+```
+
+The validator fails if an image-backed record points at a missing local file or a remote URL. Text-only datasets such as `dataset/quizbowl_tossups.json` pass when their records include `"media_type": "text"`.

@@ -3,7 +3,7 @@
         "id": 1,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_001.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_001.jpg",
         "answer": "Melissa McCarthy",
         "source": {
             "platform": "Sporcle",
@@ -22,7 +22,7 @@
         "id": 2,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_002.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_002.jpg",
         "answer": "Steve Carell",
         "source": {
             "platform": "Sporcle",
@@ -41,7 +41,7 @@
         "id": 3,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_003.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_003.jpg",
         "answer": "Hilary Duff",
         "source": {
             "platform": "Sporcle",
@@ -60,7 +60,7 @@
         "id": 4,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_004.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_004.jpg",
         "answer": "Matthew Perry",
         "source": {
             "platform": "Sporcle",
@@ -79,7 +79,7 @@
         "id": 5,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_005.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_005.jpg",
         "answer": "Jessica Alba",
         "source": {
             "platform": "Sporcle",
@@ -98,7 +98,7 @@
         "id": 6,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_006.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_006.jpg",
         "answer": "Tony Shalhoub",
         "source": {
             "platform": "Sporcle",
@@ -117,7 +117,7 @@
         "id": 7,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_007.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_007.jpg",
         "answer": "Katey Sagal",
         "source": {
             "platform": "Sporcle",
@@ -136,7 +136,7 @@
         "id": 8,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_008.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_008.jpg",
         "answer": "Michael Cera",
         "source": {
             "platform": "Sporcle",
@@ -155,7 +155,7 @@
         "id": 9,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_009.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_009.jpg",
         "answer": "Neve Campbell",
         "source": {
             "platform": "Sporcle",
@@ -174,7 +174,7 @@
         "id": 10,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_010.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_010.jpg",
         "answer": "John Stamos",
         "source": {
             "platform": "Sporcle",
@@ -193,7 +193,7 @@
         "id": 11,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_011.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_011.jpg",
         "answer": "Brandy Norwood",
         "source": {
             "platform": "Sporcle",
@@ -216,7 +216,7 @@
         "id": 12,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_012.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_012.jpg",
         "answer": "Tony Danza",
         "source": {
             "platform": "Sporcle",
@@ -235,7 +235,7 @@
         "id": 13,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_013.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_013.jpg",
         "answer": "Calista Flockhart",
         "source": {
             "platform": "Sporcle",
@@ -254,7 +254,7 @@
         "id": 14,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_014.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_014.jpg",
         "answer": "Andre Braugher",
         "source": {
             "platform": "Sporcle",
@@ -273,7 +273,7 @@
         "id": 15,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_015.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_015.jpg",
         "answer": "Sarah Jessica Parker",
         "source": {
             "platform": "Sporcle",
@@ -292,7 +292,7 @@
         "id": 16,
         "question": "Can you name the actors who\u2019ve been on TV for three decades?",
         "quiz_title": "Actors Through Three Decades on TV III",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_016.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_actors_through_three_decades_on_tv_iii_016.jpg",
         "answer": "Scott Bakula",
         "source": {
             "platform": "Sporcle",

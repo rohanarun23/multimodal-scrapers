@@ -19,7 +19,7 @@ from asset_localization import download_asset
 # API endpoint and output path for the generated dataset.
 API_URL = "https://api.nasa.gov/planetary/apod"
 OUTPUT_JSON = "dataset/nasa_apod_questions.json"
-IMAGES_DIR = ROOT_DIR / "dataset/images/nasa"
+IMAGES_DIR = ROOT_DIR / "dataset/images/nasa_apod"
 API_KEY = os.getenv("NASA_API_KEY", "DEMO_KEY").strip() or "DEMO_KEY"
 CONTACT_EMAIL = os.getenv("SCRAPER_CONTACT_EMAIL", "your-email@example.com").strip() or "your-email@example.com"
 START_DATE = "2024-01-01"
@@ -184,11 +184,12 @@ def is_valid_item(item: dict) -> bool:
 
 
 def build_record(item: dict, index: int) -> dict:
-    image_url = item.get("hdurl") or item.get("url")
+    image_url = item.get("url") or item.get("hdurl")
+    original_image_url = item.get("hdurl") if item.get("hdurl") != image_url else None
     answer = clean_text(item.get("title"))
     context = clean_text(item.get("explanation"))
 
-    return {
+    record = {
         "id": f"nasa_apod_{index:03d}",
         "question": build_question(answer, context),
         "answer": answer,
@@ -199,6 +200,9 @@ def build_record(item: dict, index: int) -> dict:
         "copyright": clean_text(item.get("copyright")) or None,
         "context": context,
     }
+    if original_image_url:
+        record["original_image_url"] = original_image_url
+    return record
 
 
 def fetch_apod_items() -> list[dict]:

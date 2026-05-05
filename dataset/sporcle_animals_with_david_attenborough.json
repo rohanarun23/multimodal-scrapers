@@ -3,7 +3,7 @@
         "id": 1,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_001.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_001.jpg",
         "answer": "Meerkat",
         "source": {
             "platform": "Sporcle",
@@ -25,7 +25,7 @@
         "id": 2,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_002.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_002.jpg",
         "answer": "Black Rhinoceros (infant)",
         "source": {
             "platform": "Sporcle",
@@ -50,7 +50,7 @@
         "id": 3,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_003.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_003.jpg",
         "answer": "Ad\u00e9lie Penguin",
         "source": {
             "platform": "Sporcle",
@@ -73,7 +73,7 @@
         "id": 4,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_004.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_004.jpg",
         "answer": "Polar Bear",
         "source": {
             "platform": "Sporcle",
@@ -91,7 +91,7 @@
         "id": 5,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_005.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_005.jpg",
         "answer": "Chameleon",
         "source": {
             "platform": "Sporcle",
@@ -109,7 +109,7 @@
         "id": 6,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_006.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_006.jpg",
         "answer": "Komodo Dragon",
         "source": {
             "platform": "Sporcle",
@@ -131,7 +131,7 @@
         "id": 7,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_007.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_007.jpg",
         "answer": "Albatross (infant)",
         "source": {
             "platform": "Sporcle",
@@ -155,7 +155,7 @@
         "id": 8,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_008.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_008.jpg",
         "answer": "Scarlet Macaw",
         "source": {
             "platform": "Sporcle",
@@ -178,7 +178,7 @@
         "id": 9,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_009.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_009.jpg",
         "answer": "Otter",
         "source": {
             "platform": "Sporcle",
@@ -196,7 +196,7 @@
         "id": 10,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_010.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_010.jpg",
         "answer": "Kiwi",
         "source": {
             "platform": "Sporcle",
@@ -214,7 +214,7 @@
         "id": 11,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_011.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_011.jpg",
         "answer": "Chimpanzee",
         "source": {
             "platform": "Sporcle",
@@ -236,7 +236,7 @@
         "id": 12,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_012.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_012.jpg",
         "answer": "Tortoise",
         "source": {
             "platform": "Sporcle",
@@ -254,7 +254,7 @@
         "id": 13,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_013.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_013.jpg",
         "answer": "Kangaroo",
         "source": {
             "platform": "Sporcle",
@@ -272,7 +272,7 @@
         "id": 14,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_014.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_014.jpg",
         "answer": "Elephant Seal",
         "source": {
             "platform": "Sporcle",
@@ -294,7 +294,7 @@
         "id": 15,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_015.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_015.jpg",
         "answer": "Golden Eagle",
         "source": {
             "platform": "Sporcle",
@@ -316,7 +316,7 @@
         "id": 16,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_016.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_016.jpg",
         "answer": "Scorpion",
         "source": {
             "platform": "Sporcle",
@@ -334,7 +334,7 @@
         "id": 17,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_017.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_017.jpg",
         "answer": "Spider Crab",
         "source": {
             "platform": "Sporcle",
@@ -356,7 +356,7 @@
         "id": 18,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_018.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_018.jpg",
         "answer": "Mountain Gorilla",
         "source": {
             "platform": "Sporcle",
@@ -378,7 +378,7 @@
         "id": 19,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_019.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_019.jpg",
         "answer": "Grizzly Bear",
         "source": {
             "platform": "Sporcle",
@@ -402,7 +402,7 @@
         "id": 20,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_020.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_020.jpg",
         "answer": "Hedgehog",
         "source": {
             "platform": "Sporcle",
@@ -420,7 +420,7 @@
         "id": 21,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_021.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_021.jpg",
         "answer": "Ring-tailed Lemur",
         "source": {
             "platform": "Sporcle",
@@ -442,7 +442,7 @@
         "id": 22,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_022.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_022.jpg",
         "answer": "Manatee",
         "source": {
             "platform": "Sporcle",
@@ -460,7 +460,7 @@
         "id": 23,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_023.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_023.jpg",
         "answer": "Common Kestrel",
         "source": {
             "platform": "Sporcle",
@@ -485,7 +485,7 @@
         "id": 24,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_024.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_024.jpg",
         "answer": "Iguana",
         "source": {
             "platform": "Sporcle",
@@ -503,7 +503,7 @@
         "id": 25,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_025.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_025.jpg",
         "answer": "Orangutan",
         "source": {
             "platform": "Sporcle",
@@ -521,7 +521,7 @@
         "id": 26,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_026.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_026.jpg",
         "answer": "Three-toed Sloth",
         "source": {
             "platform": "Sporcle",
@@ -543,7 +543,7 @@
         "id": 27,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_027.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_027.jpg",
         "answer": "Millipede",
         "source": {
             "platform": "Sporcle",
@@ -565,7 +565,7 @@
         "id": 28,
         "question": "Can you name the animals pictured with David Attenborough?",
         "quiz_title": "Animals with David Attenborough",
-        "media_url": "/Users/rohanarun/projects/scrapers/dataset/images/sporcle/sporcle_animals_with_david_attenborough_028.jpg",
+        "media_url": "dataset/images/sporcle/sporcle_animals_with_david_attenborough_028.jpg",
         "answer": "Zebra",
         "source": {
             "platform": "Sporcle",

@@ -22,8 +22,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q02",
@@ -48,8 +50,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q03",
@@ -74,8 +78,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q04",
@@ -100,8 +106,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q05",
@@ -126,8 +134,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q06",
@@ -152,8 +162,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q07",
@@ -178,8 +190,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q08",
@@ -204,8 +218,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q09",
@@ -230,8 +246,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q10",
@@ -256,8 +274,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q11",
@@ -282,8 +302,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q12",
@@ -308,8 +330,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q13",
@@ -334,8 +358,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q14",
@@ -360,8 +386,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q15",
@@ -386,8 +414,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q16",
@@ -412,8 +442,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q17",
@@ -438,8 +470,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q18",
@@ -464,8 +498,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q19",
@@ -490,8 +526,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p01_q20",
@@ -516,8 +554,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q01",
@@ -542,8 +582,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q02",
@@ -568,8 +610,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q03",
@@ -594,8 +638,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q04",
@@ -620,8 +666,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q05",
@@ -646,8 +694,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q06",
@@ -672,8 +722,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q07",
@@ -698,8 +750,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q08",
@@ -724,8 +778,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q09",
@@ -750,8 +806,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q10",
@@ -776,8 +834,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q11",
@@ -802,8 +862,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q12",
@@ -828,8 +890,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q13",
@@ -854,8 +918,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q14",
@@ -880,8 +946,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q15",
@@ -906,8 +974,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q16",
@@ -932,8 +1002,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q17",
@@ -958,8 +1030,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q18",
@@ -984,8 +1058,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q19",
@@ -1010,8 +1086,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2025_acf_winter_p02_q20",
@@ -1036,8 +1114,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2025
-        }
+            "year": 2025,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q01",
@@ -1062,8 +1142,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q02",
@@ -1088,8 +1170,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q03",
@@ -1114,8 +1198,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q04",
@@ -1140,8 +1226,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q05",
@@ -1166,8 +1254,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q06",
@@ -1192,8 +1282,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q07",
@@ -1218,8 +1310,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q08",
@@ -1244,8 +1338,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q09",
@@ -1270,8 +1366,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q10",
@@ -1296,8 +1394,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q11",
@@ -1322,8 +1422,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q12",
@@ -1348,8 +1450,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q13",
@@ -1374,8 +1478,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q14",
@@ -1400,8 +1506,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q15",
@@ -1426,8 +1534,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q16",
@@ -1452,8 +1562,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q17",
@@ -1478,8 +1590,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q18",
@@ -1504,8 +1618,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q19",
@@ -1530,8 +1646,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p01_q20",
@@ -1556,8 +1674,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q01",
@@ -1582,8 +1702,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q02",
@@ -1608,8 +1730,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q03",
@@ -1634,8 +1758,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q04",
@@ -1660,8 +1786,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q05",
@@ -1686,8 +1814,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q06",
@@ -1712,8 +1842,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q07",
@@ -1738,8 +1870,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q08",
@@ -1764,8 +1898,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q09",
@@ -1790,8 +1926,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q10",
@@ -1816,8 +1954,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q11",
@@ -1842,8 +1982,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q12",
@@ -1868,8 +2010,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q13",
@@ -1894,8 +2038,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q14",
@@ -1920,8 +2066,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q15",
@@ -1946,8 +2094,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q16",
@@ -1972,8 +2122,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q17",
@@ -1998,8 +2150,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q18",
@@ -2024,8 +2178,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q19",
@@ -2050,8 +2206,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2024_acf_fall_p02_q20",
@@ -2076,8 +2234,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2024
-        }
+            "year": 2024,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q01",
@@ -2102,8 +2262,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q02",
@@ -2128,8 +2290,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q03",
@@ -2154,8 +2318,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q04",
@@ -2180,8 +2346,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q05",
@@ -2206,8 +2374,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q06",
@@ -2232,8 +2402,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q07",
@@ -2258,8 +2430,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q08",
@@ -2284,8 +2458,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q09",
@@ -2310,8 +2486,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q10",
@@ -2336,8 +2514,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q11",
@@ -2362,8 +2542,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q12",
@@ -2388,8 +2570,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q13",
@@ -2414,8 +2598,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q14",
@@ -2440,8 +2626,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q15",
@@ -2466,8 +2654,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q16",
@@ -2492,8 +2682,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q17",
@@ -2518,8 +2710,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q18",
@@ -2544,8 +2738,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q19",
@@ -2570,8 +2766,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q20",
@@ -2596,8 +2794,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p01_q21",
@@ -2622,8 +2822,10 @@
             "packet_number": 1,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q01",
@@ -2648,8 +2850,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q02",
@@ -2674,8 +2878,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q03",
@@ -2700,8 +2906,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q04",
@@ -2726,8 +2934,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q05",
@@ -2752,8 +2962,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q06",
@@ -2778,8 +2990,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q07",
@@ -2804,8 +3018,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q08",
@@ -2830,8 +3046,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q09",
@@ -2856,8 +3074,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q10",
@@ -2882,8 +3102,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q11",
@@ -2908,8 +3130,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q12",
@@ -2934,8 +3158,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q13",
@@ -2960,8 +3186,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q14",
@@ -2986,8 +3214,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q15",
@@ -3012,8 +3242,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q16",
@@ -3038,8 +3270,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q17",
@@ -3064,8 +3298,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q18",
@@ -3090,8 +3326,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q19",
@@ -3116,8 +3354,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q20",
@@ -3142,8 +3382,10 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     },
     {
         "id": "2023_acf_regionals_p02_q21",
@@ -3168,7 +3410,9 @@
             "packet_number": 2,
             "question_type": "tossup",
             "standard": true,
-            "year": 2023
-        }
+            "year": 2023,
+            "media_type": "text"
+        },
+        "media_type": "text"
     }
 ]

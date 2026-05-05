@@ -22,6 +22,43 @@ SOURCES = [
         "pdf_url": "https://files.quizbowlpackets.com/1271/Visual%20Bonus%20Round.pdf",
         "entries": [
             {
+                "bonus_number": 1,
+                "source_page": 8,
+                "prompt": "Identify the Nintendo Entertainment System games shown in the labeled screenshots.",
+                "reasoning_focus": "video_game_screenshot_identification",
+                "parts": [
+                    {"label": "A", "question": "Which NES game is shown in screenshot A?", "answer": "Excitebike"},
+                    {"label": "B", "question": "Which NES game is shown in screenshot B?", "answer": "Contra"},
+                    {"label": "C", "question": "Which NES game is shown in screenshot C?", "answer": "Final Fantasy"},
+                    {"label": "D", "question": "Which NES game is shown in screenshot D?", "answer": "R.C. Pro-Am"},
+                    {"label": "E", "question": "Which NES game is shown in screenshot E?", "answer": "Super Mario Brothers 2"},
+                    {"label": "F", "question": "Which NES game is shown in screenshot F?", "answer": "Tecmo Bowl"},
+                ],
+            },
+            {
+                "bonus_number": 2,
+                "source_page": 9,
+                "prompt": "Identify each Madonna painting from the labeled image, giving both title and artist.",
+                "reasoning_focus": "fine_art_image_identification",
+                "parts": [
+                    {
+                        "label": "A",
+                        "question": "Which Madonna painting and artist are shown in image A?",
+                        "answer": "Madonna with the Long Neck OR Long-necked Madonna by Parmigianino",
+                    },
+                    {
+                        "label": "B",
+                        "question": "Which Madonna painting and artist are shown in image B?",
+                        "answer": "Madonna of the Rocks by Leonardo da Vinci",
+                    },
+                    {
+                        "label": "C",
+                        "question": "Which Madonna painting and artist are shown in image C?",
+                        "answer": "Madonna of the Harpies by Andrea del Sarto",
+                    },
+                ],
+            },
+            {
                 "bonus_number": 3,
                 "source_page": 10,
                 "prompt": "Given the molecular structure of a commonly known substance, name that substance.",
@@ -31,6 +68,68 @@ SOURCES = [
                     {"label": "B", "question": "Identify the molecular structure labeled B.", "answer": "benzene"},
                     {"label": "C", "question": "Identify the molecular structure labeled C.", "answer": "caffeine"},
                     {"label": "D", "question": "Identify the molecular structure labeled D.", "answer": "aspirin OR acetaminophen"},
+                ],
+            },
+            {
+                "bonus_number": 4,
+                "source_page": 11,
+                "prompt": "Use the labeled anatomical diagram to match each named structure to its letter.",
+                "reasoning_focus": "anatomical_diagram_labeling",
+                "parts": [
+                    {"label": "ejaculatory_duct", "question": "Which letter marks the ejaculatory duct on the diagram?", "answer": "G"},
+                    {"label": "epididymis", "question": "Which letter marks the epididymis on the diagram?", "answer": "L"},
+                    {"label": "prostate", "question": "Which letter marks the prostate on the diagram?", "answer": "F"},
+                    {"label": "symphysis_pubis", "question": "Which letter marks the symphysis pubis on the diagram?", "answer": "B"},
+                    {"label": "urethra", "question": "Which letter marks the urethra on the diagram?", "answer": "K"},
+                    {"label": "vas_deferens", "question": "Which letter marks the vas deferens on the diagram?", "answer": "D"},
+                ],
+            },
+            {
+                "bonus_number": 5,
+                "source_page": 12,
+                "prompt": "Identify the European Union member country represented by each labeled flag.",
+                "reasoning_focus": "flag_identification",
+                "parts": [
+                    {"label": "A", "question": "Which EU member country's flag is labeled A?", "answer": "Lithuania"},
+                    {"label": "B", "question": "Which EU member country's flag is labeled B?", "answer": "Latvia"},
+                    {"label": "C", "question": "Which EU member country's flag is labeled C?", "answer": "Denmark"},
+                    {"label": "D", "question": "Which EU member country's flag is labeled D?", "answer": "Malta"},
+                ],
+            },
+            {
+                "bonus_number": 7,
+                "source_page": 14,
+                "prompt": "Identify the Capcom characters shown in the labeled Street Fighter-related images.",
+                "reasoning_focus": "character_image_identification",
+                "parts": [
+                    {"label": "A", "question": "Which Capcom character is shown in image A?", "answer": "Akuma"},
+                    {"label": "B", "question": "Which Capcom character is shown in image B?", "answer": "Dan"},
+                    {"label": "C", "question": "Which Capcom character is shown in image C?", "answer": "Rolento"},
+                    {"label": "D", "question": "Which Capcom character is shown in image D?", "answer": "Sakura"},
+                    {"label": "E", "question": "Which Capcom character is shown in image E?", "answer": "Guy"},
+                    {"label": "F", "question": "Which Capcom character is shown in image F?", "answer": "Rose"},
+                ],
+            },
+            {
+                "bonus_number": 8,
+                "source_page": 15,
+                "prompt": "Identify the Broadway play or musical from each labeled original playbill.",
+                "reasoning_focus": "playbill_visual_identification",
+                "parts": [
+                    {"label": "A", "question": "Which Broadway play or musical has the playbill labeled A?", "answer": "Miss Saigon"},
+                    {"label": "B", "question": "Which Broadway play or musical has the playbill labeled B?", "answer": "Les Miserables"},
+                    {
+                        "label": "C",
+                        "question": "Which Broadway play or musical has the playbill labeled C?",
+                        "answer": "You're a Good Man, Charlie Brown",
+                    },
+                    {"label": "D", "question": "Which Broadway play or musical has the playbill labeled D?", "answer": "Nunsense"},
+                    {"label": "E", "question": "Which Broadway play or musical has the playbill labeled E?", "answer": "Phantom of the Opera"},
+                    {
+                        "label": "F",
+                        "question": "Which Broadway play or musical has the playbill labeled F?",
+                        "answer": "Kiss of the Spider Woman",
+                    },
                 ],
             },
             {
@@ -55,6 +154,20 @@ SOURCES = [
                     {"label": "C_sin", "question": "For the figure shown, what is the sine value requested in part C?", "answer": ".60 OR 3/5"},
                     {"label": "C_cos", "question": "For the figure shown, what is the cosine value requested in part C?", "answer": ".80 OR 4/5"},
                     {"label": "C_tan", "question": "For the figure shown, what is the tangent value requested in part C?", "answer": ".75 OR 3/4"},
+                ],
+            },
+            {
+                "bonus_number": 11,
+                "source_page": 18,
+                "prompt": "Identify the constellation represented by each labeled picture.",
+                "reasoning_focus": "constellation_visual_identification",
+                "parts": [
+                    {"label": "A", "question": "Which constellation is shown in picture A?", "answer": "Andromeda"},
+                    {"label": "B", "question": "Which constellation is shown in picture B?", "answer": "Virgo"},
+                    {"label": "C", "question": "Which constellation is shown in picture C?", "answer": "Aquila"},
+                    {"label": "D", "question": "Which constellation is shown in picture D?", "answer": "Cygnus"},
+                    {"label": "E", "question": "Which constellation is shown in picture E?", "answer": "Lepus"},
+                    {"label": "F", "question": "Which constellation is shown in picture F?", "answer": "Orion"},
                 ],
             },
             {
@@ -85,6 +198,20 @@ SOURCES = [
                 ],
             },
             {
+                "bonus_number": 14,
+                "source_page": 21,
+                "prompt": "Identify each noted 20th-century dictator from the labeled photograph.",
+                "reasoning_focus": "historical_photo_identification",
+                "parts": [
+                    {"label": "A", "question": "Which 20th-century dictator is shown in photo A?", "answer": "Leonid Brezhnev"},
+                    {"label": "B", "question": "Which 20th-century dictator is shown in photo B?", "answer": "Moammar el-Gadhafi"},
+                    {"label": "C", "question": "Which 20th-century dictator is shown in photo C?", "answer": "Robert Mugabe"},
+                    {"label": "D", "question": "Which 20th-century dictator is shown in photo D?", "answer": "Francisco Franco"},
+                    {"label": "E", "question": "Which 20th-century dictator is shown in photo E?", "answer": "Kim Il-sung"},
+                    {"label": "F", "question": "Which 20th-century dictator is shown in photo F?", "answer": "Francois OR Papa Doc Duvalier"},
+                ],
+            },
+            {
                 "bonus_number": 15,
                 "source_page": 22,
                 "prompt": "Identify the labeled parts on the flower diagram.",
@@ -111,6 +238,32 @@ SOURCES = [
                 ],
             },
             {
+                "bonus_number": 17,
+                "source_page": 24,
+                "prompt": "Identify each Salvador Dali work from the labeled image.",
+                "reasoning_focus": "fine_art_image_identification",
+                "parts": [
+                    {"label": "A", "question": "Which Salvador Dali work is shown in image A?", "answer": "Sleep"},
+                    {"label": "B", "question": "Which Salvador Dali work is shown in image B?", "answer": "The Persistence of Memory"},
+                    {"label": "C", "question": "Which Salvador Dali work is shown in image C?", "answer": "The Three Sphinxes of Bikini"},
+                    {"label": "D", "question": "Which Salvador Dali work is shown in image D?", "answer": "Metamorphosis of Narcissus"},
+                ],
+            },
+            {
+                "bonus_number": 18,
+                "source_page": 25,
+                "prompt": "Identify the film from each labeled horror or suspense image.",
+                "reasoning_focus": "film_still_identification",
+                "parts": [
+                    {"label": "A", "question": "Which film is represented by image A?", "answer": "The Phantom of the Opera"},
+                    {"label": "B", "question": "Which film is represented by image B?", "answer": "The Shining"},
+                    {"label": "C", "question": "Which film is represented by image C?", "answer": "Pee-Wee's Big Adventure"},
+                    {"label": "D", "question": "Which film is represented by image D?", "answer": "Un Chien Andalou OR An Andalusian Dog"},
+                    {"label": "E", "question": "Which film is represented by image E?", "answer": "Poltergeist"},
+                    {"label": "F", "question": "Which film is represented by image F?", "answer": "Psycho"},
+                ],
+            },
+            {
                 "bonus_number": 19,
                 "source_page": 26,
                 "prompt": "Identify the countries shown only as outlines on the handout.",
@@ -121,6 +274,20 @@ SOURCES = [
                     {"label": "C", "question": "Which country outline is labeled C?", "answer": "New Zealand"},
                     {"label": "D", "question": "Which country outline is labeled D?", "answer": "Columbia"},
                     {"label": "E", "question": "Which country outline is labeled E?", "answer": "Turkey"},
+                ],
+            },
+            {
+                "bonus_number": 20,
+                "source_page": 27,
+                "prompt": "Identify each movie from the labeled poster with key text removed.",
+                "reasoning_focus": "movie_poster_identification",
+                "parts": [
+                    {"label": "A", "question": "Which movie poster is labeled A?", "answer": "Ali"},
+                    {"label": "B", "question": "Which movie poster is labeled B?", "answer": "Candyman"},
+                    {"label": "C", "question": "Which movie poster is labeled C?", "answer": "The Craft"},
+                    {"label": "D", "question": "Which movie poster is labeled D?", "answer": "From Hell"},
+                    {"label": "E", "question": "Which movie poster is labeled E?", "answer": "Remember the Titans"},
+                    {"label": "F", "question": "Which movie poster is labeled F?", "answer": "We Were Soldiers"},
                 ],
             },
         ],
@@ -154,6 +321,44 @@ SOURCES = [
                         "question": "Identify the bridge shown on page C and the body of water it crosses.",
                         "answer": "Ponte Vecchio; Arno River",
                     },
+                ],
+            },
+        ],
+    },
+    {
+        "slug": "sword_bowl_2005_utc",
+        "set_title": "Sword Bowl 2005",
+        "packet_title": "UTC",
+        "pdf_url": "https://files.quizbowlpackets.com/1326/UTC.pdf",
+        "entries": [
+            {
+                "bonus_number": 1,
+                "source_page": 8,
+                "prompt": "Identify the North American city skyline shown in each labeled picture.",
+                "reasoning_focus": "skyline_visual_identification",
+                "parts": [
+                    {"label": "A", "question": "Which North American city skyline is labeled A?", "answer": "Chicago"},
+                    {"label": "B", "question": "Which North American city skyline is labeled B?", "answer": "Toronto"},
+                    {"label": "C", "question": "Which North American city skyline is labeled C?", "answer": "Detroit"},
+                ],
+            },
+        ],
+    },
+    {
+        "slug": "dennis_haskins_open_2005_round_03",
+        "set_title": "Dennis Haskins Open March 2005",
+        "packet_title": "Round Three",
+        "pdf_url": "https://files.quizbowlpackets.com/1328/03.pdf",
+        "entries": [
+            {
+                "bonus_number": 1,
+                "source_page": 8,
+                "prompt": "Identify the Civil War battle represented by each labeled map.",
+                "reasoning_focus": "historical_battle_map_identification",
+                "parts": [
+                    {"label": "A", "question": "Which Civil War battle is shown on map A?", "answer": "Antietam"},
+                    {"label": "B", "question": "Which Civil War battle is shown on map B?", "answer": "Gettysburg"},
+                    {"label": "C", "question": "Which Civil War battle is shown on map C?", "answer": "Shiloh"},
                 ],
             },
         ],
@@ -278,7 +483,10 @@ def render_page(pdf_path: Path, page_number: int, filename_base: str) -> str:
     IMAGES_DIR.mkdir(parents=True, exist_ok=True)
     output_path = IMAGES_DIR / f"{filename_base}.jpg"
     rendered_pages[0].save(output_path, "JPEG")
-    return output_path.as_posix()
+    try:
+        return output_path.resolve().relative_to(ROOT_DIR).as_posix()
+    except ValueError:
+        return output_path.as_posix()
 
 
 def build_dataset(temp_dir: Path) -> list[dict]:
