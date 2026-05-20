@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1,
+        "question": "Seen here , the Peace Palace in this Dutch seat of government was a gift of Andrew Carnegie",
+        "answer": "The Hague",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_1.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4781",
+            "show_number": "6983",
+            "air_date": "Wednesday, January 14, 2015",
+            "game_id": "4781",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-01-14_J_03.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_1.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-01-14_J_03.jpg"
+    },
+    {
+        "id": 2,
+        "question": "Constitutional scholars say that the Court's worst decision ever was against this plaintiff in 1857",
+        "answer": "Dred Scott",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_2.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4781",
+            "show_number": "6983",
+            "air_date": "Wednesday, January 14, 2015",
+            "game_id": "4781",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-01-14_J_29.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_2.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-01-14_J_29.jpg"
+    },
+    {
+        "id": 3,
+        "question": "Not a fan of abolitionists, he was a volunteer in the militia at the hanging of John Brown",
+        "answer": "John Wilkes Booth",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_3.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4781",
+            "show_number": "6983",
+            "air_date": "Wednesday, January 14, 2015",
+            "game_id": "4781",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-01-14_DJ_18.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_3.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-01-14_DJ_18.jpg"
+    },
+    {
+        "id": 4,
+        "question": "19th century art's focus on unglamorous work included Daumier's this -ess",
+        "answer": "The Laundress",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_4_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4781",
+            "show_number": "6983",
+            "air_date": "Wednesday, January 14, 2015",
+            "game_id": "4781",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-01-14_DJ_24.jpg",
+                "https://www.j-archive.com/media/2015-01-14_DJ_24a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_4_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_4_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-01-14_DJ_24.jpg"
+    },
+    {
+        "id": 5,
+        "question": "This 18th century master of Venetian views gave us \" The Stonemason's Yard \"",
+        "answer": "Canaletto",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_5_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4781",
+            "show_number": "6983",
+            "air_date": "Wednesday, January 14, 2015",
+            "game_id": "4781",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-01-14_DJ_25.jpg",
+                "https://www.j-archive.com/media/2015-01-14_DJ_25a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_5_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_5_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-01-14_DJ_25.jpg"
+    },
+    {
+        "id": 6,
+        "question": "( Sarah of the Clue Crew shows a map on the monitor. ) An 1823 treaty assured the return of runaway slaves, & a move south to a 4-million-acre reservation by this Native American tribe",
+        "answer": "the Seminoles",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_6_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4781",
+            "show_number": "6983",
+            "air_date": "Wednesday, January 14, 2015",
+            "game_id": "4781",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-01-14_DJ_20.jpg",
+                "https://www.j-archive.com/media/2015-01-14_DJ_20a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_6_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_6_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-01-14_DJ_20.jpg"
+    },
+    {
+        "id": 7,
+        "question": "This 20th century African-American master depicted \"The Carpenters\" here",
+        "answer": "Jacob Lawrence",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_7.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4781",
+            "show_number": "6983",
+            "air_date": "Wednesday, January 14, 2015",
+            "game_id": "4781",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-01-14_DJ_26.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6983_visual_clues_7.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-01-14_DJ_26.jpg"
+    }
+]

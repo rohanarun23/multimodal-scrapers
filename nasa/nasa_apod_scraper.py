@@ -22,8 +22,9 @@ OUTPUT_JSON = "dataset/nasa_apod_questions.json"
 IMAGES_DIR = ROOT_DIR / "dataset/images/nasa_apod"
 API_KEY = os.getenv("NASA_API_KEY", "DEMO_KEY").strip() or "DEMO_KEY"
 CONTACT_EMAIL = os.getenv("SCRAPER_CONTACT_EMAIL", "your-email@example.com").strip() or "your-email@example.com"
-START_DATE = "2024-01-01"
-END_DATE = date.today().isoformat()
+START_DATE = os.getenv("NASA_APOD_START_DATE", "2023-01-01").strip() or "2023-01-01"
+END_DATE = os.getenv("NASA_APOD_END_DATE", date.today().isoformat()).strip() or date.today().isoformat()
+TARGET_ITEMS = int(os.getenv("NASA_APOD_TARGET_ITEMS", "1000"))
 
 MAX_RETRIES = 4
 REQUEST_DELAY_SECONDS = 0.5
@@ -153,6 +154,10 @@ def parse_iso_date(value: str, label: str) -> date:
         raise ValueError(f"{label} must be in YYYY-MM-DD format; got {value!r}") from exc
 
 
+def item_date(item: dict) -> date:
+    return parse_iso_date(str(item.get("date") or ""), "APOD item date")
+
+
 def iter_date_chunks(start_date: str, end_date: str):
     # NASA's demo key is heavily rate-limited, so request smaller ranges.
     current = parse_iso_date(start_date, "NASA_APOD_START_DATE")
@@ -183,6 +188,17 @@ def is_valid_item(item: dict) -> bool:
     return bool(title) and len(context) >= MIN_CONTEXT_LENGTH
 
 
+def select_target_items(items: list[dict]) -> list[dict]:
+    valid_items = [item for item in items if is_valid_item(item)]
+    valid_items.sort(key=item_date)
+
+    if len(valid_items) < TARGET_ITEMS:
+        print(f"Warning: found only {len(valid_items)} valid APOD image records; target is {TARGET_ITEMS}.")
+        return valid_items
+
+    return valid_items[-TARGET_ITEMS:]
+
+
 def build_record(item: dict, index: int) -> dict:
     image_url = item.get("url") or item.get("hdurl")
     original_image_url = item.get("hdurl") if item.get("hdurl") != image_url else None
@@ -203,6 +219,10 @@ def build_record(item: dict, index: int) -> dict:
     if original_image_url:
         record["original_image_url"] = original_image_url
     return record
+
+
+def asset_filename_base(item: dict) -> str:
+    return f"nasa_apod_{item['date']}"
 
 
 def fetch_apod_items() -> list[dict]:
@@ -238,16 +258,11 @@ def fetch_apod_items() -> list[dict]:
 
 
 def main():
-    print(f"Fetching APOD items from {START_DATE} to {END_DATE}")
+    print(f"Fetching APOD items from {START_DATE} to {END_DATE} for target size {TARGET_ITEMS}")
     items = fetch_apod_items()
 
-    # Build the final dataset with stable sequential IDs.
-    dataset = []
-    for item in items:
-        if not is_valid_item(item):
-            continue
-
-        dataset.append(build_record(item, len(dataset) + 1))
+    # Build the final dataset with stable sequential IDs from the latest valid records.
+    dataset = [build_record(item, index) for index, item in enumerate(select_target_items(items), start=1)]
 
     for item in dataset:
         remote_image_url = item.get("image_url")
@@ -255,7 +270,7 @@ def main():
             continue
 
         item["source_image_url"] = remote_image_url
-        local_image_path = download_asset(remote_image_url, IMAGES_DIR, item["id"])
+        local_image_path = download_asset(remote_image_url, IMAGES_DIR, asset_filename_base(item))
         if local_image_path:
             item["image_url"] = local_image_path
 

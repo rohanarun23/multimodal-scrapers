@@ -6,7 +6,7 @@ Small Python scrapers for collecting multimodal image-question datasets from pub
 
 - `cdc/cdc_phil_scraper.py`: collects public-domain image records from the CDC Public Health Image Library.
 - `jeopardy/jeopardy_scraper.py`: collects archived Jeopardy! clues and responses into a quiz dataset.
-- `jeopardy/jeopardy_show_*_visual_scraper.py`: collect J-Archive clues from specific shows that include linked visual media. The working Jeopardy batch targets shows 7103 through 7124.
+- `jeopardy/jeopardy_show_*_visual_scraper.py`: collect visual-only J-Archive clues from specific shows that include linked image media. The working Jeopardy batch includes shows 6911, 6921, 6929, 6947, 6979, 6983, 6998, 6999, 7000, 7002, and 7103 through 7124.
 - `kensquiz/kensquiz_scraper.py`: collects Ken's Quiz road-sign handout questions and cropped image tiles.
 - `kensquiz/kensquiz_handout_scraper.py`: collects Ken's Quiz pub quiz handout picture rounds and cropped image tiles.
 - `nasa/nasa_apod_scraper.py`: collects Astronomy Picture of the Day image records from NASA into `dataset/images/nasa_apod/`.

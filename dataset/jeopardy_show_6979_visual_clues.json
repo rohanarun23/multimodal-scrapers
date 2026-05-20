@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "question": "( Kelly of the Clue Crew shows water on the monitor. ) Two distinct colors occur in the Alaskan waters when the sea water meets melting snows from glacial valleys , which are rich with this fine, 8-letter detritus",
+        "answer": "sediment",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6979_visual_clues_1_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4777",
+            "show_number": "6979",
+            "air_date": "Thursday, January 8, 2015",
+            "game_id": "4777",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-01-08_J_23.jpg",
+                "https://www.j-archive.com/media/2015-01-08_J_23a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6979_visual_clues_1_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6979_visual_clues_1_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-01-08_J_23.jpg"
+    },
+    {
+        "id": 2,
+        "question": "A blogger named Bakerella helped popularize these treats",
+        "answer": "cake pops",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6979_visual_clues_2.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4777",
+            "show_number": "6979",
+            "air_date": "Thursday, January 8, 2015",
+            "game_id": "4777",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-01-08_J_06.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6979_visual_clues_2.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-01-08_J_06.jpg"
+    },
+    {
+        "id": 3,
+        "question": "( Kelly of the Clue Crew shows off her shirt. ) Named after a French town, chambray fabric has been called a lightweight cousin to this fabric, also named for a French town",
+        "answer": "denim",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6979_visual_clues_3.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4777",
+            "show_number": "6979",
+            "air_date": "Thursday, January 8, 2015",
+            "game_id": "4777",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-01-08_DJ_26.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6979_visual_clues_3.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-01-08_DJ_26.jpg"
+    },
+    {
+        "id": 4,
+        "question": "It's the Andean capital city shown here",
+        "answer": "Bogot\u00e1 (Colombia)",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6979_visual_clues_4.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4777",
+            "show_number": "6979",
+            "air_date": "Thursday, January 8, 2015",
+            "game_id": "4777",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-01-08_DJ_07.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6979_visual_clues_4.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-01-08_DJ_07.jpg"
+    },
+    {
+        "id": 5,
+        "question": "Hey, muscles, shoulder the burden of naming the right & left type of this muscle",
+        "answer": "the trapezius muscles",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6979_visual_clues_5_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4777",
+            "show_number": "6979",
+            "air_date": "Thursday, January 8, 2015",
+            "game_id": "4777",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-01-08_DJ_24.jpg",
+                "https://www.j-archive.com/media/2015-01-08_DJ_24a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6979_visual_clues_5_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6979_visual_clues_5_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-01-08_DJ_24.jpg"
+    }
+]

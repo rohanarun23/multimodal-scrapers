@@ -23,6 +23,7 @@ class HandoutRound:
     quiz_title: str
     question_pdf_path: str
     answer_pdf_path: str
+    prompt: str | None = None
 
 
 HANDOUT_ROUNDS = [
@@ -158,6 +159,163 @@ HANDOUT_ROUNDS = [
         question_pdf_path="/wp-content/uploads/BPNFQ.pdf",
         answer_pdf_path="/wp-content/uploads/BPNFA.pdf",
     ),
+    HandoutRound(
+        slug="name_that_dog_breed",
+        quiz_title="Name That Dog Breed",
+        question_pdf_path="/wp-content/uploads/namethebreedq.pdf",
+        answer_pdf_path="/wp-content/uploads/namethebreeda.pdf",
+        prompt="Can you identify the dog breed from the picture?",
+    ),
+    HandoutRound(
+        slug="british_tv_sitcoms",
+        quiz_title="British TV Sitcoms",
+        question_pdf_path="/wp-content/uploads/BTSQ.pdf",
+        answer_pdf_path="/wp-content/uploads/BTSA.pdf",
+    ),
+    HandoutRound(
+        slug="spot_the_dog_famous_dogs",
+        quiz_title="Spot The Dog (Famous Dogs)",
+        question_pdf_path="/wp-content/uploads/STDQ.pdf",
+        answer_pdf_path="/wp-content/uploads/STDA.pdf",
+        prompt="Can you identify the famous dog from the picture?",
+    ),
+    HandoutRound(
+        slug="brands",
+        quiz_title="Brands",
+        question_pdf_path="/wp-content/uploads/Brands.pdf",
+        answer_pdf_path="/wp-content/uploads/BrandsA.pdf",
+        prompt="Can you identify the brand from the logo fragment?",
+    ),
+    HandoutRound(
+        slug="car_logos",
+        quiz_title="Car Logos",
+        question_pdf_path="/wp-content/uploads/CarLogosQ.pdf",
+        answer_pdf_path="/wp-content/uploads/CarLogosA.pdf",
+        prompt="Can you identify the car manufacturer from the logo?",
+    ),
+    HandoutRound(
+        slug="fast_food_logos",
+        quiz_title="Fast Food Logos",
+        question_pdf_path="/wp-content/uploads/FFLQ.pdf",
+        answer_pdf_path="/wp-content/uploads/FFLA.pdf",
+    ),
+    HandoutRound(
+        slug="christmas_shopping_logos",
+        quiz_title="Christmas Shopping Logos",
+        question_pdf_path="/wp-content/uploads/CSLQ.pdf",
+        answer_pdf_path="/wp-content/uploads/CSLA.pdf",
+    ),
+    HandoutRound(
+        slug="london_olympic_secret_santas",
+        quiz_title="London Olympic Secret Santas",
+        question_pdf_path="/wp-content/uploads/LOSSQ.pdf",
+        answer_pdf_path="/wp-content/uploads/LOSSA.pdf",
+    ),
+    HandoutRound(
+        slug="christmas_pudding_faces",
+        quiz_title="Christmas Pudding Faces",
+        question_pdf_path="/wp-content/uploads/PUDFACEQ.pdf",
+        answer_pdf_path="/wp-content/uploads/PUDFACEA.pdf",
+        prompt="Can you identify the famous face hidden in the Christmas pudding?",
+    ),
+    HandoutRound(
+        slug="christmas_movies_picture_quiz",
+        quiz_title="Christmas Movies Picture Quiz",
+        question_pdf_path="/wp-content/uploads/XMASMOVQ.pdf",
+        answer_pdf_path="/wp-content/uploads/XMASMOVA.pdf",
+    ),
+    HandoutRound(
+        slug="christmas_people_picture_quiz",
+        quiz_title="Christmas People Picture Quiz",
+        question_pdf_path="/wp-content/uploads/XMASPEOQ.pdf",
+        answer_pdf_path="/wp-content/uploads/XMASPEOA.pdf",
+    ),
+    HandoutRound(
+        slug="toys_of_the_year",
+        quiz_title="Toys of the Year",
+        question_pdf_path="/wp-content/uploads/TOTYQ.pdf",
+        answer_pdf_path="/wp-content/uploads/TOTYA.pdf",
+    ),
+    HandoutRound(
+        slug="website_logos",
+        quiz_title="Website Logos",
+        question_pdf_path="/wp-content/uploads/WEBLOGQ.pdf",
+        answer_pdf_path="/wp-content/uploads/WEBLOGA.pdf",
+        prompt="Can you identify the website from the logo?",
+    ),
+    HandoutRound(
+        slug="airline_logo_quiz",
+        quiz_title="Airline Logo Quiz",
+        question_pdf_path="/wp-content/uploads/ALQQ.pdf",
+        answer_pdf_path="/wp-content/uploads/ALQA.pdf",
+        prompt="Can you identify the airline from the logo?",
+    ),
+    HandoutRound(
+        slug="football_club_badges",
+        quiz_title="Football Club Badges",
+        question_pdf_path="/wp-content/uploads/PFCBQ.pdf",
+        answer_pdf_path="/wp-content/uploads/PFCBA.pdf",
+    ),
+    HandoutRound(
+        slug="santa_cities_picture_round",
+        quiz_title="Santa Cities",
+        question_pdf_path="/wp-content/uploads/SANCITQ.pdf",
+        answer_pdf_path="/wp-content/uploads/SANCITA.pdf",
+    ),
+    HandoutRound(
+        slug="christmas_tv_adverts_2019",
+        quiz_title="Christmas TV Adverts 2019",
+        question_pdf_path="/wp-content/uploads/CTVADS2019Q.pdf",
+        answer_pdf_path="/wp-content/uploads/CTVADS2019A.pdf",
+    ),
+    HandoutRound(
+        slug="favourite_christmas_toys",
+        quiz_title="Favourite Christmas Toys",
+        question_pdf_path="/wp-content/uploads/FCTQ.pdf",
+        answer_pdf_path="/wp-content/uploads/FCTA.pdf",
+    ),
+    HandoutRound(
+        slug="movie_santas_picture_quiz",
+        quiz_title="Movie Santas",
+        question_pdf_path="/wp-content/uploads/MSXMAS2020Q.pdf",
+        answer_pdf_path="/wp-content/uploads/MSXMAS2020A.pdf",
+    ),
+    HandoutRound(
+        slug="christmas_drinks_logos",
+        quiz_title="Christmas Drinks Logos",
+        question_pdf_path="/wp-content/uploads/XMAS2021DLOGOSQ.pdf",
+        answer_pdf_path="/wp-content/uploads/XMAS2021DLOGOSA.pdf",
+    ),
+    HandoutRound(
+        slug="christmas_radio_tv_times",
+        quiz_title="Christmas Radio and TV Times",
+        question_pdf_path="/wp-content/uploads/XMAS2021RTVQ.pdf",
+        answer_pdf_path="/wp-content/uploads/XMAS2021RTVA.pdf",
+    ),
+    HandoutRound(
+        slug="christmas_tv_specials",
+        quiz_title="Christmas TV Specials",
+        question_pdf_path="/wp-content/uploads/TVXMAS2022Q.pdf",
+        answer_pdf_path="/wp-content/uploads/TVXMAS2022A.pdf",
+    ),
+    HandoutRound(
+        slug="christmas_tv_ads_2023",
+        quiz_title="Christmas TV Ads 2023",
+        question_pdf_path="/wp-content/uploads/TVADS2023Q.pdf",
+        answer_pdf_path="/wp-content/uploads/TVADS2023A.pdf",
+    ),
+    HandoutRound(
+        slug="close_up_christmas",
+        quiz_title="Close Up Christmas",
+        question_pdf_path="/wp-content/uploads/XMASCUPQ2024.pdf",
+        answer_pdf_path="/wp-content/uploads/XMASCUPA2024.pdf",
+    ),
+    HandoutRound(
+        slug="christmas_show_posters_2025",
+        quiz_title="Christmas Show Posters",
+        question_pdf_path="/wp-content/uploads/CPOSTQ2025.pdf",
+        answer_pdf_path="/wp-content/uploads/CPOSTA2025.pdf",
+    ),
 ]
 
 
@@ -289,7 +447,7 @@ def build_dataset(rounds: list[HandoutRound]) -> list[dict]:
             download_pdf(question_url, question_pdf)
             download_pdf(answer_url, answer_pdf)
 
-            prompt = extract_prompt(question_pdf)
+            prompt = handout_round.prompt or extract_prompt(question_pdf)
             image_paths = extract_image_tiles(question_pdf, handout_round.slug)
             answers = extract_answers(answer_pdf)
 

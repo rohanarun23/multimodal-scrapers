@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "question": "( Kelly of the Clue Crew steps out of the Bluebird Cafe in Nashville, TN. ) Many a country singer got his start at Nashville's Bluebird Cafe, including this \"Friends In Low Places\" superstar",
+        "answer": "Garth Brooks",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_1.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4700",
+            "show_number": "6921",
+            "air_date": "Monday, October 20, 2014",
+            "game_id": "4700",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-20_J_12.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_1.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-20_J_12.jpg"
+    },
+    {
+        "id": 2,
+        "question": "A product from this tech company is represented here",
+        "answer": "Mozilla",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_2.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4700",
+            "show_number": "6921",
+            "air_date": "Monday, October 20, 2014",
+            "game_id": "4700",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-20_J_25.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_2.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-20_J_25.jpg"
+    },
+    {
+        "id": 3,
+        "question": "This nation 's name reflects its long history as a province of an ancient empire",
+        "answer": "Romania",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_3_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4700",
+            "show_number": "6921",
+            "air_date": "Monday, October 20, 2014",
+            "game_id": "4700",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-20_DJ_03.jpg",
+                "https://www.j-archive.com/media/2014-10-20_DJ_03a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_3_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_3_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-20_DJ_03.jpg"
+    },
+    {
+        "id": 4,
+        "question": "Real name Harleen Quinzel, this gal fell in love with the Joker",
+        "answer": "Harley Quinn",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_4.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4700",
+            "show_number": "6921",
+            "air_date": "Monday, October 20, 2014",
+            "game_id": "4700",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-20_DJ_27.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_4.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-20_DJ_27.jpg"
+    },
+    {
+        "id": 5,
+        "question": "It's been a tough past few decades for this Balkan nation , the former leading Yugoslav republic",
+        "answer": "Serbia",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_5_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4700",
+            "show_number": "6921",
+            "air_date": "Monday, October 20, 2014",
+            "game_id": "4700",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-20_DJ_04.jpg",
+                "https://www.j-archive.com/media/2014-10-20_DJ_04a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_5_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_5_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-20_DJ_04.jpg"
+    },
+    {
+        "id": 6,
+        "question": "There was an ancient kingdom of this name; its western part is today a country of the same name bordering Greece",
+        "answer": "Macedonia",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_6_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4700",
+            "show_number": "6921",
+            "air_date": "Monday, October 20, 2014",
+            "game_id": "4700",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-20_DJ_05.jpg",
+                "https://www.j-archive.com/media/2014-10-20_DJ_05a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_6_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_6_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-20_DJ_05.jpg"
+    },
+    {
+        "id": 7,
+        "question": "The northwesternmost Balkan nation , it shares an Alpine terrain with its neighbors Italy & Austria",
+        "answer": "Slovenia",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_7_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4700",
+            "show_number": "6921",
+            "air_date": "Monday, October 20, 2014",
+            "game_id": "4700",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-20_DJ_06.jpg",
+                "https://www.j-archive.com/media/2014-10-20_DJ_06a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_7_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_7_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-20_DJ_06.jpg"
+    },
+    {
+        "id": 8,
+        "question": "Part of several empires in history, this nation had a taste of independence in 1878",
+        "answer": "Montenegro",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_8_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4700",
+            "show_number": "6921",
+            "air_date": "Monday, October 20, 2014",
+            "game_id": "4700",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-20_DJ_07.jpg",
+                "https://www.j-archive.com/media/2014-10-20_DJ_07a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_8_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6921_visual_clues_8_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-20_DJ_07.jpg"
+    }
+]

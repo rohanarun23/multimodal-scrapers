@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "question": "Curry chicken & cheera thoran make up the stripes of this country's flag",
+        "answer": "India",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6947_visual_clues_1.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4734",
+            "show_number": "6947",
+            "air_date": "Tuesday, November 25, 2014",
+            "game_id": "4734",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-11-25_J_23.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6947_visual_clues_1.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-11-25_J_23.jpg"
+    },
+    {
+        "id": 2,
+        "question": "Of course, the olives are interspersed with feta cheese stripes to make the flag of this country",
+        "answer": "Greece",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6947_visual_clues_2.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4734",
+            "show_number": "6947",
+            "air_date": "Tuesday, November 25, 2014",
+            "game_id": "4734",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-11-25_J_18.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6947_visual_clues_2.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-11-25_J_18.jpg"
+    },
+    {
+        "id": 3,
+        "question": "The recipe for this country's flag -- chorizo & arroz",
+        "answer": "Spain",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6947_visual_clues_3.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4734",
+            "show_number": "6947",
+            "air_date": "Tuesday, November 25, 2014",
+            "game_id": "4734",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-11-25_J_07.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6947_visual_clues_3.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-11-25_J_07.jpg"
+    },
+    {
+        "id": 4,
+        "question": "This Middle Eastern country got tomatoes, pita bread &, as a stand-in for a tree, a sprig of parsley",
+        "answer": "Lebanon",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6947_visual_clues_4.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4734",
+            "show_number": "6947",
+            "air_date": "Tuesday, November 25, 2014",
+            "game_id": "4734",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-11-25_J_08.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6947_visual_clues_4.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-11-25_J_08.jpg"
+    },
+    {
+        "id": 5,
+        "question": "This Asian nation serves up sweet chili sauce, shredded coconut & blue swimmer crab",
+        "answer": "Thailand",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6947_visual_clues_5.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4734",
+            "show_number": "6947",
+            "air_date": "Tuesday, November 25, 2014",
+            "game_id": "4734",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-11-25_J_09.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6947_visual_clues_5.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-11-25_J_09.jpg"
+    }
+]

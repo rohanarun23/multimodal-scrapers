@@ -1,5 +1,6 @@
 import json
 import re
+import time
 from pathlib import Path
 import sys
 from urllib.parse import parse_qs, urljoin, urlparse
@@ -17,7 +18,10 @@ from asset_localization import download_assets
 BASE_URL = "https://www.j-archive.com"
 IMAGES_DIR = ROOT_DIR / "dataset/images/jeopardy"
 REQUEST_TIMEOUT_SECONDS = 60
+MAX_RETRIES = 4
+MAX_RETRY_WAIT_SECONDS = 8
 MEDIA_EXTENSIONS = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".mp3", ".wav")
+VISUAL_MEDIA_EXTENSIONS = (".jpg", ".jpeg", ".png", ".gif", ".webp")
 VALID_MEDIA_CONTENT_PREFIXES = ("image/", "audio/")
 
 SESSION = requests.Session()
@@ -31,6 +35,26 @@ SESSION.headers.update(
 
 def clean_text(value: str | None) -> str:
     return " ".join((value or "").split()).strip()
+
+
+def make_request(url: str) -> requests.Response:
+    last_error = None
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = SESSION.get(url, timeout=REQUEST_TIMEOUT_SECONDS)
+            response.raise_for_status()
+            return response
+        except requests.RequestException as exc:
+            last_error = exc
+            if attempt == MAX_RETRIES:
+                break
+
+            wait_seconds = min(attempt * 2, MAX_RETRY_WAIT_SECONDS)
+            print(f"Request failed for {url}: {exc}. Retrying in {wait_seconds}s.")
+            time.sleep(wait_seconds)
+
+    raise last_error
 
 
 def parse_show_metadata(soup: BeautifulSoup) -> tuple[str | None, str | None]:
@@ -83,20 +107,34 @@ def normalize_media_url(url: str) -> str:
 
 
 def is_valid_media_url(url: str) -> bool:
-    try:
-        response = SESSION.get(url, timeout=REQUEST_TIMEOUT_SECONDS, stream=True)
-        response.raise_for_status()
-    except requests.RequestException:
-        return False
-    finally:
-        if "response" in locals():
-            response.close()
+    response = None
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = SESSION.get(url, timeout=REQUEST_TIMEOUT_SECONDS, stream=True)
+            response.raise_for_status()
+            break
+        except requests.RequestException:
+            if attempt == MAX_RETRIES:
+                return False
+            time.sleep(min(attempt * 2, MAX_RETRY_WAIT_SECONDS))
+        finally:
+            if response is not None:
+                response.close()
 
     content_type = response.headers.get("Content-Type", "").split(";", 1)[0].strip().lower()
     if content_type:
         return content_type.startswith(VALID_MEDIA_CONTENT_PREFIXES)
 
     return url.lower().endswith(MEDIA_EXTENSIONS)
+
+
+def is_visual_media_url(url: str) -> bool:
+    return urlparse(url).path.lower().endswith(VISUAL_MEDIA_EXTENSIONS)
+
+
+def filter_visual_media_urls(urls: list[str]) -> list[str]:
+    return [url for url in urls if is_visual_media_url(url)]
 
 
 def filter_valid_media_urls(urls: list[str]) -> list[str]:
@@ -109,10 +147,15 @@ def filter_valid_media_urls(urls: list[str]) -> list[str]:
     return valid_urls
 
 
-def scrape_jarchive_game(page_url: str, *, media_only: bool = False, validate_media_urls: bool = True) -> list[dict]:
+def scrape_jarchive_game(
+    page_url: str,
+    *,
+    media_only: bool = False,
+    validate_media_urls: bool = True,
+    visual_only: bool = False,
+) -> list[dict]:
     print(f"Downloading Jeopardy page: {page_url}")
-    response = SESSION.get(page_url, timeout=REQUEST_TIMEOUT_SECONDS)
-    response.raise_for_status()
+    response = make_request(page_url)
     soup = BeautifulSoup(response.text, "html.parser")
 
     show_number, air_date = parse_show_metadata(soup)
@@ -131,6 +174,8 @@ def scrape_jarchive_game(page_url: str, *, media_only: bool = False, validate_me
             continue
 
         media_urls = extract_media_urls(clue_cell, page_url)
+        if visual_only:
+            media_urls = filter_visual_media_urls(media_urls)
         if media_urls and validate_media_urls:
             media_urls = filter_valid_media_urls(media_urls)
         if media_only and not media_urls:

@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "question": "C: Nickname of this building, home to the Smithsonian Information Center",
+        "answer": "the Castle",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_1.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4714",
+            "show_number": "6929",
+            "air_date": "Thursday, October 30, 2014",
+            "game_id": "4714",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-30_J_04.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_1.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-30_J_04.jpg"
+    },
+    {
+        "id": 2,
+        "question": "( Sarah of the Clue Crew shows a photograph on the monitor. ) Photographer Thierry Legault traveled to Oman to get a photo of a partial solar eclipse; an added bonus was capturing this craft in the image",
+        "answer": "the International Space Station",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_2_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4714",
+            "show_number": "6929",
+            "air_date": "Thursday, October 30, 2014",
+            "game_id": "4714",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-30_DJ_04.jpg",
+                "https://www.j-archive.com/media/2014-10-30_DJ_04a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_2_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_2_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-30_DJ_04.jpg"
+    },
+    {
+        "id": 3,
+        "question": "This cinematic master began his career as a designer of film titles during the silent era",
+        "answer": "Hitchcock",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_3.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4714",
+            "show_number": "6929",
+            "air_date": "Thursday, October 30, 2014",
+            "game_id": "4714",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-30_DJ_26.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_3.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-30_DJ_26.jpg"
+    },
+    {
+        "id": 4,
+        "question": "A Lego version of this kind of book was built to commemorate Waldo Hunt, a maker of them",
+        "answer": "a pop-up book",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_4.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4714",
+            "show_number": "6929",
+            "air_date": "Thursday, October 30, 2014",
+            "game_id": "4714",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-30_DJ_20.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_4.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-30_DJ_20.jpg"
+    },
+    {
+        "id": 5,
+        "question": "Feel the salt spray of \" Breaking Wave \" by Hokusai, a 19th-century artist in this country",
+        "answer": "Japan",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_5.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4714",
+            "show_number": "6929",
+            "air_date": "Thursday, October 30, 2014",
+            "game_id": "4714",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-30_DJ_17.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_5.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-30_DJ_17.jpg"
+    },
+    {
+        "id": 6,
+        "question": "Our closest galactic neighbors are two little satellite galaxies known as \"the Clouds of\" him",
+        "answer": "Magellan",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_6_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4714",
+            "show_number": "6929",
+            "air_date": "Thursday, October 30, 2014",
+            "game_id": "4714",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-30_DJ_07.jpg",
+                "https://www.j-archive.com/media/2014-10-30_DJ_07a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_6_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_6_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-30_DJ_07.jpg"
+    },
+    {
+        "id": 7,
+        "question": "A prominent skateboarder commissioned this bird",
+        "answer": "hawk",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_7_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4714",
+            "show_number": "6929",
+            "air_date": "Thursday, October 30, 2014",
+            "game_id": "4714",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-30_DJ_19.jpg",
+                "https://www.j-archive.com/media/2014-10-30_DJ_19a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_7_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_7_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-30_DJ_19.jpg"
+    },
+    {
+        "id": 8,
+        "question": "The creation seen here was made as part of this location's 100th-anniversary celebrations in 2011",
+        "answer": "the New York City Library",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_8_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4714",
+            "show_number": "6929",
+            "air_date": "Thursday, October 30, 2014",
+            "game_id": "4714",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-30_DJ_18.jpg",
+                "https://www.j-archive.com/media/2014-10-30_DJ_18a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_8_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6929_visual_clues_8_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-30_DJ_18.jpg"
+    }
+]

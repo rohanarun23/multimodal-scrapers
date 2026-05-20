@@ -1,0 +1,166 @@
+[
+    {
+        "id": 1,
+        "question": "Clear out your garage & see that happy half face is also a \"G\" in the logo of this charity",
+        "answer": "Goodwill",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_1.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4689",
+            "show_number": "6911",
+            "air_date": "Monday, October 6, 2014",
+            "game_id": "4689",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-06_J_10.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_1.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-06_J_10.jpg"
+    },
+    {
+        "id": 2,
+        "question": "See the \"M\" & \"B\" within the mitt in the logo of this Major League Baseball team",
+        "answer": "the Milwaukee Brewers",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_2.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4689",
+            "show_number": "6911",
+            "air_date": "Monday, October 6, 2014",
+            "game_id": "4689",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-06_J_11.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_2.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-06_J_11.jpg"
+    },
+    {
+        "id": 3,
+        "question": "The chocolates of this brand originated in a Swiss town, symbolized by the bear within the mountain",
+        "answer": "Toblerone",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_3.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4689",
+            "show_number": "6911",
+            "air_date": "Monday, October 6, 2014",
+            "game_id": "4689",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-06_J_12.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_3.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-06_J_12.jpg"
+    },
+    {
+        "id": 4,
+        "question": "( Kelly of the Clue Crew shows a map on the monitor. ) For much of its length, the 180th meridian of longitude is tracked by this line that varies where it diverges to avoid land",
+        "answer": "the International Date Line",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_4_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4689",
+            "show_number": "6911",
+            "air_date": "Monday, October 6, 2014",
+            "game_id": "4689",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-06_J_05.jpg",
+                "https://www.j-archive.com/media/2014-10-06_J_05a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_4_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_4_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-06_J_05.jpg"
+    },
+    {
+        "id": 5,
+        "question": "No sweat -- this company's logo kind of forms a \"U\" & an \"A\"",
+        "answer": "Under Armour",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_5.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4689",
+            "show_number": "6911",
+            "air_date": "Monday, October 6, 2014",
+            "game_id": "4689",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-06_J_13.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_5.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-06_J_13.jpg"
+    },
+    {
+        "id": 6,
+        "question": "Here's a partial view of the logo for this event; you'll see the rest after you respond",
+        "answer": "the Tour de France",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_6.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4689",
+            "show_number": "6911",
+            "air_date": "Monday, October 6, 2014",
+            "game_id": "4689",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-06_J_14.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_6.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-06_J_14.jpg"
+    },
+    {
+        "id": 7,
+        "question": "Seen here , \"Who Stole the People's Money?\" was an 1871 Thomas Nast cartoon, depicting the corruption of this New York City politician",
+        "answer": "Boss Tweed",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_7_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4689",
+            "show_number": "6911",
+            "air_date": "Monday, October 6, 2014",
+            "game_id": "4689",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-06_DJ_02.jpg",
+                "https://www.j-archive.com/media/2014-10-06_DJ_02a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_7_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_7_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-06_DJ_02.jpg"
+    },
+    {
+        "id": 8,
+        "question": "It takes several people to move the nearly 6-foot-tall Klencke Atlas given to this king on his 1660 restoration",
+        "answer": "Charles II",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_8.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=4689",
+            "show_number": "6911",
+            "air_date": "Monday, October 6, 2014",
+            "game_id": "4689",
+            "media_urls": [
+                "https://www.j-archive.com/media/2014-10-06_DJ_21.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_6911_visual_clues_8.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2014-10-06_DJ_21.jpg"
+    }
+]
