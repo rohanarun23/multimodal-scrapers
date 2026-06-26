@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "question": "( Jimmy of the Clue Crew shows a map on the monitor. ) After World War I, this country gained new provinces, doubling its size; after World War II, it lost chunks in the northeast & southeast",
+        "answer": "Romania",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7128_visual_clues_1_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5040",
+            "show_number": "7128",
+            "air_date": "Wednesday, September 16, 2015",
+            "game_id": "5040",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-16_J_07.jpg",
+                "https://www.j-archive.com/media/2015-09-16_J_07a.jpg",
+                "https://www.j-archive.com/media/2015-09-16_J_07b.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7128_visual_clues_1_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_7128_visual_clues_1_02.jpg",
+                "dataset/images/jeopardy/jeopardy_show_7128_visual_clues_1_03.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-16_J_07.jpg"
+    },
+    {
+        "id": 2,
+        "question": "A Dome-A-Rama built in 1963 is named for this spectacular three-film projector process of the day",
+        "answer": "Cinerama",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7128_visual_clues_2.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5040",
+            "show_number": "7128",
+            "air_date": "Wednesday, September 16, 2015",
+            "game_id": "5040",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-16_DJ_21.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7128_visual_clues_2.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-16_DJ_21.jpg"
+    }
+]

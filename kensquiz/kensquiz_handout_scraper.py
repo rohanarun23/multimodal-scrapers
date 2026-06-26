@@ -52,6 +52,150 @@ HANDOUT_ROUNDS = [
         answer_pdf_path="/wp-content/uploads/CDD2025A.pdf",
     ),
     HandoutRound(
+        slug="christmas_dingbats_1",
+        quiz_title="Christmas Dingbats 1",
+        question_pdf_path="/wp-content/uploads/XMASDING1Q.pdf",
+        answer_pdf_path="/wp-content/uploads/XMASDING1A.pdf",
+        prompt="Can you solve the Christmas-themed dingbat?",
+    ),
+    HandoutRound(
+        slug="classic_christmas_dingbats",
+        quiz_title="Classic Christmas Dingbats",
+        question_pdf_path="/wp-content/uploads/ChristmasDingbatQ.pdf",
+        answer_pdf_path="/wp-content/uploads/ChristmasDingbatA.pdf",
+        prompt="Can you solve the Christmas-themed dingbat?",
+    ),
+    HandoutRound(
+        slug="sweet_alphabet",
+        quiz_title="A Sweet Alphabet",
+        question_pdf_path="/wp-content/uploads/SWEETABC.pdf",
+        answer_pdf_path="/wp-content/uploads/SWEETABCA.pdf",
+    ),
+    HandoutRound(
+        slug="dingbats_1",
+        quiz_title="Dingbats 1",
+        question_pdf_path="/wp-content/uploads/Dingbats1Q.pdf",
+        answer_pdf_path="/wp-content/uploads/Dingbats1A.pdf",
+        prompt="Can you solve the dingbat?",
+    ),
+    HandoutRound(
+        slug="dingbats_2",
+        quiz_title="Dingbats 2",
+        question_pdf_path="/wp-content/uploads/Dingbats2Q.pdf",
+        answer_pdf_path="/wp-content/uploads/Dingbats2A.pdf",
+        prompt="Can you solve the dingbat?",
+    ),
+    HandoutRound(
+        slug="dingbats_3",
+        quiz_title="Dingbats 3",
+        question_pdf_path="/wp-content/uploads/Dingbats3Q.pdf",
+        answer_pdf_path="/wp-content/uploads/Dingbats3A.pdf",
+        prompt="Can you solve the dingbat?",
+    ),
+    HandoutRound(
+        slug="dingbats_4",
+        quiz_title="Dingbats 4",
+        question_pdf_path="/wp-content/uploads/Dingbats4Q.pdf",
+        answer_pdf_path="/wp-content/uploads/Dingbats4A.pdf",
+        prompt="Can you solve the dingbat?",
+    ),
+    HandoutRound(
+        slug="dingbats_5",
+        quiz_title="Dingbats 5",
+        question_pdf_path="/wp-content/uploads/Dingbats5Q.pdf",
+        answer_pdf_path="/wp-content/uploads/Dingbats5A.pdf",
+        prompt="Can you solve the dingbat?",
+    ),
+    HandoutRound(
+        slug="wedding_dingbats",
+        quiz_title="Wedding Dingbats",
+        question_pdf_path="/wp-content/uploads/wedding-dingbats.pdf",
+        answer_pdf_path="/wp-content/uploads/wedding-dingbatsA.pdf",
+    ),
+    HandoutRound(
+        slug="royal_dingbats",
+        quiz_title="Royal Dingbats",
+        question_pdf_path="/wp-content/uploads/royaldingbats.pdf",
+        answer_pdf_path="/wp-content/uploads/royaldingbatsA.pdf",
+    ),
+    HandoutRound(
+        slug="prison_dingbats",
+        quiz_title="Prison Dingbats",
+        question_pdf_path="/wp-content/uploads/prisondb.pdf",
+        answer_pdf_path="/wp-content/uploads/prisondbA.pdf",
+        prompt="Can you solve the prison-themed dingbat?",
+    ),
+    HandoutRound(
+        slug="olympic_dingbats",
+        quiz_title="Olympic Dingbats",
+        question_pdf_path="/wp-content/uploads/Olympic-DingbatsQ.pdf",
+        answer_pdf_path="/wp-content/uploads/Olympic-DingbatsA.pdf",
+        prompt="Can you solve the Olympic-themed dingbat?",
+    ),
+    HandoutRound(
+        slug="military_dingbats",
+        quiz_title="Military Dingbats",
+        question_pdf_path="/wp-content/uploads/Military-Dingbats.pdf",
+        answer_pdf_path="/wp-content/uploads/Military-DingbatsA.pdf",
+    ),
+    HandoutRound(
+        slug="school_dingbats",
+        quiz_title="School Dingbats",
+        question_pdf_path="/wp-content/uploads/SDING.pdf",
+        answer_pdf_path="/wp-content/uploads/SDINGA.pdf",
+    ),
+    HandoutRound(
+        slug="book_title_dingbats_1",
+        quiz_title="Book Title Dingbats 1",
+        question_pdf_path="/wp-content/uploads/BOOKDING1Q.pdf",
+        answer_pdf_path="/wp-content/uploads/BOOKDING1A.pdf",
+        prompt="Can you solve the book-title dingbat?",
+    ),
+    HandoutRound(
+        slug="book_title_dingbats_2",
+        quiz_title="Book Title Dingbats 2",
+        question_pdf_path="/wp-content/uploads/BOOKDING2Q.pdf",
+        answer_pdf_path="/wp-content/uploads/BOOKDING2A.pdf",
+        prompt="Can you solve the book-title dingbat?",
+    ),
+    HandoutRound(
+        slug="autumn_puzzle_sheet",
+        quiz_title="Ken's Autumn Quiz Sheet",
+        question_pdf_path="/wp-content/uploads/KAPSQ.pdf",
+        answer_pdf_path="/wp-content/uploads/KAPSA.pdf",
+    ),
+    HandoutRound(
+        slug="christmas_cities",
+        quiz_title="Christmas Cities",
+        question_pdf_path="/wp-content/uploads/XMASCITQ.pdf",
+        answer_pdf_path="/wp-content/uploads/XMASCITA.pdf",
+        prompt="Can you solve the Christmas city picture puzzle?",
+    ),
+    HandoutRound(
+        slug="christmas_drinks_puzzles",
+        quiz_title="Ken's Christmas Drinks Puzzles",
+        question_pdf_path="/wp-content/uploads/CDPQ.pdf",
+        answer_pdf_path="/wp-content/uploads/CDPA.pdf",
+    ),
+    HandoutRound(
+        slug="christmas_puzzle_sheet_2019",
+        quiz_title="Christmas Puzzle Sheet 2019",
+        question_pdf_path="/wp-content/uploads/CPS2019Q.pdf",
+        answer_pdf_path="/wp-content/uploads/CPS2019A.pdf",
+    ),
+    HandoutRound(
+        slug="nhs_puzzle_sheet",
+        quiz_title="Ken's NHS Puzzle Sheet",
+        question_pdf_path="/wp-content/uploads/KNHSPSQ.pdf",
+        answer_pdf_path="/wp-content/uploads/KNHSPSA.pdf",
+    ),
+    HandoutRound(
+        slug="easter_puzzle_sheet_2024",
+        quiz_title="Easter Puzzle Sheet 2024",
+        question_pdf_path="/wp-content/uploads/EPSQ2024.pdf",
+        answer_pdf_path="/wp-content/uploads/EPSA2024.pdf",
+    ),
+    HandoutRound(
         slug="us_state_flags_pictures",
         quiz_title="US State Flags",
         question_pdf_path="/wp-content/uploads/USSFQ.pdf",
@@ -92,6 +236,16 @@ HANDOUT_ROUNDS = [
         quiz_title="Hats and Headgear",
         question_pdf_path="/wp-content/uploads/HATS2023Q.pdf",
         answer_pdf_path="/wp-content/uploads/HATS2023A.pdf",
+    ),
+    HandoutRound(
+        slug="tv_game_show_hosts",
+        quiz_title="TV Game Show Hosts",
+        question_pdf_path="/wp-content/uploads/TVGS2024Q.pdf",
+        answer_pdf_path="/wp-content/uploads/TVGS2024A.pdf",
+        prompt=(
+            "Can you name the original presenters of these British TV game "
+            "shows from the pictures?"
+        ),
     ),
     HandoutRound(
         slug="barbie_jobs",
@@ -154,6 +308,24 @@ HANDOUT_ROUNDS = [
         answer_pdf_path="/wp-content/uploads/CCSA.pdf",
     ),
     HandoutRound(
+        slug="us_presidents",
+        quiz_title="US Presidents",
+        question_pdf_path="/wp-content/uploads/USPRESQ.pdf",
+        answer_pdf_path="/wp-content/uploads/USPRESA.pdf",
+    ),
+    HandoutRound(
+        slug="cool_for_cats",
+        quiz_title="Cool for Cats",
+        question_pdf_path="/wp-content/uploads/CFCATSQ.pdf",
+        answer_pdf_path="/wp-content/uploads/CFCATSA.pdf",
+    ),
+    HandoutRound(
+        slug="english_country_garden_flowers",
+        quiz_title="An English Country Garden",
+        question_pdf_path="/wp-content/uploads/ECGQ.pdf",
+        answer_pdf_path="/wp-content/uploads/ECGA.pdf",
+    ),
+    HandoutRound(
         slug="british_food",
         quiz_title="British Food",
         question_pdf_path="/wp-content/uploads/BPNFQ.pdf",
@@ -206,6 +378,16 @@ HANDOUT_ROUNDS = [
         answer_pdf_path="/wp-content/uploads/CSLA.pdf",
     ),
     HandoutRound(
+        slug="self_isolation_logo_quiz",
+        quiz_title="Self-Isolation Logo Quiz",
+        question_pdf_path="/wp-content/uploads/SILQQ.pdf",
+        answer_pdf_path="/wp-content/uploads/SILQA.pdf",
+        prompt=(
+            "Can you name the companies or products whose logos were used "
+            "to spell out the phrase?"
+        ),
+    ),
+    HandoutRound(
         slug="london_olympic_secret_santas",
         quiz_title="London Olympic Secret Santas",
         question_pdf_path="/wp-content/uploads/LOSSQ.pdf",
@@ -244,6 +426,13 @@ HANDOUT_ROUNDS = [
         prompt="Can you identify the website from the logo?",
     ),
     HandoutRound(
+        slug="social_media_logos",
+        quiz_title="Social Media Logos",
+        question_pdf_path="/wp-content/uploads/SMLOGQ.pdf",
+        answer_pdf_path="/wp-content/uploads/SMLOGA.pdf",
+        prompt="Can you identify the social media platform from the logo?",
+    ),
+    HandoutRound(
         slug="airline_logo_quiz",
         quiz_title="Airline Logo Quiz",
         question_pdf_path="/wp-content/uploads/ALQQ.pdf",
@@ -251,10 +440,74 @@ HANDOUT_ROUNDS = [
         prompt="Can you identify the airline from the logo?",
     ),
     HandoutRound(
+        slug="bank_building_society_logos",
+        quiz_title="Bank and Building Society Logos",
+        question_pdf_path="/wp-content/uploads/BBSLQ.pdf",
+        answer_pdf_path="/wp-content/uploads/BBSLA.pdf",
+        prompt=(
+            "Can you identify the bank or building society from the logo?"
+        ),
+    ),
+    HandoutRound(
         slug="football_club_badges",
         quiz_title="Football Club Badges",
         question_pdf_path="/wp-content/uploads/PFCBQ.pdf",
         answer_pdf_path="/wp-content/uploads/PFCBA.pdf",
+    ),
+    HandoutRound(
+        slug="fifa_world_cup_badges_2018",
+        quiz_title="2018 FIFA World Cup Team Badges",
+        question_pdf_path="/wp-content/uploads/2018WCBQ.pdf",
+        answer_pdf_path="/wp-content/uploads/2018WCBA.pdf",
+        prompt="Can you identify the 2018 FIFA World Cup team badge?",
+    ),
+    HandoutRound(
+        slug="brand_mascots",
+        quiz_title="Brand Mascots",
+        question_pdf_path="/wp-content/uploads/BMQQ.pdf",
+        answer_pdf_path="/wp-content/uploads/BMQA.pdf",
+    ),
+    HandoutRound(
+        slug="euro_coins",
+        quiz_title="Euro Coins",
+        question_pdf_path="/wp-content/uploads/ECOINQ.pdf",
+        answer_pdf_path="/wp-content/uploads/ECOINA.pdf",
+    ),
+    HandoutRound(
+        slug="kens_chocolate_quiz",
+        quiz_title="Ken's Chocolate Quiz",
+        question_pdf_path="/wp-content/uploads/KCQQ.pdf",
+        answer_pdf_path="/wp-content/uploads/KCQA.pdf",
+    ),
+    HandoutRound(
+        slug="spice_up_your_life",
+        quiz_title="Spice Up Your Life",
+        question_pdf_path="/wp-content/uploads/SUYL2026Q.pdf",
+        answer_pdf_path="/wp-content/uploads/SUYL2026A.pdf",
+    ),
+    HandoutRound(
+        slug="flags_with_stars",
+        quiz_title="Flags with Stars",
+        question_pdf_path="/wp-content/uploads/FWSQ.pdf",
+        answer_pdf_path="/wp-content/uploads/FWSA.pdf",
+    ),
+    HandoutRound(
+        slug="locked_down_or_locked_up",
+        quiz_title="Locked Down or Locked Up",
+        question_pdf_path="/wp-content/uploads/LDorLUQ1.pdf",
+        answer_pdf_path="/wp-content/uploads/LDorLUA1.pdf",
+    ),
+    HandoutRound(
+        slug="locked_down_or_locked_up_2",
+        quiz_title="Locked Down or Locked Up 2",
+        question_pdf_path="/wp-content/uploads/LDorLUQ2.pdf",
+        answer_pdf_path="/wp-content/uploads/LDorLUA2.pdf",
+    ),
+    HandoutRound(
+        slug="just_the_biscuit",
+        quiz_title="Just the Biscuit",
+        question_pdf_path="/wp-content/uploads/JTBQ.pdf",
+        answer_pdf_path="/wp-content/uploads/JTBA.pdf",
     ),
     HandoutRound(
         slug="santa_cities_picture_round",
@@ -297,6 +550,12 @@ HANDOUT_ROUNDS = [
         quiz_title="Christmas TV Specials",
         question_pdf_path="/wp-content/uploads/TVXMAS2022Q.pdf",
         answer_pdf_path="/wp-content/uploads/TVXMAS2022A.pdf",
+    ),
+    HandoutRound(
+        slug="spot_the_santa",
+        quiz_title="Spot the Santa",
+        question_pdf_path="/wp-content/uploads/SPOTSATAQ.pdf",
+        answer_pdf_path="/wp-content/uploads/SPOTSANTAA.pdf",
     ),
     HandoutRound(
         slug="christmas_tv_ads_2023",

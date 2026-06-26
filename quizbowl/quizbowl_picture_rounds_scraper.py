@@ -450,6 +450,71 @@ SOURCES = [
             },
         ],
     },
+    {
+        "slug": "grim_up_north_2025_corn_exchanges",
+        "set_title": "2025 GRIM UP NORTH",
+        "packet_title": "Corn Exchanges Picture Bonus",
+        "pdf_url": "https://files.quizbowlpackets.com/3436/pictures-bonus-cornex.pdf",
+        "entries": [
+            {
+                "bonus_number": 6,
+                "source_page": 1,
+                "prompt": "Identify the city containing each pictured corn exchange.",
+                "reasoning_focus": "architectural_landmark_location_identification",
+                "parts": [
+                    {"label": "10h", "question": "Which city contains the corn exchange labeled [10h]?", "answer": "Doncaster"},
+                    {"label": "10e", "question": "Which city contains the corn exchange labeled [10e]?", "answer": "Leeds"},
+                    {"label": "10m", "question": "Which city contains the corn exchange labeled [10m]?", "answer": "Manchester"},
+                ],
+            },
+        ],
+    },
+    {
+        "slug": "grim_up_north_2025_county_flags",
+        "set_title": "2025 GRIM UP NORTH",
+        "packet_title": "County Flags Picture Bonus",
+        "pdf_url": "https://files.quizbowlpackets.com/3436/pictures-bonus-flags.pdf",
+        "entries": [
+            {
+                "bonus_number": 19,
+                "source_page": 1,
+                "prompt": "Identify the county represented by each pictured flag.",
+                "reasoning_focus": "flag_identification",
+                "parts": [
+                    {
+                        "label": "top_left",
+                        "question": "Which county's flag is shown in the top-left position?",
+                        "answer": "Northumberland",
+                    },
+                    {
+                        "label": "top_right",
+                        "question": "Which county's flag is shown in the top-right position?",
+                        "answer": "Yorkshire",
+                    },
+                    {
+                        "label": "middle_left",
+                        "question": "Which county's flag is shown in the middle-left position?",
+                        "answer": "Cheshire",
+                    },
+                    {
+                        "label": "middle_right",
+                        "question": "Which county's flag is shown in the middle-right position?",
+                        "answer": "County Durham",
+                    },
+                    {
+                        "label": "bottom_left",
+                        "question": "Which county's flag is shown in the bottom-left position?",
+                        "answer": "Cleveland",
+                    },
+                    {
+                        "label": "bottom_right",
+                        "question": "Which county's flag is shown in the bottom-right position?",
+                        "answer": "Merseyside",
+                    },
+                ],
+            },
+        ],
+    },
 ]
 
 

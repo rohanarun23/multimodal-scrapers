@@ -1,0 +1,208 @@
+[
+    {
+        "id": 1,
+        "question": "It must be Hal Prince calling me when I hear this title tone",
+        "answer": "\"Give My Regards To Broadway\"",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_1.mp3",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5042",
+            "show_number": "7129",
+            "air_date": "Thursday, September 17, 2015",
+            "game_id": "5042",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-17_J_14.mp3"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_1.mp3"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-17_J_14.mp3"
+    },
+    {
+        "id": 2,
+        "question": "I programmed this song to play when the exterminator calls",
+        "answer": "\"La Cucaracha\"",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_2.mp3",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5042",
+            "show_number": "7129",
+            "air_date": "Thursday, September 17, 2015",
+            "game_id": "5042",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-17_J_15.mp3"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_2.mp3"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-17_J_15.mp3"
+    },
+    {
+        "id": 3,
+        "question": "Seen here , this port city of 5 million is found on both banks of the Neva River",
+        "answer": "Saint Petersburg",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_3_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5042",
+            "show_number": "7129",
+            "air_date": "Thursday, September 17, 2015",
+            "game_id": "5042",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-17_J_26.jpg",
+                "https://www.j-archive.com/media/2015-09-17_J_26a.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_3_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_3_02.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-17_J_26.jpg"
+    },
+    {
+        "id": 4,
+        "question": "Oak Ridge National Laboratory created a replica Shelby Cobra using this alphanumeric technology",
+        "answer": "3-D printing",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_4.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5042",
+            "show_number": "7129",
+            "air_date": "Thursday, September 17, 2015",
+            "game_id": "5042",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-17_J_24.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_4.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-17_J_24.jpg"
+    },
+    {
+        "id": 5,
+        "question": "Let's take the call & mess with this flowery tune",
+        "answer": "\"The Yellow Rose of Texas\"",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_5.mp3",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5042",
+            "show_number": "7129",
+            "air_date": "Thursday, September 17, 2015",
+            "game_id": "5042",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-17_J_10.mp3"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_5.mp3"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-17_J_10.mp3"
+    },
+    {
+        "id": 6,
+        "question": "A replica of the Hermione , on which this marquis sailed to join the American Revolution, made its own Atlantic crossing in 2015",
+        "answer": "the Marquis de Lafayette",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_6.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5042",
+            "show_number": "7129",
+            "air_date": "Thursday, September 17, 2015",
+            "game_id": "5042",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-17_J_23.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_6.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-17_J_23.jpg"
+    },
+    {
+        "id": 7,
+        "question": "For immigrants from Italy, this 19th c. song stirred up nostalgia for the homeland",
+        "answer": "\"\u2019O sole mio\"",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_7.mp3",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5042",
+            "show_number": "7129",
+            "air_date": "Thursday, September 17, 2015",
+            "game_id": "5042",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-17_J_21.mp3"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_7.mp3"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-17_J_21.mp3"
+    },
+    {
+        "id": 8,
+        "question": "This Christmas tone was written in the late 19th century",
+        "answer": "\"Away In A Manger\"",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_8.mp3",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5042",
+            "show_number": "7129",
+            "air_date": "Thursday, September 17, 2015",
+            "game_id": "5042",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-17_J_20.mp3"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_8.mp3"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-17_J_20.mp3"
+    },
+    {
+        "id": 9,
+        "question": "This meal precedes \"nook\" in the name of the cozy kitchen area seen here",
+        "answer": "breakfast",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_9.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5042",
+            "show_number": "7129",
+            "air_date": "Thursday, September 17, 2015",
+            "game_id": "5042",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-17_DJ_21.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_9.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-17_DJ_21.jpg"
+    },
+    {
+        "id": 10,
+        "question": "( Kelly of the Clue Crew shows a cell diagram on the monitor. ) Inside an animal cell, besides the nucleus , there are different organelles, including these powerhouses of the cell that convert food to usable energy",
+        "answer": "mitochondria",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_10_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5042",
+            "show_number": "7129",
+            "air_date": "Thursday, September 17, 2015",
+            "game_id": "5042",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-17_DJ_06.jpg",
+                "https://www.j-archive.com/media/2015-09-17_DJ_06a.jpg",
+                "https://www.j-archive.com/media/2015-09-17_DJ_06b.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_10_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_10_02.jpg",
+                "dataset/images/jeopardy/jeopardy_show_7129_visual_clues_10_03.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-17_DJ_06.jpg"
+    }
+]

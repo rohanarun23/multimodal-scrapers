@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "question": "A green splat icon denotes a bad review on this movie & TV rating site",
+        "answer": "Rotten Tomatoes",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7130_visual_clues_1.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5043",
+            "show_number": "7130",
+            "air_date": "Friday, September 18, 2015",
+            "game_id": "5043",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-18_J_27.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7130_visual_clues_1.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-18_J_27.jpg"
+    },
+    {
+        "id": 2,
+        "question": "( Jimmy of the Clue Crew shows a world map on a monitor. ) The continent of Africa, as well as its surrounding oceanic crusts, are part of the African one of these rigid pieces that make up the Earth's surface",
+        "answer": "continental plate",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7130_visual_clues_2_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5043",
+            "show_number": "7130",
+            "air_date": "Friday, September 18, 2015",
+            "game_id": "5043",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-18_J_23.jpg",
+                "https://www.j-archive.com/media/2015-09-18_J_23a.jpg",
+                "https://www.j-archive.com/media/2015-09-18_J_23b.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7130_visual_clues_2_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_7130_visual_clues_2_02.jpg",
+                "dataset/images/jeopardy/jeopardy_show_7130_visual_clues_2_03.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-18_J_23.jpg"
+    },
+    {
+        "id": 3,
+        "question": "( Alex Trebek delivers the clue from the Norton Simon Museum in Pasadena, CA. ) Even before you go through the front door at the Norton Simon Museum, you walk past a number of masterpieces by August Rodin, including this one, which depicts 6 townsmen who were willing to sacrifice their lives to help end the siege of their city by the English army",
+        "answer": "The Burghers of Calais",
+        "media_url": "dataset/images/jeopardy/jeopardy_show_7130_visual_clues_3_01.jpg",
+        "source": {
+            "platform": "Jeopardy",
+            "url": "https://www.j-archive.com/showgame.php?game_id=5043",
+            "show_number": "7130",
+            "air_date": "Friday, September 18, 2015",
+            "game_id": "5043",
+            "media_urls": [
+                "https://www.j-archive.com/media/2015-09-18_J_20d.jpg",
+                "https://www.j-archive.com/media/2015-09-18_J_20.jpg",
+                "https://www.j-archive.com/media/2015-09-18_J_20a.jpg",
+                "https://www.j-archive.com/media/2015-09-18_J_20b.jpg",
+                "https://www.j-archive.com/media/2015-09-18_J_20c.jpg"
+            ],
+            "local_media_paths": [
+                "dataset/images/jeopardy/jeopardy_show_7130_visual_clues_3_01.jpg",
+                "dataset/images/jeopardy/jeopardy_show_7130_visual_clues_3_02.jpg",
+                "dataset/images/jeopardy/jeopardy_show_7130_visual_clues_3_03.jpg",
+                "dataset/images/jeopardy/jeopardy_show_7130_visual_clues_3_04.jpg",
+                "dataset/images/jeopardy/jeopardy_show_7130_visual_clues_3_05.jpg"
+            ]
+        },
+        "source_media_url": "https://www.j-archive.com/media/2015-09-18_J_20d.jpg"
+    }
+]

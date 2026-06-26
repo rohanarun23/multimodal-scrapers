@@ -2468,5 +2468,176 @@
             "reasoning_focus": "visual_fine_arts_identification",
             "shared_prompt": "Identify the Constantin Brancusi sculpture shown on the handout page."
         }
+    },
+    {
+        "id": 131,
+        "question": "Which city contains the corn exchange labeled [10h]?",
+        "quiz_title": "Corn Exchanges Picture Bonus",
+        "media_url": "dataset/images/quizbowl_visual_bonus/grim_up_north_2025_corn_exchanges_page_01.jpg",
+        "answer": "Doncaster",
+        "source": {
+            "platform": "Quizbowl Packet Archive",
+            "url": "https://files.quizbowlpackets.com/3436/pictures-bonus-cornex.pdf",
+            "set_title": "2025 GRIM UP NORTH",
+            "packet_title": "Corn Exchanges Picture Bonus",
+            "quiz_type": "Visual Bonus",
+            "bonus_number": 6,
+            "part_label": "10h",
+            "source_page": 1,
+            "reasoning_focus": "architectural_landmark_location_identification",
+            "shared_prompt": "Identify the city containing each pictured corn exchange."
+        }
+    },
+    {
+        "id": 132,
+        "question": "Which city contains the corn exchange labeled [10e]?",
+        "quiz_title": "Corn Exchanges Picture Bonus",
+        "media_url": "dataset/images/quizbowl_visual_bonus/grim_up_north_2025_corn_exchanges_page_01.jpg",
+        "answer": "Leeds",
+        "source": {
+            "platform": "Quizbowl Packet Archive",
+            "url": "https://files.quizbowlpackets.com/3436/pictures-bonus-cornex.pdf",
+            "set_title": "2025 GRIM UP NORTH",
+            "packet_title": "Corn Exchanges Picture Bonus",
+            "quiz_type": "Visual Bonus",
+            "bonus_number": 6,
+            "part_label": "10e",
+            "source_page": 1,
+            "reasoning_focus": "architectural_landmark_location_identification",
+            "shared_prompt": "Identify the city containing each pictured corn exchange."
+        }
+    },
+    {
+        "id": 133,
+        "question": "Which city contains the corn exchange labeled [10m]?",
+        "quiz_title": "Corn Exchanges Picture Bonus",
+        "media_url": "dataset/images/quizbowl_visual_bonus/grim_up_north_2025_corn_exchanges_page_01.jpg",
+        "answer": "Manchester",
+        "source": {
+            "platform": "Quizbowl Packet Archive",
+            "url": "https://files.quizbowlpackets.com/3436/pictures-bonus-cornex.pdf",
+            "set_title": "2025 GRIM UP NORTH",
+            "packet_title": "Corn Exchanges Picture Bonus",
+            "quiz_type": "Visual Bonus",
+            "bonus_number": 6,
+            "part_label": "10m",
+            "source_page": 1,
+            "reasoning_focus": "architectural_landmark_location_identification",
+            "shared_prompt": "Identify the city containing each pictured corn exchange."
+        }
+    },
+    {
+        "id": 134,
+        "question": "Which county's flag is shown in the top-left position?",
+        "quiz_title": "County Flags Picture Bonus",
+        "media_url": "dataset/images/quizbowl_visual_bonus/grim_up_north_2025_county_flags_page_01.jpg",
+        "answer": "Northumberland",
+        "source": {
+            "platform": "Quizbowl Packet Archive",
+            "url": "https://files.quizbowlpackets.com/3436/pictures-bonus-flags.pdf",
+            "set_title": "2025 GRIM UP NORTH",
+            "packet_title": "County Flags Picture Bonus",
+            "quiz_type": "Visual Bonus",
+            "bonus_number": 19,
+            "part_label": "top_left",
+            "source_page": 1,
+            "reasoning_focus": "flag_identification",
+            "shared_prompt": "Identify the county represented by each pictured flag."
+        }
+    },
+    {
+        "id": 135,
+        "question": "Which county's flag is shown in the top-right position?",
+        "quiz_title": "County Flags Picture Bonus",
+        "media_url": "dataset/images/quizbowl_visual_bonus/grim_up_north_2025_county_flags_page_01.jpg",
+        "answer": "Yorkshire",
+        "source": {
+            "platform": "Quizbowl Packet Archive",
+            "url": "https://files.quizbowlpackets.com/3436/pictures-bonus-flags.pdf",
+            "set_title": "2025 GRIM UP NORTH",
+            "packet_title": "County Flags Picture Bonus",
+            "quiz_type": "Visual Bonus",
+            "bonus_number": 19,
+            "part_label": "top_right",
+            "source_page": 1,
+            "reasoning_focus": "flag_identification",
+            "shared_prompt": "Identify the county represented by each pictured flag."
+        }
+    },
+    {
+        "id": 136,
+        "question": "Which county's flag is shown in the middle-left position?",
+        "quiz_title": "County Flags Picture Bonus",
+        "media_url": "dataset/images/quizbowl_visual_bonus/grim_up_north_2025_county_flags_page_01.jpg",
+        "answer": "Cheshire",
+        "source": {
+            "platform": "Quizbowl Packet Archive",
+            "url": "https://files.quizbowlpackets.com/3436/pictures-bonus-flags.pdf",
+            "set_title": "2025 GRIM UP NORTH",
+            "packet_title": "County Flags Picture Bonus",
+            "quiz_type": "Visual Bonus",
+            "bonus_number": 19,
+            "part_label": "middle_left",
+            "source_page": 1,
+            "reasoning_focus": "flag_identification",
+            "shared_prompt": "Identify the county represented by each pictured flag."
+        }
+    },
+    {
+        "id": 137,
+        "question": "Which county's flag is shown in the middle-right position?",
+        "quiz_title": "County Flags Picture Bonus",
+        "media_url": "dataset/images/quizbowl_visual_bonus/grim_up_north_2025_county_flags_page_01.jpg",
+        "answer": "County Durham",
+        "source": {
+            "platform": "Quizbowl Packet Archive",
+            "url": "https://files.quizbowlpackets.com/3436/pictures-bonus-flags.pdf",
+            "set_title": "2025 GRIM UP NORTH",
+            "packet_title": "County Flags Picture Bonus",
+            "quiz_type": "Visual Bonus",
+            "bonus_number": 19,
+            "part_label": "middle_right",
+            "source_page": 1,
+            "reasoning_focus": "flag_identification",
+            "shared_prompt": "Identify the county represented by each pictured flag."
+        }
+    },
+    {
+        "id": 138,
+        "question": "Which county's flag is shown in the bottom-left position?",
+        "quiz_title": "County Flags Picture Bonus",
+        "media_url": "dataset/images/quizbowl_visual_bonus/grim_up_north_2025_county_flags_page_01.jpg",
+        "answer": "Cleveland",
+        "source": {
+            "platform": "Quizbowl Packet Archive",
+            "url": "https://files.quizbowlpackets.com/3436/pictures-bonus-flags.pdf",
+            "set_title": "2025 GRIM UP NORTH",
+            "packet_title": "County Flags Picture Bonus",
+            "quiz_type": "Visual Bonus",
+            "bonus_number": 19,
+            "part_label": "bottom_left",
+            "source_page": 1,
+            "reasoning_focus": "flag_identification",
+            "shared_prompt": "Identify the county represented by each pictured flag."
+        }
+    },
+    {
+        "id": 139,
+        "question": "Which county's flag is shown in the bottom-right position?",
+        "quiz_title": "County Flags Picture Bonus",
+        "media_url": "dataset/images/quizbowl_visual_bonus/grim_up_north_2025_county_flags_page_01.jpg",
+        "answer": "Merseyside",
+        "source": {
+            "platform": "Quizbowl Packet Archive",
+            "url": "https://files.quizbowlpackets.com/3436/pictures-bonus-flags.pdf",
+            "set_title": "2025 GRIM UP NORTH",
+            "packet_title": "County Flags Picture Bonus",
+            "quiz_type": "Visual Bonus",
+            "bonus_number": 19,
+            "part_label": "bottom_right",
+            "source_page": 1,
+            "reasoning_focus": "flag_identification",
+            "shared_prompt": "Identify the county represented by each pictured flag."
+        }
     }
 ]
